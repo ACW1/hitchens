@@ -9,11 +9,12 @@ layout: default
 {% else %}
   <header class="site-masthead">
     {% include menu.html %}
-    {% if site.title %}
+    <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
+    <!-- {% if site.title %}
       <h1>
         {{ site.title }}
       </h1>
-    {% endif %}
+    {% endif %} -->
     {% if site.title %}
       <h2>
         {{ site.description }}
