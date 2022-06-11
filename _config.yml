@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 slogan: 'Waar ACW naar dingen kijkt.'  
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://acw1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/favicon-32x32.png
+icon: /assets/images/favicon2-32x32.png
 logo: /assets/images/tuur-logo3.png
 twitter_username: patdryburgh
 github_username:  patdryburgh
