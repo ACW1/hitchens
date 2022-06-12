@@ -7,11 +7,13 @@ layout: default
 {% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include back-link.html %}
 {% else %}
+<div id="trunk">
+
   <header class="site-masthead">
     {% include menu.html %}
     <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
     <map name="workmap">
-      <area shape="circle" coords="340, 10, 20" href="{{ site.url }}{{ site.baseurl }}/about.html" title="Menu" alt="alttext">
+      <area id="areah" shape="circle" coords="340, 10, 20" href="" onclick="toggleNav()" title="Menu" alt="alttext">
     </map>
     {% if site.title %}
       <h2>
@@ -65,7 +67,7 @@ layout: default
       {% endfor %}
     </ul>
   
-  {% endif %}
-    
+  {% endif %}    
 
 </main>
+</div>
