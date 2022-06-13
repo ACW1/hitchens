@@ -3,14 +3,15 @@ layout: default
 ---
 
 {% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include menu.html %}
+  <!-- {% include menu.html %} -->
+  {% include back-link.html %}
 {% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include back-link.html %}
 {% else %}
 <div id="trunk">
 
   <header class="site-masthead">
-    {% include menu.html %}
+    <!-- {% include menu.html %} -->
     <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
     <map name="workmap">
       <!-- <area id="areah" shape="circle" coords="340, 10, 20" href="" onclick="toggleNav()" title="Menu" alt="alttext"> -->
