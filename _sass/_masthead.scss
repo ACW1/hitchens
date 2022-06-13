@@ -16,9 +16,12 @@
 
 .site-masthead h2 {
   color: $muted-text-color;
+  font-family: proxima-nova, sans-serif;
+  font-weight: 500;
   font-size: 1.25em;
   margin: 0;
-  padding: 0 2rem;
+  /* padding: 0 2rem; */
+  text-transform: uppercase;
   @media (min-width: $on-tablet) {
     font-size: 1.5em;
   }
@@ -27,4 +30,36 @@
 #logo {
   /* max-width: 350px; */
   max-width: 310px;
+  margin-bottom: 1em;
+}
+
+#asterisk {
+  font-family: Didot;
+  font-weight: bold;
+  font-size: 2em;
+  color: beige;
+}
+
+#asterisk:hover, #asterisk:active {
+  color: #ea505a;
+}
+
+.relative {
+  position: relative;
+  margin: auto;
+  width: 310px;
+}
+
+a#areah:link {
+  text-decoration: none;
+}
+
+a#areah:focus {
+  outline: none;
+}
+
+a#areah {
+  position: absolute;
+  top: -16px;
+  right: -2px;
 }
