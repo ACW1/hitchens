@@ -1,7 +1,7 @@
 body {
   background: $brand-color;
   color: $text-color;
-  font-family: $font-family;
+  font-family: EB Garamond;
   font-size: 1.3125em;
   line-height: 1.5;
 }
@@ -119,7 +119,7 @@ figcaption {
 }
 
 .content-title {
-  font-family: Verdana !important;
+  font-family: $font-family !important;
   font-size: 2em;
   margin-bottom: 2em;
   text-align: center;
