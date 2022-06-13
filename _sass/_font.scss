@@ -1,6 +1,5 @@
 /* eb-garamond-regular - latin */
 @font-face {
-
   font-family: eb-garamond,serif;
   font-weight: 400;
   font-style: normal;
@@ -37,7 +36,7 @@
   font-weight: 400;
   font-display: auto;
   src: url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.eot'); /* IE9 Compat Modes */
-       local('EB Garamond Regular'), local('EBGaramond-Regular'),
+  src: local('EB Garamond Regular'), local('EBGaramond-Regular'),
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.woff') format('woff'), /* Modern Browsers */
