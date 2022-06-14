@@ -196,10 +196,17 @@ figcaption {
   color: $muted-highlight;
 }
 
+.subtitle {
+  font-style: italic;
+  font-size: x-large;
+  font-weight: 500;
+  color: $muted-text-color !important;
+  text-align: center;
+}
+
 .red-pag {
   max-width: 24em;
   margin: auto;
   padding: 4em 1em 0 1em;
 }
-
 

@@ -5,6 +5,11 @@
           <h1 class="content-title post-link__title">      
             {{ post.title }}
           </h1>
+          {% if post.subtitle %}
+            <p class="subtitle">
+              {{ post.subtitle }}
+            </p>
+          {% endif %}
       {% else %}
         {% include post-excerpt.html %}
       {% endunless %}

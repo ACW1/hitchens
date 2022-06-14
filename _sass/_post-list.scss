@@ -40,13 +40,18 @@
   /* margin-right: 4em; */
   @media (min-width: $on-tablet) {
     padding: .25em 0;
+    max-width: 18em;
+  }
+   @media (max-width: $on-tablet) {
+      /* max-width: 320px; */
+      max-width: 320px;
+      margin: 0 auto;
   }
   h1 {
   /* font-size: 1em; */
     color: $head-line-color;
     margin-bottom: 0;
     margin-top: 0;
-    max-width: 14em;
     line-height: 1.25em;
   }
 }
@@ -82,4 +87,4 @@
       opacity: 1;
     }
   }
-}
+  }
