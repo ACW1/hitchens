@@ -54,11 +54,12 @@ strong {
 
 a {
   color: $text-color;
+  text-decoration: none;
 }
 
-a:focus {
+/* a:focus {
   outline: 1px dashed $text-color;
-}
+} */
 
 blockquote {
   margin: 2em auto;
@@ -107,10 +108,10 @@ figcaption {
   opacity: .7;
 }
 
-.divided::after {
+/*.divided::after {
   content: "";
   @include divider;
-}
+}*/
 
 .home {
   max-width: 24em;
@@ -119,9 +120,19 @@ figcaption {
 }
 
 .content-title {
-  font-size: 2em;
   margin-bottom: 2em;
   text-align: center;
+  color: $muted-text-color;
+  font-family: proxima-nova, sans-serif;
+  font-weight: 500;
+  font-size: 1.25em;
+  margin: 0;
+  /* padding: 0 2rem; */
+  text-transform: uppercase;
+  text-decoration: underline $head-line-color;
+  @media (min-width: $on-tablet) {
+    font-size: 1.5em;  
+  }
 }
 
 .post-date {
@@ -159,3 +170,34 @@ figcaption {
     margin-top: 0;
   }
 }
+
+.undertext {
+  position: relative;
+  color: $muted-text-color;
+  font-weight: 500;
+  font-size: x-large;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.undertext p {
+  margin: 0;
+  width: max-content;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.undertext:hover {
+  color: $muted-highlight;
+}
+
+.red-pag {
+  max-width: 24em;
+  margin: auto;
+  padding: 4em 1em 0 1em;
+}
+
+
