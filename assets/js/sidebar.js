@@ -4,9 +4,12 @@
 //   document.getElementById("main").style.marginLeft = "250px";
 // } 
 
-document.getElementById("areah").addEventListener("click", function(event){
+var areah = document.getElementById("areah");
+if (areah !== null) {
+  areah.addEventListener("click", function(event){
   event.preventDefault();
 });
+}
 
 
 // Haal trunk hieronder weg als sidebar trunk moet overlappen ipv wegduwen.

@@ -27,7 +27,8 @@
   @media (min-width: $on-tablet) {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    justify-content: center;
     .post-date {
       margin-left: auto;
     }
@@ -36,14 +37,17 @@
 
 .post-link__heading {
   display: block;
-  margin-right: 4em;
+  /* margin-right: 4em; */
   @media (min-width: $on-tablet) {
     padding: .25em 0;
   }
   h1 {
-    font-size: 1em;
+  /* font-size: 1em; */
+    color: $head-line-color;
     margin-bottom: 0;
     margin-top: 0;
+    max-width: 14em;
+    line-height: 1.25em;
   }
 }
 

@@ -2,7 +2,7 @@
   <a href="{{ post.url | absolute_url }}" class="post-link">
     <div class="post-link__heading">
       {% unless post.title == "" %}
-          <h1 class="post-link__title">      
+          <h1 class="content-title post-link__title">      
             {{ post.title }}
           </h1>
       {% else %}
@@ -12,8 +12,8 @@
         {% include post-excerpt.html %}
       {% endif %}
     </div>
-    <span class="post-date">
+    <!-- <span class="post-date">
       {{ post.date | date: "%b %-d, '%y" }}
-    </span>
+    </span> -->
   </a>
 </li>
