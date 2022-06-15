@@ -144,6 +144,10 @@ figcaption {
   }
 }
 
+h1.content-title:hover {
+  color: $light-head-line-color;
+  text-decoration: underline $light-head-line-color;
+}  
 .post-date {
   color: $muted-text-color;
   display: block;

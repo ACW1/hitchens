@@ -1,12 +1,12 @@
 .post-list {
   margin: 1em 0;
   list-style: none;
-  &:hover,
+  /* &:hover,
   &:focus-within {
     .post-link {
       opacity: .6;
     }
-  }
+  } */
 }
 
 .post-list li {
