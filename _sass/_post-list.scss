@@ -39,7 +39,7 @@
   display: block;
   /* margin-right: 4em; */
   @media (min-width: $on-tablet) {
-    padding: .25em 0;
+    /* padding: .25em 0; */
     max-width: 18em;
   }
    @media (max-width: $on-tablet) {
@@ -50,7 +50,7 @@
   h1 {
   /* font-size: 1em; */
     color: $head-line-color;
-    margin-bottom: 0;
+    margin-bottom: -6px;
     margin-top: 0;
     line-height: 1.25em;
   }
