@@ -31,7 +31,7 @@
   /* max-width: 350px; */
   max-width: 310px;
   margin-top: 1.5em;
-  margin-bottom: 1em;
+  margin-bottom: 0.75em;
 }
 
 #asterisk {
@@ -63,4 +63,34 @@ a#areah {
   position: absolute;
   top: -16px;
   right: -2px;
+}
+
+.undertext {
+  position: relative;
+  color: $muted-text-color;
+  font-weight: 500;
+  font-size: x-large;
+  margin-top: 12px;
+  text-align: center;
+}
+
+.undertext p {
+  font-style: italic;
+  margin: 0;
+  width: max-content;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.undertext:hover {
+  color: $muted-highlight;
+}
+
+.red-pag {
+  max-width: 24em;
+  margin: auto;
+  padding: 6em 1em 0 1em;
 }

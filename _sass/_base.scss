@@ -172,48 +172,4 @@ figcaption {
   }
 }
 
-.undertext {
-  position: relative;
-  color: $muted-text-color;
-  font-weight: 500;
-  font-size: x-large;
-  margin-top: 12px;
-  text-align: center;
-}
-
-.undertext p {
-  font-style: italic;
-  margin: 0;
-  width: max-content;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
-
-.undertext:hover {
-  color: $muted-highlight;
-}
-
-.subtitle {
-  font-style: italic;
-  font-size: x-large;
-  font-weight: 500;
-  color: $muted-text-color !important;
-  text-align: center;
-  max-width: 16em;
-  margin: 0 auto;
-  @media (max-width: $on-tablet) {
-      /* max-width: 320px; */
-      max-width: 320px;
-      margin: 0 auto;
-  }
-}
-
-.red-pag {
-  max-width: 24em;
-  margin: auto;
-  padding: 6em 1em 0 1em;
-}
 

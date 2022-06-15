@@ -50,7 +50,7 @@
   h1 {
   /* font-size: 1em; */
     color: $head-line-color;
-    margin-bottom: -6px;
+    margin-bottom: -3px;
     margin-top: 0;
     line-height: 1.25em;
   }
@@ -88,3 +88,19 @@
     }
   }
   }
+
+.subtitle {
+  font-style: italic;
+  font-size: x-large;
+  font-weight: 500;
+  color: $muted-text-color !important;
+  text-align: center;
+  max-width: 16em;
+  margin: 0 auto;
+  line-height: 1.25em;
+  @media (max-width: $on-tablet) {
+      /* max-width: 320px; */
+      max-width: 320px;
+      margin: 0 auto;
+  }
+}
