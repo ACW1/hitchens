@@ -59,6 +59,12 @@
 #trunk {
   transition: margin-right 0.8s; /* If you want a transition effect */
   padding: 20px;
+  margin-right: 0px;
+  background-color: beige;
+  @media (min-width: $on-tablet) {
+  width: 40vw;
+  margin-left: 10vw;
+  }
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */

@@ -22,6 +22,7 @@ baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://acw1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/favicon3-32x32.png
 logo: /assets/images/tuur-logo5.png
+backimg: /assets/images/duiker.jpg
 twitter_username: patdryburgh
 github_username:  patdryburgh
 

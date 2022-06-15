@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+    <title>{{ site.title }}</title>
 
     {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
 
@@ -24,7 +24,13 @@
     {%- endif -%}
 
   </head>
+
+  {% if paginator.page == 1 %}
+  <body style="background-image: url('{{ site.url }}{{ site.baseurl }}{{ site.backimg }}'); background-repeat: no-repeat;
+  background-size: auto 100%;">
+  {% else %}
   <body>
+  {% endif %}
 
     {% include sidebar.html %}
     
@@ -54,6 +60,7 @@
       </aside>
     {% endunless %}
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/sidebar.js"></script>
-
+    <!-- Onderstaande div sluit de trunk-div in home.html -->
+    </div>
   </body>
 </html>
