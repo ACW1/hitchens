@@ -8,7 +8,8 @@ layout: default
 {% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
   {% include back-link.html %}
 {% else %}
-<div id="trunk">
+
+<main id="band" class="home" id="main" role="main" aria-label="Content">
 
   <header class="site-masthead">
     <!-- {% include menu.html %} -->
@@ -48,7 +49,7 @@ layout: default
     {% endif %}
   </div> 
 
-  <main class="home" id="main" role="main" aria-label="Content">
+  
 
   {% if site.paginate and site.paginate_path %}
     
@@ -86,4 +87,3 @@ layout: default
   
   {% endif %}    
 
-</main>

@@ -48,7 +48,6 @@
       margin: 0 auto;
   }
   h1 {
-  /* font-size: 1em; */
     color: $head-line-color;
     margin-bottom: -3px;
     margin-top: 0;
@@ -98,6 +97,7 @@
   max-width: 16em;
   margin: 0 auto;
   line-height: 1.25em;
+  padding: 0 4px;
   @media (max-width: $on-tablet) {
       /* max-width: 320px; */
       max-width: 320px;
