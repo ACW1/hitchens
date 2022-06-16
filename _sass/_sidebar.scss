@@ -1,42 +1,47 @@
  /* The sidebar menu */
 .sidebar {
   font-family: $sidebar-font;
+  font-size: 15px;
   font-weight: 300;
   font-style: normal;
   letter-spacing: 0.371em;
-  height: 100%; /* 100% Full-height */
+  height: fit-content;
+  /* height: 100%; 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
   z-index: 1; /* Stay on top */
   top: 0;
   right: 0;
-  background-color: $sidebar-color; 
+  /* background-color: $muted-text-color; */
+  background-color: rgba(56,73,79,0.7); 
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 60px; /* Place content 60px from the top */
+  padding-top: 20px; /* Place content 20px from the top */
+  padding-bottom: 15px;
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
   text-transform: uppercase;
 }
 
 /* The sidebar links */
 .sidebar a {
-  padding: 8px 8px 8px 32px;
+  padding: 0 8px 8px 8px;
   text-decoration: none;
-  font-size: 25px;
-  color: #818181;
+  font-size: $band-capital;
+  /* color: #818181; */
+  color: $brand-color;
   display: block;
   transition: 0.3s;
 }
 
 /* When you mouse over the navigation links, change their color */
 .sidebar a:hover {
-  color: #f1f1f1;
+  color: $asterisk-color;
 }
 
 /* Position and style the close button (top right corner) */
 .sidebar .closebtn {
   position: absolute;
   top: 0;
-  right: 25px;
+  right: 0; /* was 25px */
   font-size: 36px;
   margin-left: 50px;
 }

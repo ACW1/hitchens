@@ -60,10 +60,11 @@
 }
 
 .post-pagination {
-  margin-top: 4rem;
+  font-family: proxima-nova;
   font-size: .75em;
+  margin-top: 4rem;
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
   justify-content: space-between;
   text-align: center;
   > * {

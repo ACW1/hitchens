@@ -16,8 +16,8 @@ if (areah !== null) {
 function toggleNav() {
     var sidenav = document.getElementById("mySidebar"),
     band = document.getElementById("band");
-    sidenav.style.width = sidenav.style.width === "250px" ? '0' : '250px';
-    band.style.marginRight = band.style.marginRight === "250px" ? '0' :  '250px';
+    sidenav.style.width = sidenav.style.width === "160px" ? '0' : '160px';
+    // band.style.marginRight = band.style.marginRight === "250px" ? '0' :  '250px';
 }
 
 // Set the width of the sidebar to 0 and the left margin of the page content to 0 
