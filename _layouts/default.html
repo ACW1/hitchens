@@ -26,8 +26,7 @@
   </head>
 
   {% if paginator.page == 1 %}
-  <body style="background-image: url('{{ site.url }}{{ site.baseurl }}{{ site.backimg }}'); background-repeat: no-repeat;
-  background-size: auto 100%;">
+  <body {% include backimg.html %}>
   {% else %}
   <body>
   {% endif %}

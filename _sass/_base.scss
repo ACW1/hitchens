@@ -187,7 +187,7 @@ h1.content-title:hover {
   transition: margin-right 0.8s; /* If you want a transition effect */
   padding: 20px;
   margin-right: 0px;
-  background-color: beige;
+  background-color: $brand-color;
   @media (min-width: $on-tablet) {
   width: 320px;
   margin-left: 5vw;

@@ -47,11 +47,10 @@
   font-family: Didot;
   font-weight: bold;
   font-size: 2em;
-  color: $brand-color;
-}
-
-#asterisk:hover, #asterisk:active {
+  color: beige;
+  &:hover, &:active {
   color: $head-line-color;
+  }
 }
 
 .relative {
