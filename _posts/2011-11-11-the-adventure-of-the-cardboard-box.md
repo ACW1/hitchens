@@ -274,7 +274,7 @@ Sherlock Holmes was not disappointed in his expectations. Two days later he rece
 
 “What is the meaning of it, Watson?[^2]” said Holmes solemnly as he laid down the paper. “What object is served by this circle of misery and violence and fear? It must tend to some end, or else our universe is ruled by chance, which is unthinkable. But what end? There is the great standing perennial problem to which human reason is as far from an answer as ever.”
 
-[Text taken from here](http://sherlock-holm.es/stories/html/card.html)
+[Text taken from here](https://sherlock-holm.es/stories/html/card.html)
 
 [^1]: This is some text for a footnote.
 [^2]: Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla.

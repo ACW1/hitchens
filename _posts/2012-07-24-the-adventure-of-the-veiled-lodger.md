@@ -195,4 +195,4 @@ Two days later, when I called upon my friend, he pointed with some pride to a sm
 
 “Exactly. It came by post. ‘I send you my temptation. I will follow your advice.’ That was the message. I think, Watson, we can guess the name of the brave woman who sent it.”
 
-[Text taken from here](http://sherlock-holm.es/stories/html/veil.html)
+[Text taken from here](https://sherlock-holm.es/stories/html/veil.html)
