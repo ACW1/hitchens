@@ -25,6 +25,10 @@ logo: /assets/images/tuur-logo5.png
 backimg: /assets/images/duiker.jpg
 twitter_username: patdryburgh
 github_username:  patdryburgh
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+
 
 # Build settings
 markdown: kramdown
