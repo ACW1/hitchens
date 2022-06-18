@@ -1,6 +1,6 @@
 /* eb-garamond-regular - latin */
 @font-face {
-  font-family: 'EB Garamond', serif;
+  /* font-family: 'EB Garamond' serif; */
 
   font-family: 'EB Garamond';
   font-style: normal;
@@ -14,49 +14,49 @@
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
 
-  font-family: proxima-nova, sans-serif;
+  font-family: proxima-nova sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-family: proxima-nova, sans-serif;
+  font-family: proxima-nova sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-family: proxima-nova, sans-serif;
+  font-family: proxima-nova sans-serif;
   font-weight: 700;
   font-style: italic;
-  font-family: proxima-nova, sans-serif;
+  font-family: proxima-nova sans-serif;
   font-weight: 400;
   font-style: italic;   
-  font-family: proxima-nova-extra-condensed, sans-serif;
+  font-family: proxima-nova-extra-condensed sans-serif;
   font-weight: 700;
   font-style: italic;
-  font-family: proxima-nova-extra-condensed, sans-serif;
+  font-family: proxima-nova-extra-condensed sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-family: proxima-nova-extra-condensed, sans-serif;
+  font-family: proxima-nova-extra-condensed sans-serif;
   font-weight: 400;
   font-style: italic;
-  font-family: proxima-nova-extra-condensed, sans-serif;
+  font-family: proxima-nova-extra-condensed sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-family: proxima-nova-condensed, sans-serif;
+  font-family: proxima-nova-condensed sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-family: proxima-nova-condensed, sans-serif;
+  font-family: proxima-nova-condensed sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-family: proxima-nova-condensed, sans-serif;
+  font-family: proxima-nova-condensed sans-serif;
   font-weight: 400;
   font-style: italic;
-  font-family: proxima-nova-condensed, sans-serif;
+  font-family: proxima-nova-condensed sans-serif;
   font-weight: 700;
   font-style: italic;  
-  font-family: proxima-nova, sans-serif;
+  font-family: proxima-nova sans-serif;
   font-weight: 900;
   font-style: normal;
-  font-family: proxima-nova, sans-serif;
+  font-family: proxima-nova sans-serif;
   font-weight: 600;
   font-style: normal;
-  font-family: proxima-nova, sans-serif;
+  font-family: proxima-nova sans-serif;
   font-weight: 500;
   font-style: normal;
 }
