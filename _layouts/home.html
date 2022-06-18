@@ -63,13 +63,13 @@ layout: default
 
       <div class="post-pagination">
         {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">Ouder&nbsp;&rang;</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn"><i class="fa-solid fa-chevron-right"></i></a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}
         <span class="pagination-number">{{ paginator.page }} van {{ paginator.total_pages }}</span>
         {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">&lang;&nbsp;Nieuwer</a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn"><i class="fa-solid fa-chevron-left"></i></a>
         {% else %}
           <span>&nbsp;</span>
         {% endif %}

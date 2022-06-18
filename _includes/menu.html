@@ -29,6 +29,10 @@
           <a href="{{ item.url }}">
             {{ item.title }}
           </a>
+        {% elsif item.title == 'Zoek' %}
+          <a href="#">
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </a>
         {% else %}
           <a href="{{ item.url | prepend: site.baseurl }}">
             {{ item.title }}
