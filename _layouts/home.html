@@ -4,9 +4,9 @@ layout: default
 
 {% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
   <!-- {% include menu.html %} -->
-  <!-- {% include back-link.html %} -->
+  {% include back-link.html %}
 {% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
-  <!-- {% include back-link.html %} -->
+  {% include back-link.html %}
 {% else %}
 
 <main id="band" class="home" id="main" role="main" aria-label="Content">
@@ -32,10 +32,12 @@ layout: default
   </header>
 {% endif %}
 
-  {% if site.paginate and site.paginate_path and paginator.page > 1 %}
-    {% include page.html %}
-  {% else %}
-    <div class="red-pag">
+  <div class="red-pag">
+    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
+    <h2 class="content-title divided">
+      Page {{ paginator.page }}
+    </h2>
+    {% else %}
       <h2 class="content-title divided">
         REDACTIE
       </h2>
@@ -44,8 +46,10 @@ layout: default
           <p>Arthur van Kruining</p>
         </div>
       </a>
-    </div> 
-  {% endif %}
+    {% endif %}
+  </div> 
+
+  
 
   {% if site.paginate and site.paginate_path %}
     
