@@ -29,14 +29,12 @@
 
   </head>
 
-  {% if paginator.page == 1 %}
   <body {% include backimg.html %}>
-  {% else %}
-  <body>
-  {% endif %}
 
-    {% include sidebar.html %}
-    
+  {% include sidebar.html %}
+  
+  {% if page.layout == 'home' %}
+
    <!--  {% if page.layout == 'home' %}
       <a href="#main" class="skip-navigation">
         Skip to list of posts
@@ -67,3 +65,4 @@
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/sidebar.js"></script>  
   </body>
 </html>
+{% endif %}
