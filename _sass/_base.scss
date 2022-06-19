@@ -1,3 +1,9 @@
+
+html {
+  /* only disable pull-to-refresh but allow swipe navigations */
+  overscroll-behavior-y: none;
+}
+
 body {
   background: $brand-color;
   color: $text-color;
@@ -200,4 +206,14 @@ h1.content-title:hover {
   .sidebar a {font-size: 18px;}
 } 
 
+#backimg-cap {
+    font-family: proxima-nova;
+    font-size: 0.5em;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 2px 6px;
+    color: $asterisk-color;
+    background-color: #2e2d2d;
+  }
 
