@@ -2,13 +2,6 @@
 layout: default
 ---
 
-{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
-  <!-- {% include menu.html %} -->
-  {% include back-link.html %}
-{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include back-link.html %}
-{% else %}
-
 <main id="band" class="home" id="main" role="main" aria-label="Content">
 
   <header class="site-masthead">
@@ -17,7 +10,13 @@ layout: default
       <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
         <p id="asterisk">*</p>
       </a>
-      <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
+      {% if site.paginate and site.paginate_path and paginator.page == 1 %}
+        <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
+      {% else %}
+        <a href="{{ '/' | prepend: site.baseurl }}">
+          <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
+        </a>
+      {% endif %}
     </div>
     <!-- image map kan op termijn weg -->
     <map name="workmap">
@@ -30,7 +29,6 @@ layout: default
       </h2>
     {% endif %}
   </header>
-{% endif %}
 
   <div class="red-pag">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
@@ -48,8 +46,6 @@ layout: default
       </a>
     {% endif %}
   </div> 
-
-  
 
   {% if site.paginate and site.paginate_path %}
     
