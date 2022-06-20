@@ -33,10 +33,10 @@ layout: default
   <div class="red-pag">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
     <h2 class="content-title divided">
-      Page {{ paginator.page }}
+      <!-- Page {{ paginator.page }} -->
     </h2>
     {% else %}
-      <h2 class="content-title divided">
+      <h2 class="content-title">
         REDACTIE
       </h2>
       <a href="{{ site.url }}{{ '/about' | prepend: site.baseurl }}">

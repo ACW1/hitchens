@@ -114,10 +114,10 @@ figcaption {
   opacity: .7;
 }
 
-/*.divided::after {
+.divided::after {
   content: "";
   @include divider;
-}*/
+}
 
 /* .home {
   max-width: 24em;
