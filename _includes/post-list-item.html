@@ -12,9 +12,6 @@
         {% include post-excerpt.html %}
       {% endif %}
     </div>
-    <!-- <span class="post-date">
-      {{ post.date | date: "%b %-d, '%y" }}
-    </span> -->
   </a>
   
   {% if post.subtitle %}
@@ -22,4 +19,7 @@
       {{ post.subtitle }}
     </p>
   {% endif %}
+  <!-- <p class="post-date">
+    {{ post.date | date: "%d.%m.%Y" }}
+  </p> -->
 </li>

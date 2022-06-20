@@ -154,11 +154,14 @@ h1.content-title:hover {
   text-decoration: underline $light-head-line-color;
 }  
 .post-date {
-  color: $muted-text-color;
+  font-family: $sidebar-font;
+  color: $muted-highlight;
   display: block;
-  font-size: .825em;
+  font-size: .7em;
   white-space: nowrap;
-  text-transform: uppercase;
+  text-align: right;
+  /* text-transform: uppercase; */
+  margin-top: -4px;
   .post-link & {
     padding: .5em 0;
   }

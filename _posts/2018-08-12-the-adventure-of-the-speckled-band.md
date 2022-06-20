@@ -3,6 +3,8 @@ title: The Adventure of the Speckled Band
 subtitle: On glancing over my notes of the seventy odd cases in which I have during the last eight years studied the methods of my friend Sherlock Holmes, I find many tragic, some comic, a large number merely strange, but none commonplace...
 author: Arthur Conan Doyle
 category: literature
+backgrim: speckled.jpg
+caption: De Gespikkelde Band
 layout: post
 ---
 
