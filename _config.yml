@@ -16,7 +16,7 @@
 title: TUUR
 email: hello@patdryburgh.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Kijkt. Vraagt. Schrijft.
+  Kijkt  Vraagt  Schrijft
 slogan: 'Waar ACW naar dingen kijkt.'  
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://acw1.github.io" # the base hostname & protocol for your site, e.g. https://example.com

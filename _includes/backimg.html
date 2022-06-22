@@ -8,12 +8,23 @@
     <!-- <p id="band"> {{ page | minus:1 | times:pagmin | plus:page }} {{ site.posts[toppost].title }}</p> -->
     {% if site.posts[toppost].backgrim and site.posts[toppost].caption %}
       <body style="background-image: 
+        {% if site.posts[toppost].backgrim contains 'http' %}
+        url('{{ site.posts[toppost].backgrim }}');
+        {% else %}
         url('{{ site.url }}{{ site.baseurl }}/assets/images/{{ site.posts[toppost].backgrim }}');
+        {% endif %}
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;
         background-size: cover;">
       <p id="backimg-cap">{{ site.posts[toppost].caption}}</p>
+
+      {% if site.posts[toppost].bandkleur %}
+        <main id="band" class="home" style="background-color: {{ site.posts[toppost].bandkleur }};" id="main" role="main" aria-label="Content">
+      {% else %}
+        <main id="band" class="home" id="main" role="main" aria-label="Content">
+      {% endif %}  
+
     {% else %}
       <body style="background-image: 
         url('{{ site.url }}{{ site.baseurl }}{{ site.backimg }}'); 

@@ -5,6 +5,7 @@ layout: post
 author: "Arthur Conan Doyle"
 backgrim: speckled.jpg
 caption: Raar geval
+bandkleur: darkkhaki
 categories: literature
 ---
 

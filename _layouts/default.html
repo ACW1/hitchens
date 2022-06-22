@@ -29,68 +29,8 @@
 
   </head>
 
-  {% include backimg.html %}
-
+    {% include backimg.html %}
     
-
-<!-- {% assign pagfloat = site.paginate | times:1.0 %}
-{% assign numofpag = site.posts.size | divided_by:pagfloat | ceil %}
-{% assign pagplus = site.paginate | plus:1 %}
-{% for i in (1..numofpag) %}
-  {% assign k = i | plus:1 %}
-  {% for post in site.posts %}
-    {% if forloop.index == 1 and i == 1 and paginator.page %}
-     
-    {% elsif forloop.index == pagplus and paginator.page %}      
-      {% assign pagplus = site.paginate | plus:pagplus %} 
-    {% endif %}
-  {% endfor %}   -->
-<!-- {% endfor %}   -->
-
-
-  <!-- {% assign i = 0 %}
-  {% for post in site.posts %}
-    {% assign i = 1 | plus:1 %}
-    {% if forloop.index == 1 and paginator.page == 1 %}
-      {% if post.backgrim and post.caption %}
-        <body style="background-image: 
-          url('{{ site.url }}{{ site.baseurl }}/assets/images/{{ post.backgrim }}');
-          background-repeat: no-repeat;
-          background-attachment: fixed;
-          background-position: center;
-          background-size: cover;">
-        <p id="backimg-cap">{{ post.caption}}</p>   
-      {% else %}
-        <body style="background-image: 
-          url('{{ site.url }}{{ site.baseurl }}{{ site.backimg }}'); 
-          background-repeat: no-repeat;
-          background-attachment: fixed;
-          background-position: center;
-          background-size: cover;">
-        <p id="backimg-cap">Dit is de duiker</p>
-      {% endif %}
-    {% endif %}
-  
-    {% if forloop.index == 7 and paginator.page == 2 %}
-      {% if post.backgrim and post.caption %}
-        <body style="background-image: 
-          url('{{ site.url }}{{ site.baseurl }}/assets/images/{{ post.backgrim }}');
-          background-repeat: no-repeat;
-          background-attachment: fixed;
-          background-position: center;
-          background-size: cover;">
-        <p id="backimg-cap">{{ post.caption}}</p>  
-      {% else %}
-        <body style="background-image: 
-          url('{{ site.url }}{{ site.baseurl }}{{ site.backimg }}'); 
-          background-repeat: no-repeat;
-          background-attachment: fixed;
-          background-position: center;
-          background-size: cover;">
-        <p id="backimg-cap">Dit is de duiker</p>
-      {% endif %}
-    {% endif %}
-  {% endfor %} -->
 
     {% include sidebar.html %}
     
