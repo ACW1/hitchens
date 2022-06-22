@@ -3,6 +3,8 @@ layout: post
 title: "The Adventure of the Cardboard Box"
 subtitle: "In choosing a few typical cases which illustrate the remarkable mental qualities of my friend, Sherlock Holmes..."
 author: "Arthur Conan Doyle"
+backgrim: cardboard.jpg
+caption: Kartonnen doosraadsel
 categories: literature
 ---
 

@@ -1,18 +1,28 @@
-{% if paginator.page %} 
-    {% if paginator.page == 1 %}
-        <body style="background-image: 
-                url('{{ site.url }}{{ site.baseurl }}{{ site.backimg }}'); background-repeat: no-repeat;
-                background-attachment: fixed;
-                background-position: center;
-                background-size: cover;">
-        <p id="backimg-cap">Dit is de duiker</p>
-    {% else %}        
-        <body style="background-image: 
-                url('https://upload.wikimedia.org/wikipedia/commons/7/73/The_Adventure_of_the_Dying_Detective_02.jpg'); 
-                background-repeat: no-repeat;
-                background-attachment: fixed;
-                background-position: center;
-                background-size: cover;">
-        <p id="backimg-cap">The dying detective</p>
-    {% endif %}  
-{% endif %}           
+{% assign pagfloat = site.paginate | times:1.0 %}
+{% assign numofpag = site.posts.size | divided_by:pagfloat | ceil %}
+{% assign pagplus = site.paginate | plus:1 %}
+{% assign pagmin = site.paginate | minus:1 %}
+{% for page in (1..numofpag) %}
+  {% if page == paginator.page %}
+    {% assign toppost = page | minus:1 | times:pagmin | plus:page | minus:1 %}
+    <!-- <p id="band"> {{ page | minus:1 | times:pagmin | plus:page }} {{ site.posts[toppost].title }}</p> -->
+    {% if site.posts[toppost].backgrim and site.posts[toppost].caption %}
+      <body style="background-image: 
+        url('{{ site.url }}{{ site.baseurl }}/assets/images/{{ site.posts[toppost].backgrim }}');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;">
+      <p id="backimg-cap">{{ site.posts[toppost].caption}}</p>
+    {% else %}
+      <body style="background-image: 
+        url('{{ site.url }}{{ site.baseurl }}{{ site.backimg }}'); 
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;">
+      <p id="backimg-cap">Dit is de duiker</p> 
+    {% endif %}
+  {% endif %}
+{% endfor %}
+

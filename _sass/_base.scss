@@ -129,7 +129,7 @@ figcaption {
   margin-bottom: 2em;
   text-align: center;
   color: $muted-text-color;
-  font-family: proxima-nova, sans-serif;
+  font-family: $sidebar-font;
   font-weight: 500;
   font-size: $band-capital;
   margin: 0;
@@ -210,7 +210,7 @@ h1.content-title:hover {
 } 
 
 #backimg-cap {
-font-family: proxima-nova;
+font-family: $sidebar-font;
     font-size: 0.5em;
     position: fixed;
     bottom: 0;

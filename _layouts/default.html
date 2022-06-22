@@ -29,25 +29,26 @@
 
   </head>
 
-  <!-- {% include backimg.html %} -->
-  <!-- <body {% include backimg.html %}> -->
-    
-    
-   <!--  {% if site.paginate and site.paginate_path and paginator.page > 0 %}
-    {{ paginator.page }}
-    {% endif %} -->
-  
-  <!-- {% for item in site.posts %}
-    {% if forloop.first %}
-      First!
-      {{ forloop.index }}
-    {% else %}
-      Not first
-      {{ forloop.index }}
-    {% endif %}
-  {% endfor %} -->
+  {% include backimg.html %}
 
-  {% assign i = 0 %}
+    
+
+<!-- {% assign pagfloat = site.paginate | times:1.0 %}
+{% assign numofpag = site.posts.size | divided_by:pagfloat | ceil %}
+{% assign pagplus = site.paginate | plus:1 %}
+{% for i in (1..numofpag) %}
+  {% assign k = i | plus:1 %}
+  {% for post in site.posts %}
+    {% if forloop.index == 1 and i == 1 and paginator.page %}
+     
+    {% elsif forloop.index == pagplus and paginator.page %}      
+      {% assign pagplus = site.paginate | plus:pagplus %} 
+    {% endif %}
+  {% endfor %}   -->
+<!-- {% endfor %}   -->
+
+
+  <!-- {% assign i = 0 %}
   {% for post in site.posts %}
     {% assign i = 1 | plus:1 %}
     {% if forloop.index == 1 and paginator.page == 1 %}
@@ -89,7 +90,7 @@
         <p id="backimg-cap">Dit is de duiker</p>
       {% endif %}
     {% endif %}
-  {% endfor %}
+  {% endfor %} -->
 
     {% include sidebar.html %}
     

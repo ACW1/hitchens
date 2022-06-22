@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Zonder titel"
 layout: post
 author: "Pat Dryburgh"
 categories: opinion

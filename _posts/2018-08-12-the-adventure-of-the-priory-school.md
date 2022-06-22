@@ -1,6 +1,8 @@
 ---
 title: The Adventure of the Priory School
 author: Arthur Conan Doyle
+backgrim: priory.jpg
+caption: The Priory in Sorrento	
 category: literature
 layout: post
 ---
