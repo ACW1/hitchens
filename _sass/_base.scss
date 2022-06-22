@@ -150,8 +150,8 @@ figcaption {
 }
 
 h1.content-title:hover {
-  color: $light-head-line-color;
-  text-decoration: underline $light-head-line-color;
+  color: $muted-text-color;
+  text-decoration: underline $muted-text-color;
 }  
 .post-date {
   font-family: $sidebar-font;
@@ -197,6 +197,7 @@ h1.content-title:hover {
   padding: 20px;
   margin-right: 0px;
   background-color: $brand-color;
+  box-shadow: 12px 18px 24px rgba(31, 59, 69, 0.1);
   @media (min-width: $on-tablet) {
   width: 320px;
   margin-left: 5vw;

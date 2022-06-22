@@ -2,12 +2,25 @@
 layout: default
 ---
 
-{% if site.data.menu %}
+<!-- {% if site.data.menu %} -->
   <!-- {% include menu.html %} -->
+  <!-- {% include back-link.html %} -->
+<!-- {% else %}
   {% include back-link.html %}
-{% else %}
-  {% include back-link.html %}
-{% endif %}
+{% endif %} -->
+
+<div class="relative">
+  <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
+    <p id="asterisk">*</p>
+  </a>
+  {% if site.paginate and site.paginate_path and paginator.page == 1 %}
+    <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
+  {% else %}
+    <a href="{{ '/' | prepend: site.baseurl }}">
+      <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
+    </a>
+  {% endif %}
+</div>
 
 <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
