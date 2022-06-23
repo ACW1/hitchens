@@ -2,30 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
     
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <title>{{ site.title }}</title>
-
-    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
-
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
-
-    <link rel="stylesheet" href="https://use.typekit.net/paj7obh.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet"> 
-
-    <link rel="icon" href="{{ site.url }}{{ site.baseurl }}{{ site.icon }}">
-
-    <script src="https://kit.fontawesome.com/c266cab384.js" crossorigin="anonymous"></script>
-
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
-    {%- endif -%}
+    {% include _head.html %}
 
   </head>
 
