@@ -1,4 +1,7 @@
-$brand-color:         	#94bfcf;
+$brand-color:         	#fef0d2;
+$nrf-blauw:				#94bfcf;
+$gallimard-beige: 		#fef0d2;
+$gallimard-rood:		#c20020;
 $highlight:           	lighten($brand-color, 35%);
 $text-color:          	#0b0404;
 $muted-text-color:    	#38494f;
@@ -6,7 +9,7 @@ $muted-highlight:	  	lighten($muted-text-color, 25%);
 $head-line-color:	  	#ea505a;
 $light-head-line-color: lighten($head-line-color, 15%); 
 $sidebar-color:		  	#CFF2FF;
-$asterisk-color:		beige;
+$asterisk-color:		#38494f;
 $font-family:         	"EB Garamond", Garamond, "Times New Roman", serif;
 /* $sidebar-font:        	proxima-nova, sans-serif; */
 $sidebar-font:        	Gill Sans, sans-serif;
@@ -16,3 +19,4 @@ $on-bigphone:         	375px;
 $on-tablet:           	768px;
 $on-laptop:           	960px;
 $on-desktop:          	1200px;
+

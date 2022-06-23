@@ -2,7 +2,7 @@
 .sidebar {
   font-family: $sidebar-font;
   font-size: 15px;
-  font-weight: 300;
+  font-weight: 600;
   font-style: normal;
   letter-spacing: 0.371em;
   height: fit-content;
@@ -15,11 +15,11 @@
   @media (max-width: $on-tablet) {
       left: 0;
   }
-  /* background-color: $muted-text-color; */
-  background-color: rgba(56,73,79,0.7); 
+  background-color: $head-line-color; 
+  /* background-color: rgba(56,73,79,0.7); */
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px; /* Place content 20px from the top */
-  padding-bottom: 15px;
+  padding-top: 10px; /* Place content 20px from the top */
+  padding-bottom: 20px;
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
   text-transform: uppercase;
 }
@@ -30,7 +30,7 @@
   text-decoration: none;
   font-size: $band-capital;
   /* color: #818181; */
-  color: $brand-color;
+  color: beige;
   display: block;
   transition: 0.3s;
 }
@@ -45,7 +45,8 @@
   position: absolute;
   top: 0;
   right: 0; /* was 25px */
-  font-size: 36px;
+  font-size: 32px;
+  color: $light-head-line-color;
   margin-left: 50px;
 }
 
