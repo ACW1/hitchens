@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: portfolio
 title: Projecten
 ---
 
-{% include gallery %}
+<!-- {% include gallery %} -->

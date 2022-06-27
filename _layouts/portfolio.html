@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    
+    {% include _head.html %}
+
+  </head>
+
+  
+  <body style="background-image: 
+    url('{{ site.url }}{{ site.baseurl }}/assets/images/burtonc.jpg'); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;">
+  <p id="backimg-cap">Burton C (detail)</p>
+  <main id="band" class="home" id="main" role="main" aria-label="Content"> 
+
+  {% include sidebar.html %}
+
+  <header class="site-masthead">
+    <!-- {% include menu.html %} -->
+    <div class="relative">
+      <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
+        <p id="asterisk">*</p>
+      </a>
+      <a href="{{ '/' | prepend: site.baseurl }}">
+        <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
+      </a>
+    </div>
+
+    {% if site.title %}
+      <h2>
+        <!-- {{ site.description }} -->
+        zijn projecten
+      </h2>
+    {% endif %}
+  </header>
+
+  <div class="red-pag">
+    <h2 class="content-title divided">
+    </h2>
+  </div> 
+
+  <ul class="post-list">
+    {% for project in site.projects %}
+      <li>
+        <a href="{{ project.url | absolute_url }}" class="post-link">
+          <div class="post-link__heading">
+            <h1 class="content-title post-link__title">      
+              {{ project.title }}
+            </h1>
+          </div>
+        </a>
+        {% if project.subtitle %}
+          <p class="subtitle">
+            {{ project.subtitle }}
+          </p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% unless site.hide_search %}
+    {% include search.html %}
+  {% endunless %}
+
+  {% unless site.hide_credits %}
+    <aside class="site-credits">
+      <p>
+        <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="https://jekyllrb.com">Jekyll</a></small>
+      </p>
+    </aside>
+  {% endunless %}
+    <!-- Onderstaande div sluit de band-div in home.html -->
+    </main>
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/sidebar.js"></script>
+
+    <script type="text/javascript">$(document).ready(function() {
+        $(document).foundation(); });
+    </script>
+  </body>
+</html>

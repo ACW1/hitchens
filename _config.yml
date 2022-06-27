@@ -46,3 +46,7 @@ plugins:
 
 paginate: 6
 paginate_path: "/page/:num/"
+
+collections:
+  projects:
+    output: true
