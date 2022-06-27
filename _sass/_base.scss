@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background: $brand-color;
+  background-color: $brand-color !important;
   color: $text-color;
   font-family: $font-family;
   font-size: 1.3125em;
@@ -69,9 +69,11 @@ a {
 
 blockquote {
   margin: 2em auto;
-  opacity: .8;
+  border-left: 0 !important;
+  opacity: .8 !important;
   > * {
-    padding: 0 3em;
+    color: $text-color !important;
+    padding: 0 2em !important;
   }
 }
 
@@ -80,7 +82,12 @@ blockquote.epigraph {
 }
 
 small {
-  font-size: .75em;
+  font-family: $font-family;
+  font-size: .75em !important;
+}
+
+small a, a:focus, a:hover {
+  color: $text-color !important;
 }
 
 p > cite {
@@ -99,7 +106,7 @@ img {
   display: flex;
   max-width: 100%;
   height: auto;
-  margin: 2em auto;
+  // margin: 2em auto;
 }
 
 figure img {
@@ -107,11 +114,16 @@ figure img {
 }
 
 figcaption {
+  font-family: $font-family;
   font-size: .875em;
   font-style: italic;
   text-align: center;
   margin-bottom: 2em;
   opacity: .7;
+}
+
+figcaption a, p a {
+  color: $text-color;
 }
 
 .divided::after {
@@ -130,7 +142,7 @@ figcaption {
   text-align: center;
   color: $muted-text-color;
   font-family: $sidebar-font;
-  font-weight: 500;
+  font-weight: 600;
   font-size: $band-capital;
   margin: 0;
   /* padding: 0 2rem; */
@@ -199,7 +211,7 @@ h1.content-title:hover {
   background-color: $brand-color;
   box-shadow: 12px 18px 24px rgba(31, 59, 69, 0.1);
   @media (min-width: $on-tablet) {
-  width: 320px;
+  width: 360px;
   margin-left: 5vw;
   }
 }
@@ -217,11 +229,38 @@ font-family: $sidebar-font;
     bottom: 0;
     right: 0;
     padding: 2px 6px;
-    color: antiquewhite;
+    color: white;
     background-color: #2e2d2d;
   
   @media screen and (max-width: $on-tablet) {
     display: none;
   }
 }
+
+p#backimg-cap {
+  margin-bottom: 0;
+}
+
+.featured-image-block-grid-header {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.featured-image-block {
+  margin-bottom: 20px;
+}
+
+.featured-image-block .featured-image-block-title {
+  font-weight: 600;
+  margin-top: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 1em;
+  color: #404040;
+}
+
+.featured-image-block a:hover p {
+  color: #1779ba;
+}
+
 

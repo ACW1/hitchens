@@ -17,9 +17,12 @@
 .site-masthead h2 {
   color: $muted-text-color;
   font-family: $sidebar-font;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 1.25em;
-  margin: 0;
+  line-height: 1.5;
+  letter-spacing: 0.007em;
+  margin-top: 0.6em;
+  margin-bottom: 0;
   /* padding: 0 2rem; */
   text-transform: uppercase;
   @media (min-width: $on-tablet) {
@@ -40,13 +43,15 @@
   /* max-width: 350px; */
   max-width: 310px;
   margin-top: 1.5em;
-  margin-bottom: 0.75em;
+  // margin-bottom: 0.75em;
+  margin-bottom: 0;
 }
 
 #asterisk {
   font-family: Didot;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 2.1em;
+  line-height: 1.7em;
   color: $asterisk-color;
   &:hover, &:active {
   color: $head-line-color;
@@ -69,21 +74,23 @@ a#areah:focus {
 
 a#areah {
   position: absolute;
-  top: -16px;
+  top: 10px;
   right: -2px;
 }
 
 .undertext {
   position: relative;
   color: $muted-text-color;
-  font-weight: 500;
-  font-size: x-large;
+  // font-size: x-large;
   margin-top: 12px;
   text-align: center;
 }
 
 .undertext p {
+  font-family: $font-family;
   font-style: italic;
+  font-size: 1.5rem;
+  font-weight: 600;
   margin: 0;
   width: max-content;
   position: absolute;
