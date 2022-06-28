@@ -21,21 +21,21 @@ gallery:
       caption: L
     - image_url: burtonm2.jpg
       caption: M
-    - image_url: burtonn.jpg
+    - image_url: BURTONN.jpg
       caption: N
     - image_url: BURTONO.jpg
       caption: O
-    - image_url: burtonp.jpg
+    - image_url: BURTONP.jpg
       caption: P
-    - image_url: burtonq.jpg
+    - image_url: BURTONQ.jpg
       caption: Q
-    - image_url: burtonr.jpg
+    - image_url: BURTONR.jpg
       caption: R
-    - image_url: burtons.jpg
+    - image_url: BURTONS.jpg
       caption: S
     - image_url: burtont.jpg
       caption: T
-    - image_url: burtonu.jpg
+    - image_url: BURTONU.jpg
       caption: U  
 ---
 
