@@ -247,20 +247,56 @@ p#backimg-cap {
 }
 
 .featured-image-block {
-  margin-bottom: 20px;
-}
-
-.featured-image-block .featured-image-block-title {
-  font-weight: 600;
-  margin-top: 10px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-size: 1em;
-  color: #404040;
+  margin-bottom: 30px;
 }
 
 .featured-image-block a:hover p {
   color: #1779ba;
 }
+
+// .featured-image-block .featured-image-block-title {
+//   font-weight: 600;
+//   margin-top: 10px;
+//   text-transform: uppercase;
+//   letter-spacing: 1px;
+//   font-size: 1em;
+//   color: #404040;
+// }
+
+* {box-sizing: border-box;}
+
+.container {
+  position: relative;
+  // width: 50%;
+  // max-width: 300px;
+}
+
+.overlay {
+  font-family: gill sans;
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1 !important; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+
 
 
