@@ -23,7 +23,7 @@ gallery:
       caption: M
     - image_url: burtonn.jpg
       caption: N
-    - image_url: burtono.jpg
+    - image_url: BURTONO.jpg
       caption: O
     - image_url: burtonp.jpg
       caption: P
