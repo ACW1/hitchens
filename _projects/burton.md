@@ -2,6 +2,7 @@
 title: Welcome to the Anatomy Table
 subtitle: Een reeks collages geïnspireerd door de index van Robert Burtons 'The Anatomy of Melancholy' (1621).
 layout: page
+slug: burton
 gallery:
     - image_url: burtona.jpg
       caption: A

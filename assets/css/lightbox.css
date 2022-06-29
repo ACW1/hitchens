@@ -98,3 +98,10 @@ transform-origin: 50% 50%;
     height:276px;
     object-fit: cover;
 }
+
+#marber {
+    width: 300px;
+    /*height: 369px;*/
+    object-fit: contain;
+}
+
