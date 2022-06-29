@@ -105,3 +105,8 @@ transform-origin: 50% 50%;
     object-fit: contain;
 }
 
+#omslagen {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+}
