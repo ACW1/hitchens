@@ -1,11 +1,11 @@
 ---
-title: Omslagen
-subtitle: There is the long row of year-books which fill a shelf
+title: Ontwerpen van omslagen
+subtitle: Een greep. De eerste twee heb ik in opdracht gemaakt, de rest voor de lol.
 layout: page
 slug: omslagen
 gallery:
-    - image_url: FantasticAug.jpg
     - image_url: knowing-him.jpg
+    - image_url: fromtheashes3.jpg
     - image_url: burtonk2.jpg
     - image_url: holiness15.jpg
     - image_url: jenseits.jpg
@@ -13,6 +13,7 @@ gallery:
     - image_url: levisionnaire2.jpg
     - image_url: ontheroad3.jpg
     - image_url: platero4.jpg
+    - image_url: FantasticAug.jpg
     - image_url: PMP28.jpg
     - image_url: deepwaters.jpg
     - image_url: Robinsonc.jpg

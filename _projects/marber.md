@@ -1,6 +1,6 @@
 ---
 title: Marber-raster
-subtitle: Stiekem hoop ik dat tenminste één van deze ongeschreven Penguin Crime-titels ooit voor een echte 'Marber' zal worden aangezien. 
+subtitle: De hoop blijft dat tenminste één van deze ongeschreven Penguin Crime-titels ooit voor een echte 'Marber' zal worden aangezien. 
 layout: page
 slug: marber
 gallery:
