@@ -62,6 +62,28 @@
   </div>
 </div> -->
 
+{% if page.slug == 'omslagen' %}
+
+{% assign numincol = page.gallery.size | divided_by:4.0 | ceil %}
+<div class="rij">
+   {% for i in (1..4) %}
+   <div class="kolom">
+      {% for item in page.gallery limit: numincol offset: continue %}
+      {% capture url %}{{ item.image_url }}{% endcapture %}
+      {% assign split_url = url | split: '.' %}
+      {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}   
+      <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.slug }}/{{ item.image_url }}">
+         <img {% if item.caption %}data-caption="{{ item.caption }}"{% endif %} src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.slug }}/{{ thumb_url }}" alt="{{ item.caption }}">
+      </a>
+      {% endfor %}
+   </div>
+   {% endfor %}
+</div>
+
+<script type="text/javascript">$(".rij").parent().css( "max-width", "51rem" );</script>
+
+{% else %}
+
 <div class="featured-image-block-grid">
   <div class="featured-image-block-grid-header small-10 medium-8 large-12 columns text-center">
   </div>  
@@ -83,4 +105,6 @@
 </div>
 
 <script type="text/javascript">$(".featured-image-block-grid").parent().css( "max-width", "51rem" );</script>
+
+{% endif %}
 

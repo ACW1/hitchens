@@ -15,11 +15,11 @@ gallery:
     - image_url: platero4.jpg
     - image_url: FantasticAug.jpg
     - image_url: PMP28.jpg
-    - image_url: deepwaters.jpg
+    - image_url: tragedy8.jpg
     - image_url: Robinsonc.jpg
     - image_url: raketi.jpg
     - image_url: sadesodome.jpg
-    - image_url: tragedy8.jpg
+    - image_url: deepwaters.jpg
 ---
 
 {% include gallery %}
