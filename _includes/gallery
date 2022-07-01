@@ -72,7 +72,7 @@
       {% capture url %}{{ item.image_url }}{% endcapture %}
       {% assign split_url = url | split: '.' %}
       {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}   
-      <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.slug }}/{{ item.image_url }}">
+      <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.slug }}/{{ item.image_url }}" data-lightbox="{{ page.slug }}">
          <img {% if item.caption %}data-caption="{{ item.caption }}"{% endif %} src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.slug }}/{{ thumb_url }}" alt="{{ item.caption }}">
       </a>
       {% endfor %}
@@ -93,7 +93,7 @@
     {% assign split_url = url | split: '.' %}
     {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
     <div class="featured-image-block column">
-     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.slug }}/{{ item.image_url }}">
+     <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.slug }}/{{ item.image_url }}" data-lightbox="{{ page.slug }}" data-title="{{ item.caption }}">
       <div class="container">
         <img id="{{ page.slug }}" {% if item.caption %}data-caption="{{ item.caption }}"{% endif %} src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ page.slug }}/{{ thumb_url }}" alt="{{ item.caption }}" class="image">
         <div class="text-center {% if page.slug == 'burton' %} overlay {% endif %} featured-image-block-title">{{ item.caption }}</div>

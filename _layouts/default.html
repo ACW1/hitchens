@@ -38,9 +38,12 @@
     <!-- Onderstaande div sluit de band-div in home.html -->
     </main>
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/sidebar.js"></script>
-    <script type="text/javascript" src="{{ site.url }}{{ site.baseurl }}/assets/js/lightbox.js"></script>
-    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/lightbox.css">
-
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/lightbox.js"></script>
+    <script>
+        lightbox.option({
+          'wrapAround': true
+        })
+    </script>
     <script type="text/javascript">$(document).ready(function() {
         $(document).foundation(); });
     </script>
