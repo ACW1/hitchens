@@ -121,3 +121,14 @@ a#areah {
 #redact {
   margin-top: 2.5em;
 }
+
+.lijm.is-stuck {
+  background-color: $brand-color;
+  margin: -20px 0 !important;
+  transition: margin 0.5s ease !important;
+}
+
+.plak.is-stuck {
+  margin: -20px 0 !important;
+  transition: margin 0.5s ease !important;
+}

@@ -9,18 +9,23 @@ layout: default
   {% include back-link.html %}
 {% endif %} -->
 
-<div class="relative">
-  <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
-    <p id="asterisk">*</p>
-  </a>
-  {% if site.paginate and site.paginate_path and paginator.page == 1 %}
-    <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
-  {% else %}
-    <a href="{{ '/' | prepend: site.baseurl }}">
-      <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
-    </a>
-  {% endif %}
+<div data-sticky-container>
+  <div class="plak lijm" data-sticky data-top-anchor="1" data-margin-top='0' data-sticky-on="small" style="width:100%">
+    <div class="relative">
+      <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
+        <p id="asterisk">*</p>
+      </a>
+      {% if site.paginate and site.paginate_path and paginator.page == 1 %}
+      <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
+      {% else %}
+      <a href="{{ '/' | prepend: site.baseurl }}">
+        <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
+      </a>
+      {% endif %}
+    </div>
+  </div>
 </div>
+
 
 <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 

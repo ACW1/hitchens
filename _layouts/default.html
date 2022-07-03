@@ -40,7 +40,20 @@
     </main>
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/sidebar.js"></script>
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/lightbox.js"></script>
-    <!-- <script src="{{ site.url }}{{ site.baseurl }}/assets/js/bgcolor.js"></script> -->
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/bgcolor.js"></script>
+    <!-- switch logo on scroll -->
+    <script type="text/javascript">
+      var lastScrollTop = 0;
+      window.addEventListener("scroll", function(){ 
+         var st = window.pageYOffset || document.documentElement.scrollTop;
+         if (st > lastScrollTop){
+             document.getElementById("logo").src = "{{ site.url }}{{ site.baseurl }}/assets/images/tuur-logo9.png"; 
+         } else {
+            document.getElementById("logo").src = "{{ site.url }}{{ site.baseurl }}/assets/images/tuur-logo6.png";
+         }
+         lastScrollTop = st <= 0 ? 0 : st; // For Mobile or negative scrolling
+      }, false);
+    </script>
     <script>
         lightbox.option({
           'wrapAround': true

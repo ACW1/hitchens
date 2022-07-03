@@ -18,10 +18,10 @@
 
   {% include sidebar.html %}
 
-  <!-- <div data-sticky-container> -->
-    <!-- <div class="plak" data-sticky data-margin-top='0' data-sticky-on="small"> -->
-      <header class="site-masthead">
+  <header class="site-masthead">
         <!-- {% include menu.html %} -->
+    <div data-sticky-container>
+      <div class="plak" data-sticky data-margin-top='0' data-sticky-on="small">
         <div class="relative">
           <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
             <p id="asterisk">*</p>
@@ -30,6 +30,8 @@
             <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
           </a>
         </div>
+      </div>
+    </div>
 
         {% if site.title %}
           <h2>
@@ -38,8 +40,6 @@
           </h2>
         {% endif %}
       </header>
-    <!-- </div> -->
-  <!-- </div> -->
 
       <div class="portfolio">
         <h2 class="content-title divided">
@@ -80,7 +80,20 @@
     <!-- Onderstaande div sluit de band-div in home.html -->
     </main>
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/sidebar.js"></script>
-    <!-- <script src="{{ site.url }}{{ site.baseurl }}/assets/js/bgcolor.js"></script> -->
+    <script src="{{ site.url }}{{ site.baseurl }}/assets/js/bgcolor.js"></script>
+    <!-- switch logo on scroll -->
+    <script type="text/javascript">
+      var lastScrollTop = 0;
+      window.addEventListener("scroll", function(){ 
+         var st = window.pageYOffset || document.documentElement.scrollTop;
+         if (st > lastScrollTop){
+             document.getElementById("logo").src = "{{ site.url }}{{ site.baseurl }}/assets/images/tuur-logo9.png"; 
+         } else {
+            document.getElementById("logo").src = "{{ site.url }}{{ site.baseurl }}/assets/images/tuur-logo6.png";
+         }
+         lastScrollTop = st <= 0 ? 0 : st; // For Mobile or negative scrolling
+      }, false);
+    </script>
     <script type="text/javascript">$(document).ready(function() {
         $(document).foundation(); });
     </script>
