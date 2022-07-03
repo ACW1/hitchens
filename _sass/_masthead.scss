@@ -21,7 +21,8 @@
   font-size: 1.25em;
   line-height: 1.5;
   letter-spacing: 0.007em;
-  margin-top: 0.6em;
+  // margin-top: 0.6em;
+  margin-top: -5px;
   margin-bottom: 0;
   /* padding: 0 2rem; */
   text-transform: uppercase;
@@ -42,9 +43,9 @@
 #logo {
   /* max-width: 350px; */
   max-width: 310px;
-  margin-top: 1.5em;
+  margin-top: 2em;
   // margin-bottom: 0.75em;
-  margin-bottom: 0;
+  margin-bottom: 1em;
 }
 
 #asterisk {
@@ -74,7 +75,7 @@ a#areah:focus {
 
 a#areah {
   position: absolute;
-  top: 10px;
+  top: 20px;
   right: -2px;
 }
 
@@ -107,11 +108,16 @@ a#areah {
 .red-pag {
   max-width: 24em;
   margin: auto;
-  padding: 6em 1em 1em 1em;
+  padding: 0.5em 1em 1.5em 1em;
 }
 
 .portfolio {
   max-width: 24em;
   margin: auto;
-  padding: 1em 1em 2em 1em;
+  padding: 0.5em 1em 1.5em 1em;
+  // padding: 1em 1em 2em 1em;
+}
+
+#redact {
+  margin-top: 2.5em;
 }

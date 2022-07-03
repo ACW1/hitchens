@@ -205,14 +205,15 @@ h1.content-title:hover {
 }
 /* Style page content - use this if you want to push the page content to the left when you open the side navigation */
 #band {
+  min-height: 100vh;
   transition: margin-right 0.8s; /* If you want a transition effect */
-  padding: 20px;
+  padding: 0 20px 20px 20px;
   margin-right: 0px;
   background-color: $brand-color;
   box-shadow: 12px 18px 24px rgba(31, 59, 69, 0.1);
   @media (min-width: $on-tablet) {
-  width: 360px;
-  margin-left: 5vw;
+    width: 360px;
+    margin-left: 5vw;
   }
 }
 

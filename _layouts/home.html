@@ -4,31 +4,36 @@ layout: default
 
 <!-- <main id="band" class="home" id="main" role="main" aria-label="Content"> -->
 
-  <header class="site-masthead">
-    <!-- {% include menu.html %} -->
-    <div class="relative">
-      <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
-        <p id="asterisk">*</p>
-      </a>
-      {% if site.paginate and site.paginate_path and paginator.page == 1 %}
-        <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
-      {% else %}
-        <a href="{{ '/' | prepend: site.baseurl }}">
-          <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
-        </a>
+    <header class="site-masthead">
+      <!-- {% include menu.html %} -->
+    <!--   <div data-sticky-container>
+        <div class="plak" data-sticky data-margin-top='0' data-sticky-on="small"> -->
+          <div class="relative">
+            <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
+              <p id="asterisk">*</p>
+            </a>
+            {% if site.paginate and site.paginate_path and paginator.page == 1 %}
+              <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
+            {% else %}
+              <a href="{{ '/' | prepend: site.baseurl }}">
+                <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
+              </a>
+            {% endif %}
+          </div>
+        <!-- </div>
+      </div> -->
+      <!-- image map kan op termijn weg -->
+      <map name="workmap">
+        <!-- <area id="areah" shape="circle" coords="340, 10, 20" href="" onclick="toggleNav()" title="Menu" alt="alttext"> -->
+        <area id="areah" shape="circle" coords="301, 8, 16" href="" onclick="toggleNav()" title="Menu" alt="alttext">
+      </map>
+      {% if site.title %}
+        <h2>
+          {{ site.description }}
+        </h2>
       {% endif %}
-    </div>
-    <!-- image map kan op termijn weg -->
-    <map name="workmap">
-      <!-- <area id="areah" shape="circle" coords="340, 10, 20" href="" onclick="toggleNav()" title="Menu" alt="alttext"> -->
-      <area id="areah" shape="circle" coords="301, 8, 16" href="" onclick="toggleNav()" title="Menu" alt="alttext">
-    </map>
-    {% if site.title %}
-      <h2>
-        {{ site.description }}
-      </h2>
-    {% endif %}
-  </header>
+    </header>
+
 
   <div class="red-pag">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
@@ -36,14 +41,17 @@ layout: default
       <!-- Page {{ paginator.page }} -->
     </h2>
     {% else %}
-      <h2 class="content-title">
-        REDACTIE
-      </h2>
-      <a href="{{ site.url }}{{ '/about' | prepend: site.baseurl }}">
-        <div class="undertext">
-          <p>Arthur van Kruining</p>
-        </div>
-      </a>
+      <h2 class="content-title divided"></h2>
+      <div id="redact">
+        <h2 class="content-title">
+          REDACTIE
+        </h2>
+        <a href="{{ site.url }}{{ '/about' | prepend: site.baseurl }}">
+          <div class="undertext">
+            <p>Arthur van Kruining</p>
+          </div>
+        </a>
+      </div>
     {% endif %}
   </div> 
 
