@@ -17,7 +17,7 @@
 
 .footnotes::before {
   content: '';
-  @include divider;
+  @include divider-black;
   margin: 4em auto;
 }
 

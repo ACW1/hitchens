@@ -98,7 +98,7 @@ p > cite {
 hr {
   border: 0;
   height: 0;
-  @include divider;
+  @include divider-filled;
   margin: 4em 0;
 }
 
@@ -128,17 +128,12 @@ figcaption a, p a {
 
 .divided::after {
   content: "";
-  @include divider;
+  @include divider-filled;
 }
 
 .divided.p-name::after {
   content: "";
-  border: 0;
-  display: block;
-  width: 152px;
-  height: 12px;
-  margin: .5em auto 0;
-  background: url(#{$asset_url}/images/divider.svg) no-repeat top center;
+  @include divider-black;
 }
 
 /* .home {
