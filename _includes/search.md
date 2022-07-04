@@ -5,13 +5,13 @@
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="{{ site.url }}{{ site.baseurl }}/assets/js/search-script.js" type="text/javascript"></script>
+<script src="https://www.arthurvankruining.nl/hitchens/assets/js/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '{{ site.url }}{{ site.baseurl }}/search.json'
+  json: 'https://www.arthurvankruining.nl/hitchens/search.json'
 })
 </script>
