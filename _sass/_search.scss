@@ -32,3 +32,39 @@
 ::-moz-placeholder {
   color: $muted-text-color !important;
 }
+
+// onderstaande hoort bij nieuwe zoekfunctie
+#search-container input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid darken($head-line-color, 5%);
+  float: left;
+  width: 75%;
+  background: #f1f1f1;
+}
+
+#search-container button {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  background: $head-line-color;
+  color: white;
+  font-size: 17px;
+  border: 1px solid darken($head-line-color, 5%);
+  border-left: none;
+  cursor: pointer;
+  .fa-magnifying-glass {
+    color: $gallimard-beige;
+  }
+}
+
+#search-container button:hover {
+  background: darken($head-line-color, 5%);
+}
+
+#search-container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+

@@ -34,7 +34,6 @@ layout: default
       {% endif %}
     </header>
 
-
   <div class="red-pag">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
     <h2 class="content-title divided">
@@ -51,6 +50,11 @@ layout: default
             <p>Arthur van Kruining</p>
           </div>
         </a>
+      </div>
+      {% if page.title == 'Zoeken' %}
+      <div style="margin-top: 3em;">
+          {% include search.html %}
+      {% endif %}
       </div>
     {% endif %}
   </div> 
@@ -89,8 +93,4 @@ layout: default
       {% endfor %}
     </ul>
   
-  {% endif %}    
-
-   {% include search.md %}
-   
-
+  {% endif %}
