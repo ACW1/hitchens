@@ -8,12 +8,12 @@
 
   
   <body style="background-image: 
-    url('{{ site.url }}{{ site.baseurl }}/assets/images/BURTONP.webp'); 
+    url('{{ site.url }}{{ site.baseurl }}/assets/images/300580@2x.jpg'); 
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;">
-  <p id="backimg-cap">Burton P (detail)</p>
+  <p id="backimg-cap">Claude Monet, Meules de foin au soleil, Midi. (1890)</p>
   <main id="band" class="home" id="main" role="main" aria-label="Content"> 
 
   {% include sidebar.html %}
@@ -36,35 +36,19 @@
         {% if site.title %}
           <h2>
             <!-- {{ site.description }} -->
-            zijn projecten
+            doorzoeken
           </h2>
         {% endif %}
       </header>
 
-      <div class="portfolio">
+      <div class="red-pag">
         <h2 class="content-title divided">
         </h2>
       </div> 
- 
 
-  <ul class="post-list">
-    {% for project in site.projects %}
-      <li>
-        <a href="{{ project.url | absolute_url }}" class="post-link">
-          <div class="post-link__heading">
-            <h1 class="content-title post-link__title">      
-              {{ project.title }}
-            </h1>
-          </div>
-        </a>
-        {% if project.subtitle %}
-          <p class="subtitle">
-            {{ project.subtitle }}
-          </p>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
+  {% unless site.hide_search %}
+    {% include search.html %}
+  {% endunless %}
 
   {% unless site.hide_credits %}
     <aside class="site-credits">

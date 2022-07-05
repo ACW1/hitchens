@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: search
 title: Zoeken
 ---
