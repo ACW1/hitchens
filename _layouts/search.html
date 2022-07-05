@@ -14,7 +14,8 @@
     background-position: center;
     background-size: cover;">
   <p id="backimg-cap">Claude Monet, Meules de foin au soleil, Midi. (1890)</p>
-  <main id="band" class="home" id="main" role="main" aria-label="Content"> 
+  <main id="band" class="home" id="main" role="main" aria-label="Content">
+  <div class="wrapper"> 
 
   {% include sidebar.html %}
 
@@ -50,15 +51,49 @@
     {% include search.html %}
   {% endunless %}
 
-  {% unless site.hide_credits %}
+  <!-- {% unless site.hide_credits %}
     <aside class="site-credits">
       <p>
         <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="https://jekyllrb.com">Jekyll</a></small>
       </p>
     </aside>
-  {% endunless %}
+  {% endunless %} -->
+
+      <div class="push"></div>
+    </div>
+    <footer class="footer">
+      <aside class="site-credits">
+        <p>
+          <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="https://jekyllrb.com">Jekyll</a></small>
+        </p>
+      </aside>
+    </footer>
+
     <!-- Onderstaande div sluit de band-div in home.html -->
     </main>
+    <script type="text/javascript">
+    // geen {subtitle} laten zien als er geen ondertitel is   
+    let input = document.querySelector('input');
+    let log = document.getElementById('log');
+
+    input.oninput = handleChange;
+
+    function handleChange(e) {
+      jQuery(document).ready(checkContainer);
+      function checkContainer () {
+        if($('p.subtitle').is(':visible')){
+        var subt = document.getElementsByClassName("subtitle");
+          for(i=0; i<subt.length; i++) {
+            if (subt[i].innerText == "{subtitle}") {
+                subt[i].innerText = "";
+                };
+            }
+        } else {
+          setTimeout(checkContainer, 50); 
+          }
+        }    
+      }
+    </script>
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/sidebar.js"></script>
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/bgcolor.js"></script>
     <!-- switch logo on scroll -->

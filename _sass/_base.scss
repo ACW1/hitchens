@@ -185,7 +185,7 @@ h1.content-title:hover {
 }
 
 .site-credits {
-  margin: 0 auto 2em;
+  margin: 0 auto 0em;
   padding: 0 2em;
   text-align: center;
 }
@@ -304,3 +304,18 @@ p#backimg-cap {
 .container:hover .overlay {
   opacity: 1;
 }
+
+.wrapper {
+  min-height: 100vh;
+
+  /* Equal to height of footer */
+  /* But also accounting for potential margin-bottom of last child */
+  margin-bottom: -50px;
+  // margin-bottom: -92.5px
+}
+.footer,
+.push {
+  height: 50px;
+  // height: 92.5px;
+}
+

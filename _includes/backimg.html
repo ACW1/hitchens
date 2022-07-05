@@ -20,8 +20,10 @@
       <p id="backimg-cap">{{ site.posts[toppost].caption}}</p>
       {% if site.posts[toppost].bandkleur %}
         <main id="band" class="home" style="background-color: {{ site.posts[toppost].bandkleur }};" id="main" role="main" aria-label="Content">
+          <div class="wrapper"> 
       {% else %}
         <main id="band" class="home" id="main" role="main" aria-label="Content">
+          <div class="wrapper"> 
       {% endif %}  
     {% else %}
       <body style="background-image: 

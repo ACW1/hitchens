@@ -57,14 +57,14 @@
 }
 
 #search-input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #d1c5ab !important;
+  color: $muted-text-color !important;
   opacity: 1; /* Firefox */
 }
 
 #search-input:-ms-input-placeholder { /* Internet Explorer 10-11 */
-  color: #d1c5ab !important;
+  color: $muted-text-color !important;
 }
 
 #search-input::-ms-input-placeholder { /* Microsoft Edge */
-  color: #d1c5ab !important;
+  color: $muted-text-color !important;
 }
