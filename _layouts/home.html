@@ -66,7 +66,9 @@ layout: default
       <!--   <div class="push"></div>
       </div>
       <footer class="footer"> -->
-
+       <div class="push"></div>
+      </div>
+      <footer class="footer footer-pag">  
       <div class="post-pagination">
         {% if paginator.next_page %}
           <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn"><i class="fa-solid fa-chevron-right"></i></a>
@@ -80,6 +82,12 @@ layout: default
           <span>&nbsp;</span>
         {% endif %}
       </div>
+        <aside class="site-credits">
+          <p>
+            <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="https://jekyllrb.com">Jekyll</a></small>
+          </p>
+        </aside>
+      </footer>
 
     {% endif %}
 

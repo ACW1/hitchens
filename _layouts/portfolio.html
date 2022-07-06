@@ -14,7 +14,8 @@
     background-position: center;
     background-size: cover;">
   <p id="backimg-cap">Burton P (detail)</p>
-  <main id="band" class="home" id="main" role="main" aria-label="Content"> 
+  <main id="band" class="home" id="main" role="main" aria-label="Content">
+  <div class="wrapper">  
 
   {% include sidebar.html %}
 
@@ -47,32 +48,39 @@
       </div> 
  
 
-  <ul class="post-list">
-    {% for project in site.projects %}
-      <li>
-        <a href="{{ project.url | absolute_url }}" class="post-link">
-          <div class="post-link__heading">
-            <h1 class="content-title post-link__title">      
-              {{ project.title }}
-            </h1>
-          </div>
-        </a>
-        {% if project.subtitle %}
-          <p class="subtitle">
-            {{ project.subtitle }}
-          </p>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
+    <ul class="post-list">
+      {% for project in site.projects %}
+        <li>
+          <a href="{{ project.url | absolute_url }}" class="post-link">
+            <div class="post-link__heading">
+              <h1 class="content-title post-link__title">      
+                {{ project.title }}
+              </h1>
+            </div>
+          </a>
+          {% if project.subtitle %}
+            <p class="subtitle">
+              {{ project.subtitle }}
+            </p>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
 
-  {% unless site.hide_credits %}
-    <aside class="site-credits">
-      <p>
-        <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="https://jekyllrb.com">Jekyll</a></small>
-      </p>
-    </aside>
-  {% endunless %}
+    {% unless paginator.total_pages > 1 %} 
+    {% unless site.hide_credits %}
+      <div class="push"></div>
+    </div>
+    <footer class="footer">
+      <aside class="site-credits">
+        <p>
+          <small><a href="https://github.com/patdryburgh/hitchens">Hitchens Theme</a> powered by <a href="https://jekyllrb.com">Jekyll</a></small>
+        </p>
+      </aside>
+    </footer>
+    {% endunless %}
+    {% endunless %} 
+
     <!-- Onderstaande div sluit de band-div in home.html -->
     </main>
     <script src="{{ site.url }}{{ site.baseurl }}/assets/js/sidebar.js"></script>

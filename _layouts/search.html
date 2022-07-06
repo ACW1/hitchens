@@ -58,8 +58,8 @@
       </p>
     </aside>
   {% endunless %} -->
-
-      <div class="push"></div>
+  {% unless paginator.total_pages > 1 %} 
+      <div class="push-low"></div>
     </div>
     <footer class="footer">
       <aside class="site-credits">
@@ -68,7 +68,7 @@
         </p>
       </aside>
     </footer>
-
+  {% endunless %}
     <!-- Onderstaande div sluit de band-div in home.html -->
     </main>
     <script type="text/javascript">
