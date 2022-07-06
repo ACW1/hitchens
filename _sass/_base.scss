@@ -2,6 +2,7 @@
 html {
   /* only disable pull-to-refresh but allow swipe navigations */
   overscroll-behavior-y: none;
+  height: -webkit-fill-available;
 }
 
 body {
@@ -211,6 +212,7 @@ h1.content-title:hover {
 /* Style page content - use this if you want to push the page content to the left when you open the side navigation */
 #band {
   min-height: 100vh;
+  min-height: -webkit-fill-available;
   transition: margin-right 0.8s; /* If you want a transition effect */
   padding: 0 20px 20px 20px;
   margin-right: 0px;

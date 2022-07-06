@@ -3,7 +3,7 @@ title: The Adventure of the Priory School
 author: Arthur Conan Doyle
 backgrim: priory.jpg
 caption: The Priory in Sorrento
-bandkleur: gainsboro	
+bandkleur: rgba(212, 186, 136, 1)
 category: literature
 layout: post
 ---

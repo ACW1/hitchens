@@ -1,11 +1,11 @@
-- title: About
-  url: /about.html
+# - title: About
+#   url: /about.html
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
+# - title: Source
+#   url: https://github.com/patdryburgh/hitchens
 
-- title: Designer
-  url: https://patdryburgh.com
+# - title: Designer
+#   url: https://patdryburgh.com
 
 - title: Projecten
   url: /projecten.html  
