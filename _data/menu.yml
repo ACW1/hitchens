@@ -4,8 +4,11 @@
 # - title: Source
 #   url: https://github.com/patdryburgh/hitchens
 
-# - title: Designer
-#   url: https://patdryburgh.com
+- title: Literatuur
+  url: /category/literature
+
+- title: Archief
+  url: /archief.html  
 
 - title: Projecten
   url: /projecten.html  

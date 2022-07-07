@@ -16,7 +16,7 @@ if (areah !== null) {
 function toggleNav() {
     var sidenav = document.getElementById("mySidebar"),
     band = document.getElementById("band");
-    sidenav.style.width = sidenav.style.width === "176px" ? '0' : '176px';
+    sidenav.style.width = sidenav.style.width === "fit-content" ? '0' : 'fit-content';
     // band.style.marginRight = band.style.marginRight === "250px" ? '0' :  '250px';
 }
 

@@ -172,8 +172,8 @@ h1.content-title:hover {
   text-decoration: underline $muted-text-color;
 }  
 .post-date {
-  font-family: $sidebar-font;
-  color: $muted-highlight;
+  font-family: $font-family;
+  color: $muted-text-color;
   display: block;
   font-size: .7em;
   white-space: nowrap;

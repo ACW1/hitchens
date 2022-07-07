@@ -3,6 +3,7 @@ title: Another Adventure of the Speckled Band
 subtitle: The events in question occurred in the early days of my association with Holmes...
 author: Arthur Conan Doyle
 category: literature
+tags: spikkels holmes
 backgrim: speckled.jpg
 caption: De Gespikkelde Band 3
 layout: post

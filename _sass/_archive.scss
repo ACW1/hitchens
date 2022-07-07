@@ -1,0 +1,18 @@
+.archive-title {
+	font-family: $sidebar-font;
+	font-size: 1.25em;
+	color: $muted-text-color;
+}
+
+.archive-link {
+	margin-bottom: 1em !important;
+	text-align: center;
+	color: $head-line-color;
+	font-family: $sidebar-font;
+	font-weight: 600;
+	font-size: 1em;
+	margin: 0;
+	// padding: 0 2rem;
+	text-transform: uppercase;
+	text-decoration: underline #ea505a;
+}

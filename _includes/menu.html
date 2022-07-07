@@ -16,10 +16,12 @@
             {{ item.title }}
           </a>
         {% elsif item.title == 'Zoek' %}
+          {% unless page.url == item.url %}
           <hr>
           <a href="{{ item.url | prepend: site.baseurl }}" style="text-align: center;">
             <i class="fa-solid fa-magnifying-glass"></i>
-          </a>  
+          </a> 
+          {% endunless %} 
         {% else %}
           <a href="{{ item.url | prepend: site.baseurl }}">
             {{ item.title }}

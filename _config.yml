@@ -43,6 +43,17 @@ markdown: kramdown
 
 plugins:
   - jekyll-paginate
+  - jekyll-archives
+
+jekyll-archives:
+  enabled: all
+  layout: category-archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'  
 
 paginate: 6
 paginate_path: "/page/:num/"
