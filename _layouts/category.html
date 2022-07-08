@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+<body style="background-image: 
+    url('{{ site.url }}{{ site.baseurl }}/assets/images/burton/burtone.jpg'); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;">
+  <p id="backimg-cap">Burton E (detail)</p>
+  <main id="band" class="home" id="main" role="main" aria-label="Content">
+  <div class="wrapper">  
+
+<header class="site-masthead">
+  <div data-sticky-container>
+    <div class="plak" data-sticky data-margin-top='0' data-sticky-on="small">
+      <div class="relative">
+        <a id="areah" href='' onclick="toggleNav()" title="Menu" alt="alttext">
+          <p id="asterisk">*</p>
+        </a>
+        {% if site.paginate and site.paginate_path and paginator.page == 1 %}
+          <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" usemap="#workmap">
+        {% else %}
+          <a href="{{ '/' | prepend: site.baseurl }}">
+            <img id="logo" src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" title="Home" alt="{{ site.title }} – {{ site.slogan }}">
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% if site.title %}
+    <h2>
+      over literatuur
+    </h2>
+  {% endif %}
+</header>
+
+<div class="portfolio">
+        <h2 class="content-title divided">
+        </h2>
+      </div> 
+
+ 
+{% comment %}calculate the post count for each category{% endcomment %}
+{% assign count = "" %}
+{% assign counts = "" %}
+{% for tag in site.categories reversed %}
+  {% for post in tag[1] %}
+  {% assign count = count | plus: 1 %}
+  {% endfor %}
+  {% assign counts = counts | append: count | append: ', ' %}
+  {% assign count = "" %}
+{% endfor %}
+
+<!-- {% comment %}show navigation label here{% endcomment %}
+<div class="archive-label-meta" style ="margin-top:25px">
+{% assign i = 0 %}
+{% assign counts = counts | split: ', ' %}
+{% for tag in site.categories reversed  %}
+<ul class="post-categories">       
+     <a href="#{{tag[0]}}">{{ tag[0] }} ( {{counts[i]}} )</a>
+</ul>
+{% assign i = i | plus: 1 %}
+{% endfor %}
+</div> -->
+
+{% comment %}list post link for each category{% endcomment %}
+{% for tag in site.categories reversed %}
+{% if tag[0] == 'literature' %}
+<div>
+<!-- <h3 id = "{{tag[0]}}" class="archive-title">{{tag[0]}}</h3> -->
+{% for post in tag[1] %}
+{%- assign date_format = site.minimal.date_format | default: "%d.%m.%Y" -%}
+  <div class="category-meta" style="line-height: 16px">
+    <div class="post-date">
+      <span class="icon-calendar" style = "font-size:16px">
+            {{ post.date | date: date_format }}</span>
+    </div>
+    <a class="post-link" href="{{ post.url | relative_url }}">
+      <h2 class="archive-link" >{{ post.title | escape }}</h2>
+    </a>
+    <!-- <p class="subtitle">{{ post.subtitle | escape }}</p> -->
+  </div>
+{% endfor %}
+</div>
+{% endif%}
+{% endfor %}
