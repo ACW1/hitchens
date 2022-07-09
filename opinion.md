@@ -1,0 +1,5 @@
+---
+title: Opinie
+layout: opinion
+---
+

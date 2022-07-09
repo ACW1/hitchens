@@ -5,13 +5,16 @@
 #   url: https://github.com/patdryburgh/hitchens
 
 - title: Literatuur
-  url: /categorie
+  url: /literature.html
 
-- title: Archief
-  url: /archief.html  
+- title: Opinie
+  url: /opinion.html  
 
 - title: Projecten
   url: /projecten.html  
+  
+- title: Archief
+  url: /archief.html    
 
 - title: Zoek
   url: /search.html 
