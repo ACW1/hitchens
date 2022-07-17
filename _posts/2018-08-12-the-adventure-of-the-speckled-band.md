@@ -5,6 +5,7 @@ author: Arthur Conan Doyle
 category: literature
 backgrim: speckled.jpg
 caption: De Gespikkelde Band
+lang: eng
 layout: post
 ---
 

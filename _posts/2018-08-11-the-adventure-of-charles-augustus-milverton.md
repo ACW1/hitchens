@@ -2,6 +2,7 @@
 title: The Adventure of Charles Augustus Milverton
 layout: post
 author: Arthur Conan Doyle
+lang: eng
 category: literature
 ---
 

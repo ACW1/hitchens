@@ -5,6 +5,7 @@ subtitle: "In choosing a few typical cases which illustrate the remarkable menta
 author: "Arthur Conan Doyle"
 backgrim: https://upload.wikimedia.org/wikipedia/commons/5/5c/Sherlock_Holmes_-_Adventure_of_the_Cardboard_Box_illustration_1893.jpg
 caption: Kartonnen doosraadsel
+lang: eng
 categories: literature
 ---
 

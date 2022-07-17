@@ -4,6 +4,7 @@ subtitle: Is helemaal niet van Conan Doyle
 author: Arthur Conan Doyle
 category: literature
 tag: klassieke literatuur
+lang: eng
 layout: post
 ---
 
