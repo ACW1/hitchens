@@ -1,11 +1,33 @@
+.archive-dropdown {
+	font-family: $sidebar-font; 
+	display: flex;
+	justify-content: center;
+}
+
+.archive-dropdown ul, .archive-dropdown li {
+	width: 300px;
+	margin-top: 0.2em;
+	font-size: initial;
+} 
+
 .archive-title {
 	font-family: $sidebar-font;
 	font-size: 1.25em;
 	color: $muted-text-color;
 }
 
+.archive-meta > .subtitle {
+	font-size: 1.3rem !important;
+}
+
+.archive-meta > .post-date {
+	font-family: $sidebar-font !important;
+	font-size: .6em;
+	margin: 0.3em 0 0.7em 0 !important;
+}
+
 .archive-link {
-	margin-bottom: 1em !important;
+	// margin-bottom: 1em !important;
 	text-align: center;
 	color: $head-line-color;
 	font-family: $sidebar-font;
@@ -16,3 +38,29 @@
 	text-transform: uppercase;
 	text-decoration: underline #ea505a;
 }
+
+.dropdown.menu > li.is-dropdown-submenu-parent > a::after {
+	border-color: $muted-text-color transparent transparent !important;
+}
+
+.dropdown.menu > li.opens-right > .is-dropdown-submenu {
+	background: $muted-text-color; 
+	border-color: $muted-text-color transparent transparent !important;
+	text-transform: uppercase;
+}
+
+.is-dropdown-submenu {
+  position: sticky !important;
+}
+
+a.paka {
+	color: $gallimard-beige;
+}
+
+#alleposts {
+	margin-top: 1.5em;
+}
+
+.not-visible {
+	display: none;
+} 

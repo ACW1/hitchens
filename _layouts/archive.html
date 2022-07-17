@@ -41,53 +41,60 @@ layout: default
         </h2>
       </div> 
 
-{% comment %}Calcucate the post count for each year{% endcomment %}
-{% assign count = 1 %}
-{% assign year_cnt = "" %}
-{% for post in site.posts reversed %}
-    {% assign year = post.date | date: '%Y' %}
-    {% assign nyear = post.next.date | date: '%Y' %}
-    {% if year != nyear %}
-        {% assign count = count | append: ', ' %}
-        {% assign counts = counts | append: count %}
-    {% assign year_cnt = year_cnt | append: year | append: ', ' %}
-    {% assign years = years | append: year_cnt %}
-    {% assign year_cnt = "" %}
-        {% assign count = 1 %}
-    {% else %}
-        {% assign count = count | plus: 1 %}
-    {% endif %}
-{% endfor %}
-
-{% comment %}show navigation tag here{% endcomment %}
-<div class="archive-label-meta" style ="margin-top:25px">
-{% assign i = 0 %}
-{% comment %} remove the separator. {% endcomment %}
-{% assign counts_year = counts | split: ', ' | reverse %}
-{% assign years = years | split: ', ' %}
-{% for year in years reversed %}
-<ul class="post-categories">       
-     <a href = "#{{year}}" style = "font-family: Raleway,Arial,sans-
-      serif; font-size:14px">{{ year }} ( {{counts_year[i]}} )</a>
-</ul>
-{% assign i = i | plus: 1 %}
-{% endfor %}
+<div class="archive-dropdown">
+  {% assign counter = 0 %}
+  <ul class="menu dropdown" data-dropdown-menu data-click-open="true" data-disable-hover="true">
+    <li><a href="#"><h2 class="content-title">Kies een maand</h2></a>
+      <ul class="menu">
+        {% for post in site.posts %}
+          {% assign thisyear = post.date | date: "%B %Y" %}
+          {% assign prevyear = post.previous.date | date: "%B %Y" %}
+          {% assign year = post.date | date: "%Y" %}
+          {% assign month = post.date | date: "%B" %}
+          {% assign counter = counter | plus: 1 %}
+          {% if thisyear != prevyear %}
+            <li><a class="paka" href="#">{{ month }} {{ year }} ({{ counter }})</a></li>
+            {% assign counter = 0 %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
 </div>
 
-{% comment %}list post link for each year{% endcomment %}
-{% assign counts = counts | split: ', ' | reverse %}
-{% assign i = 0 %}
-{% for post in site.posts %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h3 id = "{{year}}" class="archive-title">{{ post.date | date: '%B %Y' }}</h3>
-    {% assign i = i | plus: 1 %}
-      {% endif %}
-  <div class="archive-meta" style="line-height:16px">
-   <div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: "%d.%m.%Y" }}</div>
-     <a class="post-link" href="{{ post.url | relative_url }}">
-     <p class="archive-link">{{ post.title | escape }}</p>
-     </a>
-   </div>
-{% endfor %}
+<div id="alleposts">
+  {% comment %}list post link for each year{% endcomment %}
+  {% assign counts = counts | split: ', ' | reverse %}
+  {% assign i = 0 %}
+  {% for post in site.posts %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+       <!--  {% if year != nyear %}
+          <h3 id="{{year}}" class="archive-title not-visible {{year}}">{{ post.date | date: '%B %Y' }}</h3>
+      {% assign i = i | plus: 1 %}
+        {% endif %} -->
+    <div class="archive-meta not-visible {{month}}{{year}}">
+       <a class="post-link" href="{{ post.url | relative_url }}">
+        <p class="archive-link">{{ post.title | escape }}</p>
+       </a>
+       <p class="subtitle">{{ post.subtitle | escape }}</p>
+       <div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: "%d.%m.%Y" }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+$(document).ready(function(){
+    // Insert elements on click of the button
+    $(".paka").click(function(){
+        event.preventDefault();
+        $(".archive-meta").addClass("not-visible");
+        var maandJaarCount = $(this).text();
+        var maandJaar = maandJaarCount.replace(/\([0-9]+\)/g, "");
+        var mndJr = '.' + maandJaar.replace(/\s/g, '');
+        setTimeout(function() { $(mndJr).removeClass("not-visible"); }, 300 , "ease-out");
+    });    
+});
+</script>
