@@ -5,6 +5,7 @@ author: "Arthur Conan Doyle"
 category: literature
 author: Arthur Conan Doyle
 backgrim: dyingdetective.jpg
+bandkleur: lightblue
 caption: The Dying Detective
 ---
 
