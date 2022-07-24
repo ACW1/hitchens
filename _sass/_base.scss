@@ -325,3 +325,30 @@ p#backimg-cap {
   height: 50px;
 }
 
+img + em {  
+  display: block;
+  font-size: 1rem;
+}
+
+.share-page {
+  font-family: $sidebar-font;
+  // text-align: center;
+  // background: black;
+  // color: $muted-text-color;
+  padding: 8px 15px;
+  border-radius: 5px;
+  float: left;
+  margin-left: -1em;
+  // margin: 1.5 * $spacing-unit 0;
+
+  a {
+    font-weight: 600;
+    color: $muted-text-color !important;
+    margin-left: 10px;
+
+    &:hover {
+        border-bottom: 1px dashed #aaa;
+        color: black !important;
+    }
+  }
+}

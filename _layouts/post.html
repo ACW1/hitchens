@@ -41,6 +41,7 @@ layout: default
 
   <div class="post-meta">
     {% if page.author %}
+      {% include _share-page.html %}
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
     {% if page.author %}
@@ -51,5 +52,4 @@ layout: default
   {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
   {% endif %}
-
 </article>
