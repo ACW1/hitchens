@@ -231,6 +231,13 @@ Hier is een priorij te zien:
 ![smiley](../../../../assets/images/priory.jpg){:width="300px"}
 *De Priorij van Sorrento*
 
+
+{% include image.html
+            img="hitchens/assets/images/priory.jpg"
+            title="title for image"
+            caption="caption voor image" 
+            width="300px" %}
+
 <!-- And here is a referenced image ![smile]
 
 [smile]: ../../../../assets/images/priory.jpg

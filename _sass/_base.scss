@@ -332,14 +332,10 @@ img + em {
 
 .share-page {
   font-family: $sidebar-font;
-  // text-align: center;
-  // background: black;
-  // color: $muted-text-color;
   padding: 8px 15px;
   border-radius: 5px;
   float: left;
   margin-left: -1em;
-  // margin: 1.5 * $spacing-unit 0;
 
   a {
     font-weight: 600;
@@ -352,3 +348,16 @@ img + em {
     }
   }
 }
+
+.image-wrapper {
+  // text-align: center;
+
+  .image-caption {
+    font-family: $sidebar-font;
+    font-size: smaller;
+    color: $muted-text-color;
+    margin-top: -5px;
+  }
+}
+
+
