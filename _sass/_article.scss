@@ -98,3 +98,14 @@ h1.post-title {
   // height: 150px;
   // object-fit: cover;
 }
+
+.screen-reader {
+  position: absolute;
+  left: -9999px;
+  top: -9999px;
+}
+
+#bodem {
+  margin-bottom: 2.5em;
+}
+
