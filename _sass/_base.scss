@@ -111,14 +111,16 @@ img {
 }
 
 figure img {
-  margin: 2em auto 1em;
+  margin: 0 auto 4px;
 }
 
 figcaption {
-  font-family: $font-family;
-  font-size: .875em;
-  font-style: italic;
-  text-align: center;
+  font-family: $sidebar-font;
+  font-size: .8em;
+  line-height: 1.25em;
+  float: right;
+  // font-style: italic;
+  // text-align: center;
   margin-bottom: 2em;
   opacity: .7;
 }

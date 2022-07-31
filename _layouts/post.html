@@ -36,6 +36,9 @@ layout: default
   {% endif %}
 
   <div class="post-content e-content" itemprop="articleBody">
+    {% if page.backgrim %}
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/{{- page.backgrim -}}" class="featured-image-post">
+    {% endif %}
     {{ content }}
   </div>
 

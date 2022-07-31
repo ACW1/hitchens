@@ -4,6 +4,10 @@
   max-width: 60rem;
   padding: 2em 0;
   box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
+  @media only screen and (max-width: 992px) {
+    padding-top: 0;
+    padding-bottom: 1px;
+  }
 }
 
 .post > * {
@@ -20,6 +24,14 @@
   max-width: 48rem;
   padding: 2em 1em;
   text-align: center;
+  @media only screen and (max-width: 1500px) {
+    font-size: 1.9em;
+    padding: 1.5em 1em;
+  }
+  @media only screen and (max-width: 450px) {
+    font-size: 1.7em;
+    padding: 0.5em 1em;
+  }
 }
 
 .post p {
@@ -73,6 +85,16 @@
 }
 
 h1.post-title {
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
+  // margin-top: 0.5em;
+  // margin-bottom: 0.5em;
+}
+
+.featured-image-post {
+  width: 100%;
+  margin-bottom: 1em;
+  @media only screen and (min-width: 768px) {
+    margin-bottom: 1.5em;
+  }
+  // height: 150px;
+  // object-fit: cover;
 }
