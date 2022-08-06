@@ -233,8 +233,8 @@ Hier is een priorij te zien:
 
 
 {% include image.html
-            img="hitchens/assets/images/priory.jpg"
-            title="title for image"
+            img="/assets/images/priory.jpg"
+            title="afbeelding laadt niet!"
             caption="caption voor image" 
             width="300px" %}
 

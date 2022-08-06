@@ -26,6 +26,6 @@ function toggleNav() {
 function closeNav() {
   setTimeout(function() { 
     document.getElementById("mySidebar").style.width = "0";
-    document.getElementById("band").style.marginRight = "0";
+    // document.getElementById("band").style.marginRight = "0";
   }, 300 , "ease-out");
 }
