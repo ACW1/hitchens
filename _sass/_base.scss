@@ -188,9 +188,10 @@ h1.content-title:hover {
 }
 
 .site-credits {
-  margin: 0 auto 0em;
+  margin: 1em auto 0;
   padding: 0 2em;
   text-align: center;
+  // margin-top: 1em;
 }
 
 .skip-navigation {
@@ -320,6 +321,7 @@ p#backimg-cap {
 .footer-pag,
 .push {
   height: 92.5px;
+  margin-bottom: 2em;
 }
 
 .footer-low,
