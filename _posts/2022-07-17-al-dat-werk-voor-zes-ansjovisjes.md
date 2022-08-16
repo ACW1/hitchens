@@ -18,6 +18,8 @@ Op deze manier kun je met kramdown de class 'lazyload' aan afbeeldingen toevoege
 
 ![alt text](https://live.staticflickr.com/7455/8720606291_a03953b187_h.jpg "title text"){:class="lazyload"}
 
+![alt text](https://live.staticflickr.com/7455/8720606291_a03953b187_h.jpg "title text"){: .center}
+
 [blog over lazy loading](https://ranvir.xyz/blog/lazy-loading-your-images-in-jekyll-blog-improving-page-speed/){:style="color: grey;"}
 
 
