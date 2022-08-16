@@ -38,15 +38,20 @@ lazyload van [Jekyll Codex](https://jekyllcodex.org/without-plugin/lazy-loading/
 
 <img src="/img/blank.png" alt="peop alt" data-echo="{{site.url}}{{site.baseurl}}/assets/images/marber/blind-thumb.jpg">
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]({{site.url}}{{site.baseurl}}/assets/images/marber/blind-thumb.jpg)  |  ![]({{site.url}}{{site.baseurl}}/assets/images/marber/blind-thumb.jpg)
+
+
 >Note that you can create a (popular and) fancy effect by replacing the ‘blank.png’ image by a very small version of the actual image. This will cause a blur that is being resolved on scroll.
 
-This⋅para⋅line⋅starts⋅at⋅the⋅first⋅column.⋅However,
+<!-- This⋅para⋅line⋅starts⋅at⋅the⋅first⋅column.⋅However,
 ⋅⋅⋅⋅⋅⋅the⋅following⋅lines⋅can⋅be⋅indented⋅any⋅number⋅of⋅spaces/tabs.
 ⋅⋅⋅The⋅para⋅continues⋅here.
 
 ⋅⋅This⋅is⋅another⋅paragraph,⋅not⋅connected⋅to⋅the⋅above⋅one.⋅But⋅⋅
 with⋅a⋅hard⋅line⋅break.⋅\\
-And⋅another⋅one.
+And⋅another⋅one. -->
 
 First level header
 ==================
