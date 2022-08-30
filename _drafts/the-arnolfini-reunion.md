@@ -31,3 +31,13 @@ What made me think of Jan van Eyck's *Arnolfini Portrait* (1434)? Perhaps it was
             title="The Arnolfini Portrait"
             caption="'The Arnolfini Portrait' (1434), Jan van Eyck" %}
 
+I would have been less convinced of the double reference if the 'mirror' in the train hadn't been positioned straight above the dog. It's like a hand mirror attached to a wall, but since mirrors don't have switches, it is probably a – mirror-like – lamp. Since it doesn't appear to be switched on, the lamp is both an equivalent and an opposite of the Arnolfini mirror. That mirror is like an all-seeing eye, while the lamp is like an eye that is clouded over, as though it is suffering from a cataract. While the upturned switch stresses the lack of light, the 'teeth' of the 'cogwheel' around the mirror stress the surplus of light. First, because they suggest the stylized rays of a stylized sun. Second, because those 'teeth' are filled with images of the Passion of Jesus, a.k.a. Light of the World.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/mirrors-sm.png"
+            title="Mirrors"
+            caption="The mirror and its equivalent" %}
+
+The gear-like shape of the mirror also reminds one of watches, and of God as the Divine Watchmaker. (Gears where already used in clocks in Van Eyck's time, so it's not impossible that the watchmaker analogy already formulated in the fifteenth century.) But, if God the Son is in the 'teeth' of the mirror and God the Father is all-seeing eye in the center, then where is God the Holy Ghost? Is it the red ring with the blue rectangles that connects the two? Other options lie outside the mirror: the pearly thing with the green tassels hanging on a nail to the left of the mirror. Or the chandelier above the mirror. Neither is a very convincing Holy Ghost. Simply because they're not one with the Father and Son in the mirror. And while a chandelier in itself might well be a symbol of the Holy Ghost, this particular one is less suitable because there's only one candle burning in it. 
+
+Why is that? This lack of light doesn't quite fit the occasion. [Lucifer]                          
