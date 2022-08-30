@@ -118,9 +118,9 @@ figcaption {
   font-family: $sidebar-font;
   font-size: .8em;
   line-height: 1.25em;
-  float: right;
+  // float: right;
   // font-style: italic;
-  // text-align: center;
+  text-align: right;
   margin-bottom: 2em;
   opacity: .7;
 }
@@ -364,12 +364,18 @@ img + em {
 
 .image-wrapper {
   // text-align: center;
+  display: inline-block;
 
   .image-caption {
     font-family: $sidebar-font;
-    font-size: smaller;
-    color: $muted-text-color;
-    margin-top: -5px;
+    font-size: .8em;
+    line-height: 1.25em;
+    text-align: right;
+    // margin-bottom: 2em;
+    margin-bottom: 0;
+    opacity: .7;
+    padding-top: 5px;
+    // margin-top: -5px;
   }
 }
 

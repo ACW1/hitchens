@@ -1,8 +1,8 @@
-<div class="image-wrapper" >
+<div class="image-wrapper {{ include.class }}">
     {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
     {% endif %}
-        <img class="lazyload" src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}" width="{{ include.width }}"/>
+        <img class="lazyload" src="{{ include.img }}" alt="{{ include.title }}" width="{{ include.width }}"/>
     {% if include.url %}
     </a>
     {% endif %}

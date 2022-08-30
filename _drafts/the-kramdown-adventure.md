@@ -16,6 +16,17 @@ documents, a perfect quarry for the student not only of crime but of the social 
 
 Hier staan voorbeelden van kramdown ontleend aan deze [site](https://kramdown.gettalong.org/syntax.html){:style="color: blue;"}.
 
+Voorbeeld van een rechts uitgelijnde afbeelding:
+
+{% include external-image.html
+            img="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tyr-runes.svg/200px-Tyr-runes.svg.png"
+            title="afbeelding laadt niet!"
+            caption="Týr in runes." 
+            class="image-right"
+            width="200px" %} 
+
+* * * * * * *
+
 Op deze manier kun je met kramdown de class 'lazyload' aan afbeeldingen toevoegen:
 
 ![alt text](https://live.staticflickr.com/7455/8720606291_a03953b187_h.jpg "title text"){:class="lazyload"}
@@ -344,7 +355,3 @@ This *is*{:.underline} some `code`{:#id}{:.class}.
 A [link](test.html){:rel='something'} and some **tools**{:.tools}.
 
 This *is italic*{::}*marked*{:.special} text
-
-
-
-
