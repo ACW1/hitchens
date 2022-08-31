@@ -123,3 +123,8 @@ h1.post-title {
   padding-top: 15px;
 }
 
+.image-center {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
