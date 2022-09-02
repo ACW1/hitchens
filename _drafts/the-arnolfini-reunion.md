@@ -57,7 +57,23 @@ I'm more confident about the meaning of the chandelier.
             class="image-center"
             caption="The 'dark' chandelier and candle" %}
 
-I have an idea about the chandelier that I haven't come across elsewhere. One that fits with both the somewhat sad, 'dark' state of the chandelier and the suspicion that the mirror represents the Holy Trinity. The name 'Lucifer' says it all. As you probably know, it means 'light-bringer' or 'light-bearer'. Which is a little odd for someone considered to be the equivalent of the Prince of Darkness and the Antichrist. If such an evil character bears/brings light, there must be something wrong with it. It must be like a will-o'-the-wisp, leading respectable souls astray. Or in another sense not very useful to mankind. Light that is superfluous, like in this case, where braod daylight makes candlelight unnecessary. While at night, that same single, grey candle probably wouldn't bring enough light to be of much help. Most of the light coming from the elaborate and expensive chandelier is reflected daylight. With its six brass arms it appears to rival the mirror/sun with its ten Passion rays. This, too, fits with the chandelier representing Lucifer. The fallen angel is associated with the planet Venus, also known as the morning star. It rises before the sun, bringing light to the world. But that weak light is soon completely 'overshadowed' by the light of the rising sun. 
+I have an idea about the chandelier that I haven't come across elsewhere. One that fits with both the somewhat sad, 'dark' state of the chandelier and the suspicion that the mirror represents the Holy Trinity. The name 'Lucifer' says it all. As you probably know, it means 'light-bringer' or 'light-bearer'. Which is a little odd for someone considered to be the equivalent of the Prince of Darkness and the Antichrist. If such an evil character bears/brings light, there must be something wrong with it. It must be like a will-o'-the-wisp, leading respectable souls astray. Or in another sense not very useful to mankind. Light that is superfluous, like in this case, where braod daylight makes candlelight unnecessary. While at night, that same single, grey candle probably wouldn't bring enough light to be of much help. Most of the light coming from the elaborate and expensive chandelier is reflected daylight. With its six brass arms it appears to rival the mirror/sun with its ten Passion rays. This, too, fits with the chandelier representing Lucifer. The fallen angel is associated with the planet Venus, also known as the morning star. It rises before the sun, bringing some light to the world. But that weak light is soon completely 'overshadowed' by the light of the rising sun. Hold that celestial thought.
 
-[Lucifer in the bible is untranslated text from the original Greek, it means bringer of light and the text where it talks about lucifer is talking about the morning star Venus rising before the sun, bring light to the world but then being completely blown away by the light from the sun, Christians have taken this to be a metaphor for the devil challenging god.]   
+First I'd like to strengthen my assertion that the chandelier is Luciferian. Note, for instance, the ends of the six arms. They're crowns. When you turn the chandelier 180 degrees, the six crowns are part of a larger crown-like form. The Dutch word for this object is appropriate: 'kroonluchter', the equivalent of 'crown lighter'. Van Eyck may have used the Middle Dutch word 'luchtere' (attested in the early 15th century), the nomen agentis of the verb 'luchten' – 'to give light'. So in a sense, Lucifer, the bringer/bearer of light, might also be called 'luchter(e)'.     
 
+{% include image.html
+            img="../../../../assets/images/arnolfini/kroonluchterkroon.png"
+            title="Kroonluchterkroon"
+            class="image-center"
+            caption="'Crown lighter'" %}
+
+
+Six crowns in one big crown suggest a double trinity: *sex personae, una substantia*, to paraphrae Tertullian. Or, one king with six aspects. Like the pope's tiara, the multiple crown also says: this is no ordinary king – this is a king of kings. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/tiara-chronicarum-luchter.png"
+            title="Kroonluchterkroon"
+            class="image-center"
+            caption="Left: Pope Anterus (†236), Liber chronicarum (MAG: S fol 1545 Lk(Rariora)); Neurenberg: Anton Koberger, 1493" %}
+
+  
