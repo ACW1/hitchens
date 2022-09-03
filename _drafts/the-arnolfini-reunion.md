@@ -68,12 +68,67 @@ First I'd like to strengthen my assertion that the chandelier is Luciferian. Not
             caption="'Crown lighter'" %}
 
 
-Six crowns in one big crown suggest a double trinity: *sex personae, una substantia*, to paraphrae Tertullian. Or, one king with six aspects. Like the pope's tiara, the multiple crown also says: this is no ordinary king – this is a king of kings. 
+Six crowns in one big crown suggest a double trinity: *sex personae, una substantia*, to paraphrase Tertullian. Or, one king with six aspects. Like the pope's tiara, the multiple crown also says: this is no ordinary king – this is a king of kings. Ironically, the papal tiara has evolved out of a simple Phrygian cap, a headdress shaped like the cone of... a candle extinguisher. The Arnolfini chandelier can be seen as the final stage of the tiara's development – and, by extension, of the papacy. The early popes were like their humble Phrygian caps: extinguishers of Lucifer's false candlelight. But the cap became a crown, the crown became a double crown, and finally a triple crown. (Not to mention the circlets and diadems that went into it.) The more elaborate the former cap became, the more it changed from a candle extinguisher into a chandelier, spreading the false light that it used to extinguish...  
 
 {% include image.html
-            img="../../../../assets/images/arnolfini/tiara-chronicarum-luchter.png"
+            img="../../../../assets/images/arnolfini/tiara-chronicarum-02.jpg"
             title="Kroonluchterkroon"
             class="image-center"
-            caption="Left: Pope Anterus (†236), Liber chronicarum (MAG: S fol 1545 Lk(Rariora)); Neurenberg: Anton Koberger, 1493" %}
+            caption="Left: Pope Anterus (†236), <span style='font-style: italic;'>Liber chronicarum</span> (MAG: S fol 1545 Lk (Rariora)); Neurenberg: Anton Koberger, 1493" %}
 
+When you disregard the arms, you notice that the central 'body' of the chandelier actually does look like a papal tiara. The chandelier is like a papal tiara that has sprouted six branches. Perhaps Van Eyck has seen pictures of popes similar to the relatively crude example from the *Liber chronicorum*. All the popes depicted in that book wear the tiara, even when they didn't, like the early pope Anterus. The protruding parts of the three crowns look like leaves; suggesting that the tiara can grow even further, like a tree. This could make the chandelier a model for the papal tiara of the future. (From Van Eyck's point of view, of course.) If the Church continues in the direction it has taken, at some point the added power and pomp will be reflected in a papal tiara that looks like this chandelier. 
+
+The chandelier may represent the future 'multi-crown' of the pope, but it may also represent the present 'multi-crown' of Lucifer. Another 'king of kings', who, like the pope, is considered powerful enough to depose or install kings. If you identify Lucifer with Satan (no problem at all, as far as I'm concerned), you only have to think about the Temptation of Christ. Satan takes Jesus to the top of 'a very high mountain', "and sheweth him all the kingdoms of the world, and the glory of them; And saith unto him, All these things will I give thee, if thou wilt fall down and worship me." (Matt. 4:8-9) 
+
+In my opinion it's not an either/or proposition; I think that the chandelier represents both a present and a future crown. The idea being that the pope's increasing power means that he will become increasingly like the Satan/Lucifer on the very high mountain. If this was also Van Eyck's idea, it is like a much more subtle and better-drawn ancestor of the Protestant depictions of the pope as the Antichrist. 
+
+The more familiar 'cherry' on top of the papal tiara is the *globus cruciger*, symbolizing Christ's dominion over the orb of the world. However, the tiara topped with just a sphere is also common. It can be seen, for instance, in the commemorative coin of Eugenius IV, the ruling pope when Van Eyck painted *The Arnolfini Portrait*. 
+
+{% include external-image.html
+            img="https://upload.wikimedia.org/wikipedia/commons/d/d0/Stato_della_chiesa%2C_moneta_commemorativa_a_di_eugenio_IV%2C_1439_ca..JPG"
+            title="Eugenius IV"
+            class="image-center"
+            caption="Commemorative coin of Eugenius IV (ca.1439)<br><i class='fa-solid fa-camera'></i><span style='font-weight: lighter;'> I, Sailko, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons</span>" %}                   
+
+In images like this it's not unusual to see the tiara sticking into something above a certain border. No doubt the border between heaven and earth. Ergo: you need a tiara, you have to be the Vicar of Christ, to be able to establish this heavenly connection. Oddly, pope Anterus's little tiara orb has crossed the border of his halo, suggesting that it has gone beyond the heavenly sphere. It looks like a ring, which is exactly what our chandelier tiara has in place of an orb. This may have a special significance here, but it doesn't have to. Although I don't quite see the function of this ring, it is not uncommon in chandeliers. I do understand the need for a ring at the top, to hang the chandelier on the ceiling. Sometimes you see rings at the top and at the bottom, like in Meckenem's copper engraving *The Lute Player and the Harpist*. This chandelier also hangs above a seemingly harmonious pair: a woman playing the harp, and a man (with **very** pointy shoes) playing the lute.     
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/Meckenem-chandelier-2.png"
+            title="Kroonluchter Meckenem"
+            class="image-center"
+            caption="<span style='font-style: italic;'>The Lute Player and the Harpist</span> (ca. 1490), Israhel van Meckenem the Younger" %} 
   
+  The rings on both ends suggest that the chandelier can also be hung upside down. Although it doesn't seem very practical. Like the Arnolfini chandelier the Meckenem chandelier has crown-like forms underneath the candles, and in the middle a fifth crown that isn't upside down. There's an eye to the left of the base of the longest of the four candles. This (all-)seeing eye appears to be opposed by an eye that is not seeing, because it is obstructed by the left leg of the M shape beneath the fifth crown. On top of that M, directly below that crown I see a smaller pair of eyes. My guess is that they reflect the respective strengths of the evil, unseeing eye to the left and the good, all-seeing eye to the right. The harmony of the music/marriage below may be linked to the dominant force in the 'fifth' king. 
+
+  Meckenem may have combined in the chandelier what Van Eyck divided over the chandelier and the mirror. The Arnolfini chandelier is not hanging on a ring. The best available reproduction has cut off a bit from the top of the painting, so I had to resort to a lesser but more complete reproduction to show how the chandelier is attached. And since it's pretty dark up there, I have lightened the details.  
+
+  {% include image.html
+            img="../../../../assets/images/arnolfini/T-Top-plus.png"
+            title="Top kroonluchter"
+            class="image-center"
+            caption="The T on top of the chandelier" %} 
+
+So apparently the thing is suspended on two mouse grey knots at the end of two threads. The knots are like two fluffy eyeballs beneath a long monobrow formed by a straight, dragonesque snake. Head on the left, tail on the right. Although that tail could also be a head – a snake's head. As a double-sided animal it seems to be made be two adjoining gargoyles on top of a church spire. Not quite the right location for gargoyles. Just like the chandelier itself is not quite like the then-present papal tiara... Together, 'gargoyles' and 'spire' form a big letter T. Or, two L's of *Lucifer* with a shared stem? Mweh... Even so, that doesn't make the more obvious T go away. What might that T stand for? If the chandelier is indeed evil, then the T could stand something that could destroy the Arnolfini marriage: *Temptation*.
+
+In Middle Dutch the word was also spelled with a t – 'temptacie'. And in Latin it is, of course, *tentatio*. Given the fact that the inscription between the chandelier and the mirror is in Latin, this could be the main language used in the painting. Why would the T stand for *Tentatio* rather than, say, *Tenebris* ('darkness')? *Tenebris* is apt well, given the relatieve darkness in the area above the chandelier. A darkness that, strangely, is hardly broken by the light of the one burning candle. So, it could be *Tenebris* as well, but not just *Tenebris*, IMO. We've already seen a hint of the third temptation of Christ (according to Matthew). The many crowns in the chandelier that, via the pope's deposing and crowning power, can refer to the kingdoms that Satan/Lucifer gives away for worship. In the church spire that forms the stem of the T I see a reference to the second temptation of Christ (again following Matthew's order of events). "Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple, and saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone." (Matt. 4:5-6)
+
+In the Statenvertaling (1637), the Dutch equivalent of the King James bible, 'a pinncle of the temple' is translated with 'de tinne des tempels'. Two more T words... 'Tinne' is a Middle Dutch word meaning 'battlement, crenelation'. And that's exactly what can be seen around the base of the spire. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/tinne-des-tempels.png"
+            title="Tinne des tempels"
+            class="image-center"
+            caption="The battlements of the temple" %} 
+
+If the chandelier refers to two out of three temptations of Christ, one might expect a reference to the third one as well. The first one, according to Matthew, came when Jesus was hungry after fasting forty days and nights in the wilderness. "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread. But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
+" (Matt. 4:3-4) I don't see any stones in the chandelier, but you might say that its branches and thorny protrusions are like a wilderness. In fact, the chandelier can be neatly divided into the settings of the three temptation attempts.  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/Kandelaar-temptatie.jpg"
+            title="Kandelaar des verzoekings"
+            class="image-center"
+            caption="The chandelier of Temptation" %}   
+
+The wilderness of Temptation 1 flanks the blue mountain of Temptation 3, turned upside down beneath the golden temple tower of Temptation 2. That tower is higher than the 'very high' mountain, unless you subtract the red Temptation T from the temple. Then the tower is as high as the mountain (cum tiara in the chandelier body) minus the red head with the ring at the bottom. This suggests a link between that fiery head and the T. [inscriptie verwijst naar 'every word that proceeded etc.'?]  
+
+
