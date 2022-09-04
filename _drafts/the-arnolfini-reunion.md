@@ -120,7 +120,7 @@ In the Statenvertaling (1637), the Dutch equivalent of the King James bible, 'a 
             class="image-center"
             caption="The battlements of the temple" %} 
 
-If the chandelier refers to two out of three temptations of Christ, one might expect a reference to the third one as well. The first one, according to Matthew, came when Jesus was hungry after fasting forty days and nights in the wilderness. "And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread. But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
+If the chandelier refers to two out of three temptations of Christ, one might expect a reference to the third one as well. The first one, according to Matthew, came when Jesus was hungry after fasting forty days and nights in the wilderness. "And when the **Tempter** came to him, he said, If thou be the Son of God, command that these stones be made bread. But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
 " (Matt. 4:3-4) I don't see any stones in the chandelier, but you might say that its branches and thorny protrusions are like a wilderness. In fact, the chandelier can be neatly divided into the settings of the three temptation attempts.  
 
 {% include image.html
@@ -129,6 +129,73 @@ If the chandelier refers to two out of three temptations of Christ, one might ex
             class="image-center"
             caption="The chandelier of Temptation" %}   
 
-The wilderness of Temptation 1 flanks the blue mountain of Temptation 3, turned upside down beneath the golden temple tower of Temptation 2. That tower is higher than the 'very high' mountain, unless you subtract the red Temptation T from the temple. Then the tower is as high as the mountain (cum tiara in the chandelier body) minus the red head with the ring at the bottom. This suggests a link between that fiery head and the T. [inscriptie verwijst naar 'every word that proceeded etc.'?]  
+The brown wilderness of T1 flanks the blue mountain of T3, turned upside down beneath the golden temple tower of T2. That tower is higher than the 'very high' mountain, unless you subtract the red Temptation T from the temple. Then the tower is as high as the mountain (cum tiara in the chandelier body) minus the red head with the ring at the bottom. This suggests a link between that fiery head and the T. This link could be that the head is the head of the chandelier beast and the T its tail. The T may also say something about the identity of the head's owner. Given the now obvious references to the scenes of the three temptations of Christ, it is likely that apart from *Temptation* the T can also stand for *Tempter*, as the devil/Satan/Lucifer is named when he first appears before Jesus. The word used in the Early New Dutch of the Statenvertaling is 'verzoeker' (compare German 'Versucher'), but a bible translator in Van Eyck's time may have used the Middle Dutch 'tempterer' or one of its variants, 'tempteerre' and 'tempteerder'. In the Vulgate the tempter is called *tentator*.  
+
+The advantage of *Tentator* is that it's a good umbrella term for all the big baddies: Satan, Lucifer, Antichrist etc. It's certainly useful here because the chandelier integrates the devil/Satan of the temptation with Lucifer the light-bringing morning star. The *Tentator*'s head looks more Luciferian than Satanic: it's like the head of a bat with lion's manes. 
+
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/morgenster-met-ring.png"
+            title="Morgenster in kandelaar"
+            class="image-center"
+            caption="The batlike Morning Star shines" %}   
+
+Some bat grey can be seen in the eyebrows, and the two threads with which 'he' hangs on the ceiling. Lucifer had been described and depicted with battish characteristics long before this painting. It is said that when he fell from heaven his angel's wings turned into bat wings. Dante's described them like this:
+
+>*Beneath each face of his, two wings spread out,
+as broad as suited so immense a bird:
+I’ve never seen a ship with sails so wide.*
+
+>*They had no feathers, but were fashioned like
+a bat’s; and he was agitating them,
+so that three winds made their way out from him—* <br><span style="float: right; font-size: smaller;">(Inf. 34.46-51)</span> 
+<br>
+
+Since Dante's Lucifer has three faces, he has six wings – the same number of arms/wings like our Lucifer in the chandelier. A few years earlier, Giotto had painted flying demons with batlike wings in one of his scenes in the life of St. Francis. They have just two each, so it's not surprising that Lucifer got more. His six wings, two for each of his three *personae*, suggest that the chandelier opposes the Holy Trinity of the mirror with an unholy trinity. Dante's threefold Lucifer is made of what he considered the greatest traitors in human history: Brutus, Cassius and Judas. Van Eyck's chandelier trinity has different aspects. The theme here isn't treason but temptation. So if 'Tentator' is opposed to God, the three *personae* may be Tentator Satan/devil, Tentator Lucifer, and Tentator Antichrist. This trichotomy is, however, less obvious than the one we've already seen, that of the temptation locations. This may suffice, but I'm curious to see if those persons are present. Lucifer certainly is, with the batlike appearance of the chandelier. And the Antichrist? You might say that the crowns in the chandelier, directed against suffering Christ in the mirror, are the opposite of His crown of thorns. Since the prefix *anti* means 'against', the fact alone that the chandelier is pointed against the Christian mirror is enough to call it anti-Christian. 
+
+And the devil? He may be hiding in the details...   
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/duivelsoog.jpg"
+            title="The devil's eye?"
+            class="image-center"
+            caption="The devil's eye?" %}   
+
+It now seems even more likely that Meckenem's engraving was inspired by the *Arnolfini
+Portrait*, as there's an eye hidden in the 'wilderness' on the left of the 'mountain'. This eye, pointed out by the white arrow, may form a pair with the much flatter eye-like shape near the yellow arrow. This possible left eye also seems to be part of a skull in the aperture next to the more realistic eye. That small skull could be part of a long, devilish head, partly coinciding with one of the crowns, behind the brass arms. The red arrow points to one of several cornicular protrusions, while the green arrow points to the tip of the possible goatee. The big eye corresponds with the seeing left eye in the Meckenem chandelier. I hesitate to call it all-seeing and divine now, since it appears that he had lifted this eye from Van Eyck's chandelier – an eye that, given the unholy context, can hardly be all-seeing and divine. As in Meckenem's chandelier there's an unseeing eye opposed to the seeing one. There it is unseeing because it is obstructed, here it is unseeing because it's hollow – the apple of the eye is missing. Like the seeing eye the unseeing one is connected to a crown in the back of the chandelier.     
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/ogen-kandelaar.jpg"
+            title="Ogen van de kandelaar"
+            class="image-center"
+            caption="The seeing and unseeing eye of Van Eyck's chandelier" %}    
+
+I'm afraid that my interpretation of the eyes in the Meckenem chandelier is of much use anymore. And certainly not of use in explaining the similar pair in the Van Eyck chandelier. The eyes turn it into a huge head (with a T on top). This head could be the head of the threefold Tentator, composed of the three 'persons' but who are also equal to the whole. If the devil's face adds the (seeing) right eye to the Tentator head, then the Antichrist may add the (unseeing) left eye. Unlike Satan/the devil he doesn't appear to have a head of his own of which this blind eye is a part. Instead, the eye appears to add a scrotum to a phallic candle.                  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/peniskaars.png"
+            title="Balzakoog"
+            class="image-center"
+            caption="The scrotal eye" %}    
+
+The greyish wax is cut off from view in such a way that it looks like the light head of a brass penis. The association of the blind eye with a phallic form could mean that the blindness is the blindness of the mind when a being is dominated by the body, and busy satisfying its needs. This excessive physicality can be called anti-Christian, because the Word should be primary, not the flesh. 
+
+The blind eye is can also be seen as the reflection of the simple fact that this right side of the chandelier is significantly darker than the left side, which obviously profits more from the light outside. (Although, seen from the Tentator point of view this may not be regarded as 'profit'.) As the darkest side of the chandelier, the right side can be considered most antithetic to the Light of the World and therefore the most anti-Christian. So this side is most likely dominated by Tentator Antichrist. Except for the fact that his name isn't 'Antichrist', I can't think of any reason why Satan/the devil is more 'enlightened' than the Antichrist. It is mainly the devilish head in the left side and the batlike head in the center that makes me think that Satan/the devil is dominant in the left side of the chandelier and that Lucifer dominates the center.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/Kandelaar-tentator-driedeling.jpg"
+            title="De onheilige drieëenheid"
+            class="image-center"
+            caption="The unholy trinity. From left to right: Tentator Satan/the devil (yellow), Tentator Lucifer (purple), and Tentator Antichrist (brown)." %}   
+
+Being a trinity, the three *personae* are also one (sunstance). Meaning, I think, that the head of Tentator, the big chandelier head, represents the face of all three components. A face with one working eye (thanks to the daylight) and one blind eye. Why the unequal pair, that Meckenem deemed important enough to use in his chandelier? Why was light used to differentiate between the three evil *personae*? Perhaps to show that darkness is seldom complete and evil seldom pure. And perhaps to suggest that the duality between the good mirror and the evil chandelier isn't so absolute. Apart from this, I can think of two other possible reasons for the eye situation. First, it could refer to the saying 'In the country of the blind, the one-eyed man is king'. Erasmus had recorded a Latin version in his *Adagia* (*in regione caecorum rex est luscus*), and perhaps Van Eyck before him was aware of it. Perhaps he even knew the much older version from the Genesis Rabbah: "In the street of the blind, the one-eyed man is called the Guiding Light". King or Guiding Light, both fit the chandelier Tentator, the bringer of weak and/or false light. It fits Lucifer the Morning Star, whose light pales in comparison to the light of the sun. [one-eyed antichrist islam]                   
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/sikmuis.jpg"
+            title="Sikmuis"
+            class="image-center"
+            caption="Baby bat in the goatee?" %}       
+
+[inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus]  
 
 
