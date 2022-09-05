@@ -188,14 +188,42 @@ The blind eye is can also be seen as the reflection of the simple fact that this
             class="image-center"
             caption="The unholy trinity. From left to right: Tentator Satan/the devil (yellow), Tentator Lucifer (purple), and Tentator Antichrist (brown)." %}   
 
-Being a trinity, the three *personae* are also one (sunstance). Meaning, I think, that the head of Tentator, the big chandelier head, represents the face of all three components. A face with one working eye (thanks to the daylight) and one blind eye. Why the unequal pair, that Meckenem deemed important enough to use in his chandelier? Why was light used to differentiate between the three evil *personae*? Perhaps to show that darkness is seldom complete and evil seldom pure. And perhaps to suggest that the duality between the good mirror and the evil chandelier isn't so absolute. Apart from this, I can think of two other possible reasons for the eye situation. First, it could refer to the saying 'In the country of the blind, the one-eyed man is king'. Erasmus had recorded a Latin version in his *Adagia* (*in regione caecorum rex est luscus*), and perhaps Van Eyck before him was aware of it. Perhaps he even knew the much older version from the Genesis Rabbah: "In the street of the blind, the one-eyed man is called the Guiding Light". King or Guiding Light, both fit the chandelier Tentator, the bringer of weak and/or false light. It fits Lucifer the Morning Star, whose light pales in comparison to the light of the sun. [one-eyed antichrist islam]                   
+Being a trinity, the three *personae* are also one (sunstance). Meaning, I think, that the head of Tentator, the big chandelier head, represents the face of all three components. A face with one working eye (thanks to the daylight) and one blind eye. Why the unequal pair, that Meckenem deemed important enough to use in his chandelier? Why was light used to differentiate between the three evil *personae*? Perhaps to show that darkness is seldom complete and evil seldom pure. And perhaps to suggest that the duality between the good mirror and the evil chandelier isn't so absolute. Apart from this, I can think of two other possible reasons for the eye situation. 
 
+First, it could refer to the saying 'In the country of the blind, the one-eyed man is king'. Erasmus had recorded a Latin version in his *Adagia* (*in regione caecorum rex est luscus*), and perhaps Van Eyck before him was aware of it. Perhaps he even knew the much older version from the Genesis Rabbah: "In the street of the blind, the one-eyed man is called the Guiding Light". King or Guiding Light, both fit the chandelier Tentator, the bringer of weak and/or false light. It fits Lucifer the Morning Star, whose light pales in comparison to the light of the sun. 
+
+Second, the Dajjal, the Islamic equivalent of the Antichrist has one blind eye and one seeing eye. Bukhari, via Malik ibn Anas, tells us: "The Prophet Mohammed said, 'No prophet was sent, but that he warned His followers against the one-eyed liar (Ad-Dajjal). Beware! He is blind in one eye, and your Lord [Allah] is not so. And there will be written between his eyes the word *kafir*."[^1] In other hadiths the blind eye, usually the right one, is said to be like a protruding grape. In the chandelier it's the apple of the seeing (right) eye that looks more like a grape. Especially because the shape of the head around it is not unlike that of a bunch of grapes. 
+
+Although it's not very likely that Van Eyck read Islamic texts in his spare time, with the expanding Ottoman Empire knocking on the door of Belgrade at the time he may have heard something about the Islamic Antichrist. Perhaps even from Arnolfini himself. On the other had, if he wasn't aware of Dajjal, or of the saying, he may simply have had the idea that seems to be the basis for the Dajjal's ocular condition: to contrast him with Allah the All-Seeing. 
+
+I certainly can't see *kafir* or just *k.f.r.* written between Tentator's eyes. The two openings in the body are plus signs rather than letters. Plusses with horizontal bars that have dropped a little from the middle, making them seem like two Latin crosses turned upside down, like the Cross of Saint Peter, who supposedly was crucified upside down. Being symbols of the first pope, the two openings can be considered a reference to the Church. An *extra* reference, since they are part of the papal tiara-like form in the chandelier, and this is underneath the spire and the battlement of the temple. The two visible embrasures in that battlement are shaped like a trifolium, a symbol of the Holy Trinity. It is telling that these four Christian symbols are just small, empty spaces within a mass of brass. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/papal-helmet.png"
+            title="Paushelm"
+            class="image-center"
+            caption="Papal helmet" %}       
+               
+Battlements are usually associated with the walls of castles. The 'holy' symbols in the embrasures suggest that the Church has become a Castle. Meaning, that the pope has become more like a secular leader, getting the Papal States involved in wars, just like a regular king and his kingdom. The two Petrine Crosses beneath the battlement confirm this degeneration of the Church into a military power, because they also look like eye-slits in a brass helmet. A helmet that largely coincides with the papal tiara in the chandelier, and with that temple tower on top of it, it's fit for a church knight. 
+
+Like the extended tiara, the papal helmet may point to a future situation rather than depict Van Eyck's present. The idea being, again, that the Church is on its way to become identical with the Tentator. In other words, the body of Christ is transforming into the body of Satan. (Or the Antichrist, or Lucifer.) And with warrior popes like Julius II the worst was indeed to come...    
+
+(*Kafir*, by the way, means 'infidel'. This was also the term used for the crusading Franks. Those knights wore helmets not unlike the helmet in the chandelier. So in a sense there may be *kafir* 'written' between the anti-Chtistian eyes after all.)
+
+Slowly but certainly the meaning of the Arnolfini chandelier has become clear. A few more details need to be addressed before its relationship to the mirror will be examined. One of these is still rather puzzling to me. When you zoom into the supposed goatee of the supposed devil in the chandelier, you see this cute little creature:                   
 {% include image.html
             img="../../../../assets/images/arnolfini/sikmuis.jpg"
             title="Sikmuis"
             class="image-center"
             caption="Baby bat in the goatee?" %}       
 
-[inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus]  
+It may take a while before you see it. It helps to know that the white arrow point at its somewhat triangular right eye. Its left eye is on the same height, in the center of a head that seems to be suppressed by an arch in the chandelier arm above it. The arch clearly pushes down the creature's left ear. A hint of a nose can be seen below the right eye. My impression is that of a wingless baby bat.   
+
+inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
+
+[^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
+
+
+
 
 
