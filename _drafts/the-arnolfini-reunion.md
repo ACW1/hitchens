@@ -226,13 +226,17 @@ At the moment I can only explain this life form in light of the chandelier as pa
             title="Navelstreng"
             class="image-center"
             caption="A 'lifeline' between the chandelier and the mirror" %}               
-It looks like a long, unintended 'fault line', but I haven't seen a similar crack in the painting, and when you look closely there's a clear difference with the craquelure around it. For one thing, the line is dotted with 'patches' like the one pounted at by the pink arrow. For another, it's cut in three practically equal parts by the swirls of Van Eyck's inscription. The middle part, between the calligraphy, looks thinner and more crack-like than the parts that comnect to the mirror and the chandelier. (The upper half of the upper segment even takes on the colouring of the baby bat.) This thinning suggests that chandelier/mirror connection is hindered by the inscription. In other words, by Van Eyck himself.                   
+It looks like a long, unintended 'fault line', but I haven't seen a similar crack in the painting, and when you look closely there's a clear difference with the craquelure around it. For one thing, the line is dotted with 'patches' like the one pounted at by the pink arrow. For another, it's cut in three practically equal parts by the swirls of Van Eyck's inscription. The middle part, between the calligraphy, looks thinner and more crack-like than the parts that comnect to the mirror and the chandelier. (The upper half of the upper segment even takes on the colouring of the baby bat.) This thinning suggests that chandelier/mirror connection is hindered by the inscription. Meaning, perhaps, by Van Eyck himself.
+
+Why would he do that?! Is it a good thing or a bad thing? Is this what the inscription is about? (*Johannes de eyck fuit hic 1434* – "Jan van Eyck was here 1434".) Does that *hic* refer to the place between the chandelier and the mirror, and in particular to the place between the cross-bearing Jesus and the dangling baby bat (lower clergy)? Is is some sort of confession? "I was here, messing with this line." I call it a 'lifeline' in the caption to the above images of it, because it's the only connection between the chandelier and the mirror. If you consider the chandelier as a symbol of a Church that has become Luciferian, a corrupt Body of Christ, then the opposing mirror could represent the Spirit or Soul of Christ. In that view, that 'lifeline' indicates how far removed the Church is from true Christianity: it's hanging on to it by a thread. And even that thread is threatened. By a 'fork' with Jan van Eyck's name on it. And perhaps also an image of the artist as a fish...                         
 
 {% include image.html
             img="../../../../assets/images/arnolfini/pitchfork-signature.png"
             title="Hooivork"
             class="image-center"
             caption="Fishy J" %}
+
+            
 
 inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
