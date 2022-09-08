@@ -236,7 +236,16 @@ Why would he do that?! Is it a good thing or a bad thing? Is this what the inscr
             class="image-center"
             caption="Fishy J" %}
 
-            
+After tilting the image 90 degrees to the right, it becomes clear that the signature is shaped like a two-pronged (pitch)fork. Its business end consists of a calligraphic part that looks like some sort of musical notation, and a larger part (the J) that looks like a fish. The little red arrow points to its right eye. Below it is a V-shaped mouth that seems interested in have a bit of that 'notation'. So apparently it is J.'s hunger that forms the fork that threatens the thread. 
+
+In those days the fork still had a bad name. The three-pronged model in particular. It was associated with the devil, and demons used them for their prodding. God gave you fingers to eat with, so using a fork instead of those God-given fingers is an insult to His creative work. That was the idea, I think. And so the image of the fork adds weight to the suspicion that *Johannes de eyck* being there was not a good thing. Was he their, being demonic, in 1434, and in a different place when he painted *The Arnolfini Portrait*? That could mean that he painted it after 1434. Unless, of course, he repented in the same year. 
+
+What did he do wrong? What did he do that weakened the tie between the Church and its origin? If you indeed consider the chandelier to be the body of Christ and the mirror His soul/spirit/ghost/whatever, then the fork attack, by aiming to divide the two, can be called an assassination attempt. Feeling guilty of a crime against Christ, Van Eyck may have felt compelled to confess it in a painting. But why in this particular painting? Because it is about marriage? Did the painted joining of a man and a woman give him a good reason to add a painted confession of his attempt to *divorce* (simply put) Jesus Christ and the Church? 
+
+This is what He said (to the Pharisees) about divorce: 
+>Have ye not read, that he which made them at the beginning made them male and female, <br />And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh? <br />Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder. <span style="float: right; font-size: smaller;">(Matt. 19:4-6)</span>
+
+While the Arnolfini's are 'cleaving' to each other by their hands, above them the painter of their portrait is 'cleaving' the Christian lifeline.                                   
 
 inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
