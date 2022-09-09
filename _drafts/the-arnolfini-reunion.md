@@ -245,7 +245,23 @@ What did he do wrong? What did he do that weakened the tie between the Church an
 This is what He said (to the Pharisees) about divorce: 
 >Have ye not read, that he which made them at the beginning made them male and female, <br />And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh? <br />Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder. <span style="float: right; font-size: smaller;">(Matt. 19:4-6)</span>
 
-While the Arnolfini's are 'cleaving' to each other by their hands, above them the painter of their portrait is 'cleaving' the Christian lifeline.                                   
+While the Arnolfini's are 'cleaving' to each other by their hands, above them the painter of their portrait is 'cleaving' the Christian lifeline. If the woman is Constanza Trenta, man and wife were no longer 'one flesh' in 1434. Van Eyck had joined what God had put asunder. Is this the sin that he is confessing with his fork? I doubt it. I don't see what this has to do with the Church. My guess is that Van Eyck's mistake lies outside this painting. 
+
+What's clear is that the cause is some kind of hunger. If the fishy J wasn't interested in having a bite of the *notation*, there would have been no fork. The snapping mouth of the J and the fork itself say: "A man's gotta eat..." But was he so hungry that the black snake-like triplets in front of him looked appetizing? I guess they do, because the h, indicated by the orange arrow in the below image, appears to be a cross between the J and just such a 'snake' with a rectangular head.   
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/johvis.png"
+            title="J-vis"
+            class="image-center"
+            caption="Hungry J and snaky h" %}     
+
+Rather than eating the snake *notation* the h suggests 'communion' with it. So does the *CI* between the triplets and the h. The phallic I, in line with the lower jaw of the J fish, 'penetrates' a vaginal C. The yellow arrow points to a thin line on top of that C. It points to the I and the triplets, and makes the C look like a T with a crooked stem or the mirror image of a small J. The *CI* can stand for *Christus Iesus*. The flipped initials and the crooked T in the C can make it the *Tentator* kind of Christ, His mirror image: the Antichrist. Finally, the small J in mirror image suggests that the communion is internal: between the Christian and the anti-Christian *Johannes de eyck*. The Christian Jan is tempted by the anti-Christian one, and, unlike Jesus, Jan couldn't resist. The triplets represent the three temptations.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/jantichrist.jpg"
+            title="Jantichrist"
+            class="image-center"
+            caption="Calligraphic devil" %}                                                                 
 
 inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
