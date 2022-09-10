@@ -255,15 +255,43 @@ What's clear is that the cause is some kind of hunger. If the fishy J wasn't int
             class="image-center"
             caption="Hungry J and snaky h" %}     
 
-Rather than eating the snake *notation* the h suggests 'communion' with it. So does the *CI* between the triplets and the h. The phallic I, in line with the lower jaw of the J fish, 'penetrates' a vaginal C. The yellow arrow points to a thin line on top of that C. It points to the I and the triplets, and makes the C look like a T with a crooked stem or the mirror image of a small J. The *CI* can stand for *Christus Iesus*. The flipped initials and the crooked T in the C can make it the *Tentator* kind of Christ, His mirror image: the Antichrist. Finally, the small J in mirror image suggests that the communion is internal: between the Christian and the anti-Christian *Johannes de eyck*. The Christian Jan is tempted by the anti-Christian one, and, unlike Jesus, Jan couldn't resist. The triplets represent the three temptations.
+Rather than eating the snake *notation* the h suggests 'communion' with it. So does the *CI* between the triplets and the h. The phallic I, in line with the lower jaw of the J fish, 'penetrates' a vaginal C. The yellow arrow points to a thin line on top of that C. It points to the I and the triplets, and makes the C look like a T with a crooked stem or the mirror image of a small J. The *CI* can stand for *Christus Iesus*. The flipped initials and the crooked T in the C can make it the *Tentator* kind of Christ, His mirror image: the Antichrist. Finally, the small J in mirror image suggests that the communion is internal: between the Christian and the anti-Christian *Johannes de eyck*. The Christian Jan is tempted by the anti-Christian one, and, unlike Jesus, Jan couldn't resist. He couldn't say "Get thee hence, Satan" – instead he *approached* the devil inside him. If the triplets represent the three temptations, Jan goes for the lowest of the three, which could be the third one. Which is the one about the kingdoms, according to Matthew; about the jumping from the temple, according to Luke.
+
+Between the triplets and the collection of small rectangles (similar to the heads of the little tempting snakes) a C-shaped eyelike form can be discerned. The also C-shaped eye of the J fish appears to be looking at it. This is suggested by the kinked little line connecting the ends of that C. Its bolder upper part can represent the upwardly directed pupil of the fish eye. The fish is looking at his very own *Tentator*.      
 
 {% include image.html
             img="../../../../assets/images/arnolfini/jantichrist.jpg"
             title="Jantichrist"
             class="image-center"
-            caption="Calligraphic devil" %}                                                                 
+            caption="The calligraphic devil inside" %}                                                                 
 
-inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
+Given my association of this part of the signature fork with musical notation, the devilish head formed by it also looks strangely musical. In the 1430s the devil probably had the best tunes as well. Was the J fish first attracted by his deceptively sweet music? 
+
+The calligraphic devil has one visible, hook-like horn above the group of little rectangles (between the white arrows) that form the forehead. Perhaps they represent the devil's brain? Heavy eyebrows? Either way, the similarity of the little rectangles with the heads of the tempting triplets suggests that the area between the horn and the eye is the place where snaky temptations are born. Or where their heads are stored. Each temptation snake seems to be made of a head from the 'brain' and a body from the horn above it. The bodies of the triplets are like three smaller horns with (thinner) extensions. Because these horn lines are extended these bodies look more like the 'horn' of the J fish. Its tail also continues and crosses itself, forming almost an 8. The fact that the fish is curling his tail like the triplets can be regarded as a sign that he is biting and by succumbing to the (third) temptation is becoming like them – evil. By the way, rather than eights the triplets seem to form sixes (in mirror image). 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/666.png"
+            title="666"
+            class="image-center"
+            caption="666" %}
+
+As a whole the J fish looks like a horn, too. Like an empty cornucopia, to be precise. Bound together with three *I*'s, of which the largest is indicated by the orange arrow in the following image on the left. The red arrow points to a similar cornucopia binding.    
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/cornucopia.jpg"
+            title="Cornucopia"
+            class="image-center"
+            caption="Bound cornucopias <br />Right: <span style='font-style: italic;'>Portrait of Ottavio Strada</span> (detail), Marietta Robusti, 1567-68" %}        
+
+According to Ovid and others the horn of plenty once belonged to a mythic goat (Amalthea). So what we see in the 'pointy' part of the (pitch)fork are two (parts of) goats looking each other in the eye. And perhaps, like the fish, the devilish part is also both partly and wholly horn. The shape of the triplets does suggest the opening of a horn. However, I prefer the idea that they complement each other. On the left we have a horn without plenty and on the right we see (below the shorter, already desginated devil's horn) plenty without horn. This 'plenty' would then comprise: the inner devil's 'brain', his eye, the triplets, and perhaps the *C[T/J]I* below it. If the latter forms the devil's mouth, the triplets should represent his nose. If, on the other hand, the C[T/J]I* forms the lower jaw, the triplets could form both the nose and the mouth. The head of the lower snakelet is like a little square mouth. And the heads of the two snakelets above it may represent the holes of the nose. 
+
+Whatever are the appointed nose and mouth, another intriguing thing about the calligraphic head's anatomy is that the eye appears to be to the 'brain' what the *C[T/J]I* is to the triplets. It suggests that one set develops from the other: that the *C[T/J]I* is formed from the eye and the triplets from the 'brain' – and/or the other way round. The developing of the triplets and the *C[T/J]I* can then be seen as the equivalent of the approach of the tempter in Matt. 4:3. 
+
+Continuing along the complementary line, you might say that on the one hand you have a good but skinny goat and on the other a bad, fat goat. The relative goodness of the J is suggested by its fishiness. Jesus and fish are associated, most notably by the ichthys symbol. The three *I*'s binding the 'horny' J fish can be seen as I's of the Latin *Iesus*. And if you look closely, you can see that these light binding I's are formed by dark J's. The three bindings may refer to the popular etymology of *religion*, but also to the light yoke of Christ. The largest one, around the neck, still leaves some room for the widening of the mouth. But otherwise they seem to prevent J from splitting himself in two in order to fill himself with plenty. The strength of those three bindings can therefor be seen as a measure of J's Christian strength. His strength to resist temptation. So the slight looseness in the neck reflects his loosening morals. For the J horn to become a hormn of plenty, the bindings *need* to loosen up. Otherwise the horn can't be filled.
+
+This all reminds me of the dilemma that has pestered professional artists throughout the ages. Hold on to your lofty principles and starve, or sell out and eat. One way of dealing with this is to do what Van Eyck seems to be doing here: eat, and be sorry. To tell in a hidden way what you **really** think. In the same commission that caused the moral pain, or, as it seems the case here, in another work.                 
+
+666 / inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
 [^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
 
