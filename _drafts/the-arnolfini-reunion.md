@@ -289,9 +289,82 @@ Whatever are the appointed nose and mouth, another intriguing thing about the ca
 
 Continuing along the complementary line, you might say that on the one hand you have a good but skinny goat and on the other a bad, fat goat. The relative goodness of the J is suggested by its fishiness. Jesus and fish are associated, most notably by the ichthys symbol. The three *I*'s binding the 'horny' J fish can be seen as I's of the Latin *Iesus*. And if you look closely, you can see that these light binding I's are formed by dark J's. The three bindings may refer to the popular etymology of *religion*, but also to the light yoke of Christ. The largest one, around the neck, still leaves some room for the widening of the mouth. But otherwise they seem to prevent J from splitting himself in two in order to fill himself with plenty. The strength of those three bindings can therefor be seen as a measure of J's Christian strength. His strength to resist temptation. So the slight looseness in the neck reflects his loosening morals. For the J horn to become a horn of plenty, the bindings *need* to loosen up. Otherwise the horn can't be filled.
 
-This all reminds me of the dilemma that has pestered professional artists throughout the ages. Hold on to your lofty principles and starve, or sell out and eat. One way of dealing with this is to do what Van Eyck seems to be doing here: eat, and be sorry. To tell in a hidden way what you **really** think. In the same commission that caused the moral pain, or, as it seems the case here, in another work.                 
+This all reminds me of the dilemma that has pestered professional artists throughout the ages. Hold on to your lofty principles and starve, or sell out and eat. One way of dealing with this is to do what Van Eyck seems to be doing here: eat, and be sorry. To tell in a hidden way what you **really** think. In the same commission that caused the moral pain, or, as it seems the case here, in another work.
 
-drieledige staart J-vis / inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
+The tail of the J fish is more akin to the triplets than I noted earlier. It happens to be threefold as well. The tail consists of three strings waving in the murky water of the back wall. The longest is the central near-8. The white arrow in the image below points to the hook-like black C where it ends. Below it ends the upper string (indicated by the red arrow). Slightly to the right of that end point a short 'substring' has split off, also pointing towards said end point. The result is that the final part of the upper string looks a bit like the upper part of a skull, pushing against the 'lifeline' bothered by Jan's name fork. Also worth noting is that this string is the mirror image of an S. The skull in its top could mean that this S could be the initial of the skull's owner...            
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/losse-staarten.jpg"
+            title="Losse staarten"
+            class="image-center"
+            caption="Loose, triple tail fin" %}             
+
+While the 'S string' doesn't cross the lifeline at all, the third tail string crosses it no less than three times; ending near the blue arrow. The near-8 crosses the line twice, even though it's much longer than the lower string. If the tail strings are also evil like the triplets and intent on dividing the lifeline, then you'd expect the near-8 to be more divisive than the lower string. The reason that it isn't could be the H indicated by the upper orange arrow. The other orange arrow points to a smaller H in the lower string. Two details that for centuries must have been disregarded as meaningless parts of the signature. Now they are **Clues**. Take a look above the yellow arrow. This is where the cornucopia (*cornupenuria* would be more apt here) disintegrates into the three strings. Unlike the two binding *I*'s above it, the one in the tail has to tolerate the intrusion of its 'light' interior by two little lines. The one in the middle is the 'source' of the near-8 string, and the one above it is the start of the S string. To the left of this binding a row of two or three H's can be seen.   
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/staart-transitie.png"
+            title="Close-up staart"
+            class="image-center"
+            caption="Losing control: <span style='font-style: italic;'>I</span> becomes <span style='font-style: italic;'>H</span>" %}      
+
+They appear to be two or three inferior bindings. Inferior because the near-8 string runs through them, suggesting that these bindings can't control it. The upper two *I* bindings at least appear to control the lines by going *around* the cornupenuria. The third one doesn't; it looks like it was cut like a band holding a bunch of flowers. From this apparent point of *no control* the H phase next to it shows bindings that don't control but are controlled by what should be controlled. 
+
+So, what does this mean for the two H's (indicated by the orange arrows) in the separated strings? At first I thought that the H in the near-8 still showed some Christian binding power, because it seemed to prevent that string from crossing/dividing the lifeline more often. The problem is that this wouldn't be consistent with the idea that the third *I* binding no longer has any binding power. Consistent with the transition to *H* bindings would be that the H's are anti-Christian bindings and as such work for the greater evil. This implies that the near-8 H is keeping that string together because it can do more harm that way. This would be the case if the main goal isn't to divide the lifeline as many times as possible but to *control* as much as possible of it. In that regard the near-8 string is the clear winner: the part of the lifeline stuck into its big mouth is longer than the two parts of the lifeline controlled by the lower string put together. The upper string does not control a part of the lifeline, but the S seems content with using his head to keep the lifeline in the near-8 mouth in line. The lower string appears the aid the main string by pushing a bit of lifeline (indicated by the white arrow in the following image) against the near-8.   
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/losse-staarten2.png"
+            title="Losse staarten 2"
+            class="image-center"
+            caption="Tail strings vs. lifeline" %}     
+
+The smaller H in the lower string doesn't appear to do anything. It certainly isn't holding lines together. Perhaps it is the equivalent of the useless third *I* binding, or it may be using its force of evil to bend the lower string. It may also have some function that currently eludes me... 
+
+I doubt if it matters much, but the snaky S string seems H-less. Perhaps there's one in the tail (indicated by the yellow arrow). In the other end of the S there's an odd bit of light (encircled in white below). It appears to be part of an eye. A reason for its presence could be the need to make the top of the skull look like a (living) head in itself. A head that's threateningly facing the lifeline, whereas the semi-skull 'looks' in the direction of the transition area. Other than this I see no reason for an eye here, so it would be no disaster of closer study would reveal that the S string is eyeless after all.       
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/s-string.jpg"
+            title="S string"
+            class="image-center"
+            caption="Snake eye in S string?" %}       
+ 
+The situation in the J fish tail is similar to the one in the head of the J fish. The yoke, the binding in the neck, shows some slack, enabling the head to open its mouth and succumb to the temptation. The third binding, in the tail, shows even more slack. So much so that, as I said, it doesn't seem to have any binding power. The result is an even larger widening in the tail beyond it. Where the top of the cornupenuria splits into two parts/jaws, its bottom splits into three parts/strings. So, if the divided top is bad enough to fall for the temptation, the even more divided bottom must be even worse. Bad enough, perhaps, to act like the triplets. If their goal was to divide the top of the cornupenuria, than the goal of the three equally snakelike tail strings must be the division of the lifeline. 
+
+Is this evil within the 'good' goat/horn/fish/J inherent or is it caused by the fall of the top? Most likely it's a bit of both. Given the age-old Christian opposition between the pure soul and the sinful flesh, it's likely that the head is the best, the most spirtual part of the fish, and the tail the worst, most fleshy part. The more the mind is in control, the more the body is kept from sinning. Total control of the body by the mind would in this case translate to a tail that doesn't spread out like it does here. On the contrary, the tail would be completely bound by *I*'s. And of course it wouldn't bother the lifeline. Instead of weakening it, the right, dominating mind would rather order it to strengthen it. If the mind weakens, like that of Jesus in the desert, than its grip on the body weakens. And that first becomes apparent in the part that is farthest away from the head; the tail, where the body is already relatively strong. So the three strings reflect a rebellion of the body against a mind weakened by hunger.
+
+The tension between mind and body, or rather body and soul, appears to be expressed in Jan's J as well. Because of its split top this particular J can be seen as the sum of an A in the upper half and a C in the lower half of the J. They could be the A of *Anima* ('soul') and the C of *Corpus* ('body'). The A becomes clearer when you turn the J 180 degrees. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/AC-vis.png"
+            title="AC-vis"
+            class="image-center"
+            caption="J = AC" %}                       
+
+The first *I* binding serves as its cross bar and the short, vertical line above middle of it – between the yellow arrow and the 'eyes' of the h and the o of *Johannes* – is the A's (black) eye. The second *I* binding marks the end of the A and the beginning of the C. Whether the C stretches from the orange arrow to the red or the pink arrow doesn't really matter. Either way the C shape is clear. But the fish/J doesn't end there. It continues with the three loose strings. In my view they are even more corporeal than the rest of the body, so how come they're not part of the C in the J? The answer to that question is that these strings can be said to be made of different kinds of C's that were 'stringed' together. And, like in the C-in-J, there are also a few I's in them. (The H's, for instance, are made of I's.) 
+
+
+So there are many corporeal C's attached to the C of the J proper. This one C is less corporeal, because it is more bound by *I*'s than the string C's. There's a nice substantial symmetry in the whole fish/J, as there is not a single A opposed to the 'bound' C and the set of 'unbound' C's. There are two A's. There's a smaller A in the right leg of the large one.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/A-in-A.png"
+            title="A-in-A"
+            class="image-center"
+            caption="A in A" %}   
+
+The legs of this A in A are formed by the smaller 'mouth', the eye of the J fish. The eye of the A standing on those legs could be the tiny black dot, indicated by the green arrow. There's another one like it in the lower jaw of the fish, suggesting that there's an A in the left leg of the large A as well. An a with thinner legs and no eye between them. This makes the 'right leg A' special. Plus the fact that it coincides with the head of the fish. If the string C's in the tail represent the lowest, most physical part of the fish, the head A represents the most spiritual part of the fish. The ancients considered this part – call it *logos*, mind, *nous*, reason or intellect – to be the highest part of the soul. 
+
+This set-up suggests two, maybe three opposing pairs. First, the whole *animal* A versus the whole *corporeal* C (being the 'bound' C plus the string C's in the tail). Second, the best versus the worst, i.e. the head A versus the string C's. Third, maybe, the lesser good versus the lesser evil, i.e. the lower jaw A versus the 'bound' C. Because the horn is empty, because the *cornu* is *penuria* instead of *copia*, the *Anima* has more trouble controlling the *Corpus*. The *Corpus* demands at least part of the plenty that the local Tentator has to offer. As I pointed out before, the J fish has turned its eye towards that Tentator's eye. But I didn't know then that there's another head in the fish head. The head A turns out to be a bird's head. The somewhat meek and humble look in the right eye of the fish is also an angry looking left eye in the bird's head.   
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/angry-bird.jpg"
+            title="Angry bird"
+            class="image-center"
+            caption="Angry bird" %}   
+
+The effect is again reached by a pupil-suggesting thickening in the line of the eye. The anger appears to be directed at the tail strings, and particularly the near-8. They seem like worms that the bird wants to eat but can't, because he is stuck, bound by the *I* bindings. The lower jaw of the fish, with its extension in the *C[T/J]I* (indicated by the white arrow), looks like the bird's left wing – also stuck and powerless.
+
+The reason for this 'double address' – a bird's head looking at his own 'worms' and a fish head looking at the Tentator – could be a wish to stress J's ambivalence about the situation. On the one hand he's almost begging for the nourishment that the Tentator can give him. While on the other hand he wants correct the tail situation. If the fish is the J equivalent of God the Son, the (white) bird must be the J equivalent of God the Holy Ghost – bound, and hindered, by the flesh of the fishy J Jesus. [and God the Father?]                         
+
+gezicht in ha van Johannes, met grote neus eronder / ironie: opening mond => opening staart, waardoor de overvloed aan de achterkant weer uit de hoorn verdwijnt (poep)/inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
 [^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
 
