@@ -350,7 +350,7 @@ So there are many corporeal C's attached to the C of the J proper. This one C is
             class="image-center"
             caption="A in A" %}   
 
-The legs of this A in A are formed by the smaller 'mouth', the eye of the J fish. The eye of the A standing on those legs could be the tiny black dot, indicated by the green arrow. There's another one like it in the lower jaw of the fish, suggesting that there's an A in the left leg of the large A as well. An a with thinner legs and no eye between them. This makes the 'right leg A' special. Plus the fact that it coincides with the head of the fish. If the string C's in the tail represent the lowest, most physical part of the fish, the head A represents the most spiritual part of the fish. The ancients considered this part – call it *logos*, mind, *nous*, reason or intellect – to be the highest part of the soul. 
+The legs of this A in A are formed by the smaller 'mouth', the eye of the J fish. The eye of the A standing on those legs could be the tiny black dot, indicated by the green arrow. There's another one like it in the lower jaw of the fish (indicated by the white arrow), suggesting that there's an A in the left leg of the large A as well. An a with thinner legs and no eye between them. This makes the 'right leg A' special. Plus the fact that it coincides with the head of the fish. If the string C's in the tail represent the lowest, most physical part of the fish, the head A represents the most spiritual part of the fish. The ancients considered this part – call it *logos*, mind, *nous*, reason or intellect – to be the highest part of the soul. 
 
 This set-up suggests two, maybe three opposing pairs. First, the whole *animal* A versus the whole *corporeal* C (being the 'bound' C plus the string C's in the tail). Second, the best versus the worst, i.e. the head A versus the string C's. Third, maybe, the lesser good versus the lesser evil, i.e. the lower jaw A versus the 'bound' C. Because the horn is empty, because the *cornu* is *penuria* instead of *copia*, the *Anima* has more trouble controlling the *Corpus*. The *Corpus* demands at least part of the plenty that the local Tentator has to offer. As I pointed out before, the J fish has turned its eye towards that Tentator's eye. But I didn't know then that there's another head in the fish head. The head A turns out to be a bird's head. The somewhat meek and humble look in the right eye of the fish is also an angry looking left eye in the bird's head.   
 
@@ -362,7 +362,33 @@ This set-up suggests two, maybe three opposing pairs. First, the whole *animal* 
 
 The effect is again reached by a pupil-suggesting thickening in the line of the eye. The anger appears to be directed at the tail strings, and particularly the near-8. They seem like worms that the bird wants to eat but can't, because he is stuck, bound by the *I* bindings. The lower jaw of the fish, with its extension in the *C[T/J]I* (indicated by the white arrow), looks like the bird's left wing – also stuck and powerless.
 
-The reason for this 'double address' – a bird's head looking at his own 'worms' and a fish head looking at the Tentator – could be a wish to stress J's ambivalence about the situation. On the one hand he's almost begging for the nourishment that the Tentator can give him. While on the other hand he wants correct the tail situation. If the fish is the J equivalent of God the Son, the (white) bird must be the J equivalent of God the Holy Ghost – bound, and hindered, by the flesh of the fishy J Jesus. [and God the Father?]                         
+The reason for this 'double address' – a bird's head looking at his own 'worms' and a fish head looking at the Tentator – could be a wish to stress J's ambivalence about the situation. On the one hand he's almost begging for the nourishment that the Tentator can give him. While on the other hand he wants correct the tail situation. If the fish is the J equivalent of God the Son, the (white) bird must be the J equivalent of God the Holy Ghost – bound, and hindered, by the flesh of the fishy J Jesus. Of course this doesn't mean much without a suitable God the Father to complete the Trinity. This is where the companion of the dot (acting as the eye of the A in A) comes in handy. Together they may form the eyes of the J equivalent of God the Father. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/God-de-Vader.png"
+            title="God de Vader"
+            class="image-center"
+            caption="J's <span style='font-style: italic;'>Deus <span style='font-weight: bold;'>P</span>ater</span>?" %}                                
+
+His mouth could be the first *I* binding or the central vertical line below it, indicated by the light blue arrow. As we've seen, this short line is also serving as the eye of the large *Anima* A. The orange arrow is pointing toward what could be God's nose. Of course this form coincides with the fish's mouth. Its beak-like shape is appropriate, because it makes God look like a cross between the fishy Son and the Holy Ghost (angry) bird. The nose/mouth/'space between bird's head and his wing' is also shaped like a letter V. A V that is part of the much larger V that is equal to the assumed threefold head above the first binding. (Or, the legs of the *Anima* A below the cross bar.) BTW, a 'holy' threefold head versus the 'unholy' trinitarian triplets does seem a fitting confrontation. 
+
+Anyway, both or one of those V's could stand for 'Vader', the Duch and Middle Dutch word for 'Father'. The presence of God the Father (in J) is also hinted at by the *C[T/J]I* above the right side of the V. When you turn it 180 degrees (see the above image on the right), then it also appears to be a letter P. Possibly the P of *Pater* – 'Father'.
+
+The letter stuff doesn't end there. The smaller contour V continues in the lower fish jaw, forming an angular letter S. This could be the S of the Middle Dutch *Sone* (or *Soon* or *Soin*) – 'Son'. The S extended with the I in the *C[T/J]I/P* shows some resemblance with an H. This H may stand for the Middle Dutch word for 'Holy', which could be 'Hillige' or several other variants, all starting with an H. The multifunctional *C[T/J]I/P* may also be involved in forming the letter G of *Gheest* ('Ghost'). The I in the *C[T/J]I/P*, the top of the H's right side, could be the (long) jaw of that G. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/V-S-H.png"
+            title="Vader Soon Hillige Gheest"
+            class="image-center"
+            caption="V[ader] – S[one] – H[illige] G[heest]?" %}  
+
+Admittedly, especially the H and G are not totally convincing. However, there is quite a convincing other reference to the Holy Ghost in the amazing *C[T/J]I/P*. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/CI-vogel.png"
+            title="CI-vogel"
+            class="image-center"
+            caption="Stylized bird and ditto G" %}  
 
 gezicht in ha van Johannes, met grote neus eronder / ironie: opening mond => opening staart, waardoor de overvloed aan de achterkant weer uit de hoorn verdwijnt (poep)/inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
