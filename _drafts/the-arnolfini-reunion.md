@@ -407,7 +407,7 @@ I suppose the G-bird is a tragic little creature. It represents a Holy Ghost tha
 
 Unlike Jesus the J isn't taken from the cross and buried in a tomb. At least not literally... The suffering of the J is not relieved by death but by the plenty needed to turn the cornupenuria into a cornucopia. (Ironically, the unbinding in the tail would probably mean a quick exit of the plenty from that end.) If the G-bird, the ghost given, has indeed been reduced to the status of common *anima*, we can see the exchange as J giving/'selling' his soul for plenty.     
 
-gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
+G-bird is ook A van Anima / gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
 [^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
 
