@@ -382,15 +382,32 @@ The letter stuff doesn't end there. The smaller contour V continues in the lower
             class="image-center"
             caption="V[ader] – S[one] – H[illige] G[heest]?" %}  
 
-Admittedly, especially the H and G are not totally convincing. However, there is quite a convincing other reference to the Holy Ghost in the amazing *C[T/J]I/P*. 
+Admittedly, especially the H and G are not totally convincing. However, there is quite a convincing other reference to the Holy Ghost in the amazing *C[T/J]I/P/G*. From now on I'm calling it *CI* again, because this name is getting out of hand. Or should I just call it 'blackbird'?   
 
 {% include image.html
             img="../../../../assets/images/arnolfini/CI-vogel.png"
             title="CI-vogel"
             class="image-center"
-            caption="Stylized bird and ditto G" %}  
+            caption="Stylized 'G-bird'" %}  
 
-gezicht in ha van Johannes, met grote neus eronder / ironie: opening mond => opening staart, waardoor de overvloed aan de achterkant weer uit de hoorn verdwijnt (poep)/inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
+An elegant, stylish little bird. The I represents the wings, or just the left wing. The yellow arrow points to a barely perceptible upside-down V: the sides of that tiny V are the legs with which the bird is standing on the J. The tip of the bigger, angry bird's wing, to be precise. The white arrow indicates the bird's crest. It's beak, on the other side, is pecking at the lowest of the triplets. 
+
+Note the contrast with the J bird. The G-bird is small, black, and attacking a serpentine set larger than itself. The J-bird is relatively big, relatively light, and not attacking the thin serpentine tail strings – although the angry look suggests that it *wants* to attack them. Both seem powerless. In fact, if the G-bird's pecking at the triplets has any effect, it is to bring them closer to the J, the cornupenuria. That this is happening is suggested by the fact the bird-pecked triplet hangs lower than its two siblings. This would mean that the G-bird (formerly known as the *CI*) still has a rightful place in the devil's face in the evil side of Jan's fork. Presumably his mouth. The pecking that pushes the temptation triplets closer to the mouth of the J would then be equal to the Tentator's talking. 
+
+How can being part of the evil anatomy be reconciled with the notion that the G-bird is the G of *Ghost* to the H of *Holy* in the fish? And why **two** 'holy' birds? 
+
+I suppose the G-bird is a tragic little creature. It represents a Holy Ghost that has materialized (blackened) to such an extent that it thinks it is doing the right thing (attacking evil) but is incapable of realizing that by doing that it is actually furthering the cause of evil. It is inadvertently evil. Unwittingly it belongs more to the devil than to the J. It would be apt, if it does coincide with the devil's mouth. As a prime locus for the breath of life – i.e. the soul – it suggests that the G-bird has been reduced from *Logos* to mere *anima*. Its position in relation to the J's mouth also reminds one of the end of Jesus on the cross: "Jesus, when he had cried again with a loud voice, yielded up the ghost.
+" (Matt. 27:50) The fishy J, the also suffering 'horn of lack', does the same. But he gets something in return... 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/J-geeft-geest.png"
+            title="J geeft geest"
+            class="image-center"
+            caption="J gives up the ghost... and takes the plenty" %}              
+
+Unlike Jesus the J isn't taken from the cross and buried in a tomb. At least not literally... The suffering of the J is not relieved by death but by the plenty needed to turn the cornupenuria into a cornucopia. (Ironically, the unbinding in the tail would probably mean a quick exit of the plenty from that end.) If the G-bird, the ghost given, has indeed been reduced to the status of common *anima*, we can see the exchange as J giving/'selling' his soul for plenty.     
+
+gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
 [^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
 
