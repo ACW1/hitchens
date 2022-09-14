@@ -405,9 +405,26 @@ I suppose the G-bird is a tragic little creature. It represents a Holy Ghost tha
             class="image-center"
             caption="J gives up the ghost... and takes the plenty" %}              
 
-Unlike Jesus the J isn't taken from the cross and buried in a tomb. At least not literally... The suffering of the J is not relieved by death but by the plenty needed to turn the cornupenuria into a cornucopia. (Ironically, the unbinding in the tail would probably mean a quick exit of the plenty from that end.) If the G-bird, the ghost given, has indeed been reduced to the status of common *anima*, we can see the exchange as J giving/'selling' his soul for plenty.     
+Unlike Jesus the J isn't taken from the cross and buried in a tomb. At least not literally... The suffering of the J is not relieved by death but by the plenty needed to turn the cornupenuria into a cornucopia. (Ironically, the unbinding in the tail would probably mean a quick exit of the plenty from that end.) If the G-bird, the ghost given, has indeed been reduced to the status of common *anima*, we can see the exchange as J giving/'selling' his soul for plenty. 
 
-G-bird is ook A van Anima / gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
+I'm hesitant to add yet another letter to the G-bird formerly known as *CI*, but duty calls. Look at it from the angle in the image above, and see that the (almost) G is also a (almost) A. With a cross bar equal to the *I*/wing(s) and an underdeveloped right side. If you see the (letter) form as a G transforming into an A, it would be a good reflection of the Holy Ghost's degradation to just *Anima*. Unfortunately this letter transformation requires the not so elegant combination of Middle Dutch and Latin. 
+
+
+More importantly, however, I think that the exchange is convincing. Jan van Eyck sells his soul for milk and honey. Milk and honey? Yes, these may be the prime ingredients of the *copia*. According to myth the goat Amalthea fed the infant Zeus in Crete with her milk, and bees brought him honey. So, since Amalthea's horn became the horn of plenty, there's a link between the cornucopia and young Zeus's diet. Van Eyck may be referring to it. I thought about this after realizing that the (degraded) ghost is not only given, it is also received. If the G-bird indeed forms the mouth of the devilish Tentator, than it seems that J is giving the devil the breath of life. Of course this immediately raises the question: if J brings the devil to life, how can the devil have tempted him into it? Not by using sweet, false words, as I suggested earlier, but simply by being *stuff*. *Stuff* that J craves. It is the plenty itself that is tempting, and by succumbing J breaths devilish life into this matter. 
+
+So if J has given him a soul after succumbing to the temptation, the *notation* area between the eye and the horn can't be the brain where the devil's plan was hatched. Before J's fall it was also just stuff. A part of the plenty that looks like a honeycomb built with four-sided instead of six-sided cells. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/Melk-en-honing.png"
+            title="Melk en honing"
+            class="image-center"
+            caption="The prong of milk and honey" %} 
+
+Why four-sided? Perhaps because Van Eyck didn't want to be too obvious. Or because these cells look more like letters. Mostly like a bunch of E's sticking together. The relatively loose item indicated by the red arrow looks more like a d, though. A d that wants to become a capital D. Below it I see an I (above the yellow arrow) and a taller E (orange arrow) next to it. The Middle Dutch word for 'devil' is *duvel*, but the name was also spelled *dievel* and *divel*. So *d IE* could be the beginning of *dievel*.
+
+The horn and the eye both appear to spring forth from the 'honeycomb', but it's also possible that the horn is primary. The branch on which the 'honeycomb' hangs, and formed, perhaps by having looser forms like the d, I and E sticking together. The eye is also a locus of the soul. And I must admit that, like the G-bird, it looks like a combined G-A. Plus, as I remarked before, it's situated beneath the four-sided cells like the G-bird beneath the triplets. So, if the eye really is an eye, this local Tentator may have been animated after all before the ghost was given. But is it 'really' an eye? The white arrow in the above image points to a thin line flowing from the supposed pupil. [MAMMA in honing]                                      
+
+gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
 [^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
 
