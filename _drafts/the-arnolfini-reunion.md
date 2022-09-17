@@ -446,7 +446,73 @@ The white dashed line divides the two parts of the 'honeycomb'. If we assume tha
 
 But what does it all mean? 
 
-[di = lat. god]    
+It means two-fold support for my breast theory. First: the letters. Assuming that the lower section grows out of the upper section, the letters first appear to spell *d MAM[M]A* and then, less clearly, *IEMAM[M]A*, *HEMAM[M]A*, *IMMAM[M]A*, or *HMMAM[M]A*. Since the IE originated from the d, you might say that the d 'contains' the IE and can be seen as the abbreviation of 'dIE'. The Middle Dutch word *die* functioned both as a demonstrative and an article. So 'dIE MAM[M]A' can be read as 'this mom' or 'the mom'. The problem, however, is that neither *mama* or *mamma* is in the Middle Dutch dictionary. Although the words may have been used by children to designate their mother, as it was done in Latin. For Latin-speaking grown-ups *mamma* meant 'a breast, pap, esp. of females, rarely of males; also, a teat, dug of animals.' So children used 'mamma' as a *pars pro toto*. Mother was named after the *pars* that fed the child and thereby kept it alive.
+
+The Latin *mamma* became the Middle Dutch *mamme* '(female) breast'. In Early New Dutch – that is, from around 1500 – this word also came to mean 'mother, nurse'. Could the lower A be the e of *mamme*? When you zoom in on its problematic right side, there does appear to be an E in it.  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/mammie.png"
+            title="Mammie!"
+            class="image-center"
+            caption="Mammie?" %}              
+
+This E (indicated by the white arrow) is preceded, however, by what looks like an I (indicated by the yellow arrow). *Mammie*?! As far as I know that's no variant of *mamme*. But I before E is something we've seen before – at the head of the lower section, the result of the d's transformation. This 'new', less conspicuous IE may represent a similar division. Perhaps to show change within the changing section. If it means that the lower A has become untenable as an A, that wouldn't be the end of *MAM[M]A*. Proper, if squarish A's can be picked at will from the three-story 'M building'. And since those M's can also function as E's, it is also possible to form *MAMME*, or its variant *MEMME*. 
+
+So, in Middle Dutch the upper section can read *d MAMME [ie]* – 'the breast', or, supposing the *pars pro toto* to be in effect at the time, 'the mother, nurse'. In Latin we can read the section as *d MAMMA [ie]* and have the same meaning. Except that then d[ie] has to be someting other than a demonstrative or an article. In Latin *die* is a form of *dies*, 'day'. *Die mammam*, which can be formed with the available letters, means 'Mothers Day'. I think it's more likely that the d stands for some form of the verb *dare*. *Dare mammam* means 'to suckle, nurse'. 
+
+Another possibility is that the d stands for *deus* or *dei*, 'god' in the nominative and genitive case, respectively. The breakup of the d into IE suggests that, like *dIE*, the d also holds *dEI*. Then we can read the upper section as *dei mamma* – 'Mother of God'. 
+
+This would fit with the myth: the goat Amalthea acting as the mother of Zeus by suckling him. And it would fit with J – with his Trinitarian head – being the Zeus of this signature story.       
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/dear-breast.jpg"
+            title="Dear breast"
+            class="image-center"
+            caption="Dear Mammo..." %} 
+
+J looks in the direction of *MAMMA*, and sees a breast. For him, too, the mother seems to be no more than a breast on two legs. As Zeus looked upon the goat Amalthea, the divine infant called J looks upon this calligraphic goat. In this mother and child view of the scene there is very little need for temptation. It's as though J too young, or too blinded by need that he isn't even aware of any temptation. The triplet milk flows from the breast into his mouth. 
+
+The Latin word *MAMMA* above the eyelike form makes a strong argument for the assertion that is not an eye but a breast. The transformation from one section of the 'honeycomb' into the other makes it even stronger. This is the second leg that supports the breast theory. 
+
+A single section of rectangles saying *MAMMA* would have sufficed. Van Eyck added another one, slightly less readable, less recognizable as letters. And then out of that section comes a breast that looks like a capital letter G. On the other hand, the upper section comes forth from the large, C-like horn. The change I see reminds me of John 1:14: "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth." J beholds the 'glory' of a word made flesh. Here the word 'MAMMA' becomes the piece of flesh that it refers to: a breast. The letters 'leaking' into other letters or less readable suggest a downward softening. And so does the development from the hard horn to the soft breast. Although the horn has a similar, G-like shape.
+
+The 'softening' continues on the way down. From the fleshy breast flows the snaky milk that feeds J, who in return adds the even less tangible soul (and mouth, and G-bird). A breast fits perfectly in this development from the most to the least tangible. An eye is corporeal as well, but its association with the soul makes it fit less well. So my conclusion is that J animates the 'maternal' devil.      
+
+Maternal? Not entirely. Only in the phase of the face related to the breast: from the word for it to the breast itself. The snaky milk and the G-bird below it form a zone that is rather *animal*. In more than one sense as far as the G-bird, the devil's new *anima*, is concerned. And the horn above the maternal zone? The large C shape suggests that we call the hardest zone 'corporeal'. May we also call it 'paternal'? Lets tilt the signature 90 degrees to the left and have a closer look at that horn.  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/bebouwde-hoorn-plus.png"
+            title="Bebouwde hoorn"
+            class="image-center"
+            caption="The corporeal zone (l) and the inverted devil (r)" %} 
+
+The horn looks like a large G constructed by sticking a small C to a much larger C. Although a breast doesn't fit in this hard phase it does look breast-ish. And, more worrying, the red arrow points to a patch of light that hints at a nipple. It could also be a wart on the giant, caricatural nose formed by the horn. This impression is strengthened by the d, indicated by the yellow arrow, which from this angle looks like a left eye and an eyebrow. The I of the IE above it suggests a left ear. The 'honeycomb' above it now looks like a row of buildings. Or like a three-story crown on the elliptical 'horn-head' with the humongous nose. Perhaps a... tiara? 
+
+The blue arrow points at its top. In images of the pope we often see the top of the tiara passing the border between heaven and earth. Here we see that the top of the 'tiara' is the only part above the lifeline. The breast is sticking out of the tiara like a short bishop's staff. 
+
+Judging from the available images of Eugene IV this is not a portrait of the then-ruling pope. His successor Nicholas V, on the other hand, did have kingsize nose, but when he came to power Van Eyck was already dead. If the size of the nose means anything here it's probably just *power*. 
+
+A pope coinciding *partly* with the devil (his face) is consistent with what we've seen in the chandelier, where the Church/pope are almost equal to Lucifer. The difference is different, though. What keeps the 'signature pope' apart from being the devil are the triplets and the G-bird. Unless the breast is not counted as the pope's staff. This is not trivial, because it can mean the difference between a double and a single portrait.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/tiara-en-tulband.png"
+            title="Tiara en tulband"
+            class="image-center"
+            caption="Another double portrait?" %} 
+
+The thing is, as you can see in the images, that in the inverted devil the triplets appear to form a turban. Topped by – how apt – a feather in the form of the G-bird. Now, if the breast belongs to the pope and represents his staff, then we get the situation in the right-hand image. In that case we have a single portrait of the pope with a turban on his staff. Then you might say that he is just a turban away from being equal to the devil. If, on the other hand, the breast does not belong to the pope and should be coloured red, then it could be an eye beneath the turban. And then we have two heads in one devil. The pope's and... the sultan's? The Ottoman Empire was such a plague to Christian Europe that its head was seen as the Antichrist. And so was the pope in anti-Catholic circles. 
+
+Although I've been busy arguing the eye form being an eye, in this inverted view I think the breast is the sultan's eye rather than the pope's staff. Not in the least because of the way the lifeline runs through the devilish duo. The papal tiara reaches just above it, while the breast/eye/staff dips just below it. The lifeline now seems like a parody of the line dividing heaven and earth; the line that supposedly can only be crossed by the pope, as is shown symbolically by the tiara top sticking into heaven. Here, however, that top crosses into the sultan's zone. This can't be heaven. 
+
+So now the question is: is the devil the sum of the pope and the sultan? That would make the sultan about as evil as the pope. This wouldn't fit with the idea that the sultan is equal to the Antichrist. If the Antichrist, Lucifer, Satan and the devil are just different names of one Tentator (as IMO is suggested in this painting), then the sultan cannot be just part of the devil, represented here by the goat's head in the signature fork. So if Van Eyck went along with the identification of the sultan with the Antichrist, then it's more likely that the double portrait is also a larger single portrait of the sultan. In that case the sultan would be equal to the inverted devil, and the pope would coincide partly with both the sultan and the devil. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/sultans.jpg"
+            title="Sultan en sultan"
+            class="image-center"
+            caption="Sultans" %}           
+
+[walvis en kikkervisje?]    
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
 [^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
