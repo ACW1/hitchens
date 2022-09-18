@@ -510,9 +510,85 @@ So now the question is: is the devil the sum of the pope and the sultan? That wo
             img="../../../../assets/images/arnolfini/sultans.jpg"
             title="Sultan en sultan"
             class="image-center"
-            caption="Sultans" %}           
+            caption="Sultan and sultan" %}   
 
-[walvis en kikkervisje?]    
+It's not difficult to stretch the sultan's portrait over the entire inverted devil's form. The 'honeycomb' below the eye, including the pope's eye and ear, can pass for a beard. The horn can represent the sultan's *corpus*, the rest of his body. It's as though it is symbolized by the man's spine, with the smaller C in the end as the coccygeal vertebrae. The horn below the bearded head also suggests that the anti-Christian sultan is the satanic snake of Eden disguised as the sultan of the Ottoman Empire. The snake manifesting itself as sultan fits nicely with the snaky triplets formning his turban. Being a stylized nest of vipers the turban becomes a symbol of anti-Christianity. 
+
+The three G's – the large one in the 'spine', the breast/eye G in the middle, and the feathery bird G in top – support the assertion that Van Eyck considers the evil opposite of God as a trinity as well. An unholy one, of course. And here the aspects of the trinity appear to be substantial rather than personal. The large, fatherly G (with *il Papa*) is connected to the body. Van Eyck may have given it that 'nipple of light' in order to increase the likeness with the breast/eye G, and to make ot easier to consider that G as the filial G of the trio. The one that, because of the eye, is connected to the soul. Whereas the G-bird is the 'unholy' ghost of this anti-Christian G trinity, the G connected to the mind, *Logos*, reason, etcetera. 
+
+What this says, I think, is that it's all relative. Evil is trinitarian, too, but at a lower, more animal level. Its highest spiritual instance, the G-bird, is mere soul – *anima*. While the soul, represented by the eye G, has become flesh – a breast. And the body appears to be flesh hardened into bone: the large spinal G. In short, evil is much more material than good. To be good means to be less material and more spiritual. Moving closer to God means adding soft flesh to the hard bones, adding soul to turn the breast into an eye, and adding *Logos* to turn the weak, black G-bird into a ghost bird strong enough to rule body and soul. The adding of soft flesh doesn't seem very spiritual. On the contrary, it may seem like urging an ascetic to eat more and become fat. But, as the breast shows, flesh is relatively spiritual with regard to the bony body. So adding flesh to it should be seen as adding more spirit to the body, to make it easier for the mind to control it.
+
+Perhaps it was the feather in a sultan's turban that inspired Van Eyck to paint this setup in his signature. Seeing it as a symbol of a Holy Ghost that has become unholy and powerless. Unable to dominate the little snakes that form the turban, and certainly unable to dominate the satanic snake wearing it. I wonder if this view of the turban also applies to Van Eyck's *Man in a Turban* (1433), supposedly a self-portrait.   
+
+But first some final thoughts about this prong of the signature fork. The reversability of the goat-devil/snake-sultan image explains why especially the lower part of the devil was less convincing as a portrait. Why there was doubt about whether the G-bird formed his mouth or his chin, and why the triplets form such an odd snout. Making the devil look more like a goat, or like a Luciferian bat for that matter, would have made the sultan's portrait less recognizable.       
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/sultan-duivel-paus.jpg"
+            title="Sultan, duivel en paus"
+            class="image-center"
+            caption="Sultan/devil and, on the right, pope in sultan/devil" %}   
+
+So, in concordance with the situation in the chandelier, we have a pope who is part sultan/devil. He is a sultan without a turban. The turban can be seen as the extension of his tiara that would make the pope equal to the sultan, and so the Antichrist/devil/etc. In other words, the more the pope adds to his temporal power the more sultan-like he becomes. In the pope's portrait I've coloured the sultan's eye golden, to suggest that it can still act as his staff – probing into foreign teritory as an extension of the tiara. Perhaps it also acts as the orb (without the cross) on top of the tiara. 
+
+For the pope to fit into the 3G scheme his XL nose can't actually represent his nose. It's too fleshy. His nose has to be his spine. Or at least something as bony as that. This means that we're looking at his right profile, that is in line with that of the sultan, and that his 'd eye' is not his left eye but his right eye. No doubt the big nose portrait was no accicent, and also intended. If only to make it more clear that there is a portrait within the sultan's portrait. This is helpful, because the 'actual', 3G-obeying portrait is even more elliptical than the big nose portrait. The coccygeal vertebrae hint at a mouth, and the blue arrow in the right-hand image above points at small but clear black line that might indicate the tip of the nose. And the pope appears to be looking straight at it.   
+
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/kikkervisje.png"
+            title="Kikkervisje"
+            class="image-center"
+            caption="The tadpolish L on the tip of the pope's nose" %}
+
+This no crack or some spattered paint; this small detail was deliberately put in by the artist. It looks like an I bent into an L with wide open sides. The dot of the I is suggested by the increased blackness in the lower (or left) end. This extra black dot also suggests an L-shaped tadpole. 
+
+Does the L stand for *Lucifer*?
+
+I don't think so...  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/walvis-en-kikkervisje.png"
+            title="walvis en kikkervisje"
+            class="image-center"
+            caption="L for <span style='font-style: italic;'>Leviathan</span>?" %}
+
+When we tilt the painting back to its original position, we see the big nose changing into a big fish. Enormous compared to the tiny tadpole swimming along with it. Like the tadpole it has a head that's comparatively big in relation to the rest of its body. Where that body ends is not entirely clear. The breast/eye would make a nice tail fin. But if the whale-like fish is what I think he is, he ought to cover the whole sultan/devil portrait. Adding another portrait along the way... The G-bird would then act as tail fin. The 'honeycomb' and the triplets look more like the waves caused by the whale than parts of his anatomy. His eye is, of course, that light patch that first suggested the nipple of the larger, 'fatherly' breast. A bit of craquelure above the eye gives it an eyebrow and a rather worrisome look.
+
+Any relation between the L/tadpole and the big fish? There sure is. As an L it more or less acts as a caption, pointing out that the name of the big fish starts with an L. More importantly, in the nearby coccygeal vertebrae, doubling as a pectoral fin, Van Eyck indicates that L/tadpoles are the building blocks of the big fish.  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/coccygeale-ellen2.png"
+            title="Coccygeale L'en"
+            class="image-center"
+            caption="Two tadpolish L's in pectoral fin" %}   
+
+What looks like a small C appears on closer view to be partly made of two even smaller L's. The last one in the spinal line is very vague – suggesting that the 'tail' must end there because the darkness has become too weak. The fact that the final point (indicated by the white arrow) is less vague makes it obvious that this almost wiped out L was like its neighbor, and like the loose L/tadpole observed by the pope. An L with a blacker head. All these little tadpoles, all these little evils, together form a massive evil, the greatest aberration of all creation: the biblical monster of the sea known as the Leviathan.
+
+In the bible the Leviathan is also thought to be a long, crooked serpent. Isaiah predicts its painful end:
+
+>In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea. <br><span style="float: right; font-size: smaller;">Isa. 27:1</span> <br>
+
+The Leviathan in the signature has a head that is crooked like the hook of a shepherd's or bishop's staff. (There's that 'father-son' connection with the staff hookish breast/eye again.) Van Eyck has managed to present his Leviathan in both forms in which it was supposed to manifest itself: as a monstrously big fish (a whale), *and* as a serpent. As far as the serpent is concerned I could just refer to the sultan being a manifestation of the satanic snake. But I also like to point to the double L in the coccygeal area again. If you look carefullly, you'll see that that the blacker L on the right is held by its tail by what looks like a snake's head. (Indicated by the yellow arrow.) In turn, the right L holds the vague left L by its vague tail. The blue arrow points at the black 'knot' that marks the point where the larger snake is held by the tail (by another snake). This seems like a good place, because the snake above the two small coccygeal L's then has the right length to be an L itself. Or rather, to have been one. The angle is rounded and its heel, indicated by the orange arrow, has become something like a hinge. 
+
+The inference is clear: this Leviathan is a monster made out of chain of snakes. A serpent of serpents. A long chain of sins, if you consider the basic tadpole as a peccadillo – a small unit of evil. Contemplated by the pope... Van Eyck didn't have to plce the little L/tadpole directly in front of the eyes, if he just wanted suggest the tip of the pope's nose with it. I think he also wanted this ironic juxtaposition of the *leviathanic* pope and this miniature Leviathan. It makes you think about the pope's ability to judge the sins of his flock. And about the need to keep your sins as small as tadpoles, and prevent chain reactions that turn them into serpents. 
+
+Why did Van Eyck incorporate the Leviathan into this devilish part of his signature? Just because he could? I haven't seen any clear reference to the sea monster in the chandelier. Perhaps he wanted to stress the animal character of the Tentator in this part of the fork. And at the same time link the pope/Church to the Leviathan and Isaiah's profecy. The Church, turned into an aberration like the Leviathan, shall be slain. The ecclesiastical serpent shall be chopped into bits. Into *almost* harmless little tadpoles... 
+
+The calligraphy above the J now shows meaningful forms covering the whole of it. In the regular view, if you keep your hands off the painting, we can see the Leviathan. Tilting it 90 degrees to the right, we get the goat-devil. Tilting it 90 degrees to the left, there is the snake-sultan/Antichrist with the pope in it. So, what do we see from the fourth side, when we turn the image 180 degrees?  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/nummer-vier.png"
+            title="Nummer 4"
+            class="image-center"
+            caption="The upside-down view" %}   
+
+Not much, to be honest. The triplets give it something a lion's snout. The whole looks like some long-tailed prehistoric flying beast. It could be the Ziz, the Leviathan of the air, but I doubt it. The Behemoth? Nah... More likely is that a fourth meaningful form was simply too much to ask, even of a genius like Jan van Eyck.  
+
+There's a more urgent matter to discuss. All this talk about sultans and popes hiding in this prong seems at odds with my earlier assertion that the signature fork represents an inner conflict. On the other hand, I think I mentioned that when the devil in the prong was already detected. So if the Jan is dealing with the devil inside him, why can't the other forms inside that devil be part of Jan as well? Why can't he also have an inner pope, an inner sultan and an inner Leviathan? If not, if the prong is foreign to Jan, why have a distinction between it and the chandelier, which clearly represents external evil. All in all, I still believe that the evil prong is part of *Johannes de eyck* himself. If he refers to Isaiah 27:1, then it concerns the slaying of the dragon inside him. 
+
+Or *on* his head? Does the turban of *Man in a Turban* represent that beast?      
+
+[tulband?]
+    
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
 [^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
