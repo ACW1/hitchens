@@ -518,7 +518,7 @@ The three G's – the large one in the 'spine', the breast/eye G in the middle, 
 
 What this says, I think, is that it's all relative. Evil is trinitarian, too, but at a lower, more animal level. Its highest spiritual instance, the G-bird, is mere soul – *anima*. While the soul, represented by the eye G, has become flesh – a breast. And the body appears to be flesh hardened into bone: the large spinal G. In short, evil is much more material than good. To be good means to be less material and more spiritual. Moving closer to God means adding soft flesh to the hard bones, adding soul to turn the breast into an eye, and adding *Logos* to turn the weak, black G-bird into a ghost bird strong enough to rule body and soul. The adding of soft flesh doesn't seem very spiritual. On the contrary, it may seem like urging an ascetic to eat more and become fat. But, as the breast shows, flesh is relatively spiritual with regard to the bony body. So adding flesh to it should be seen as adding more spirit to the body, to make it easier for the mind to control it.
 
-Perhaps it was the feather in a sultan's turban that inspired Van Eyck to paint this setup in his signature. Seeing it as a symbol of a Holy Ghost that has become unholy and powerless. Unable to dominate the little snakes that form the turban, and certainly unable to dominate the satanic snake wearing it. I wonder if this view of the turban also applies to Van Eyck's *Man in a Turban* (1433), supposedly a self-portrait.   
+Perhaps it was the feather in a sultan's turban that inspired Van Eyck to paint this setup in his signature. Seeing it as a symbol of a Holy Ghost that has become unholy and powerless. Unable to dominate the little snakes that form the turban, and certainly unable to dominate the satanic snake wearing it. I wonder if this view of the turban also applies to Van Eyck's *Portrait of a Man in a Turban* (1433), assumed to be a self-portrait.   
 
 But first some final thoughts about this prong of the signature fork. The reversability of the goat-devil/snake-sultan image explains why especially the lower part of the devil was less convincing as a portrait. Why there was doubt about whether the G-bird formed his mouth or his chin, and why the triplets form such an odd snout. Making the devil look more like a goat, or like a Luciferian bat for that matter, would have made the sultan's portrait less recognizable.       
 
@@ -585,9 +585,32 @@ Not much, to be honest. The triplets give it something a lion's snout. The whole
 
 There's a more urgent matter to discuss. All this talk about sultans and popes hiding in this prong seems at odds with my earlier assertion that the signature fork represents an inner conflict. On the other hand, I think I mentioned that when the devil in the prong was already detected. So if the Jan is dealing with the devil inside him, why can't the other forms inside that devil be part of Jan as well? Why can't he also have an inner pope, an inner sultan and an inner Leviathan? If not, if the prong is foreign to Jan, why have a distinction between it and the chandelier, which clearly represents external evil. All in all, I still believe that the evil prong is part of *Johannes de eyck* himself. If he refers to Isaiah 27:1, then it concerns the slaying of the dragon inside him. 
 
-Or *on* his head? Does the turban of *Man in a Turban* represent that beast?      
+Or *on* his head? Does the turban in *Portrait of a Man in a Turban* represent that beast? 
 
-[tulband?]
+{% include external-image.html
+            img="https://upload.wikimedia.org/wikipedia/commons/b/b8/%D7%99%D7%90%D7%9F_%D7%95%D7%90%D7%9F_%D7%90%D7%99%D7%99%D7%A7.jpg"
+            title="Man met tulband"
+            class="image-center"
+            caption="Jan van Eyck, <span style='font-style: italic;'>Portrait of a Man (Self Portrait?)</span>, 1433" %}  
+
+Note that there's no mention of a turban in the National Gallery's official title of the painting. The reason being that the thing on the man's head is actually a chaperon. It is telling that this medieval European headwear has been transformed to look like a turban, the headwear usually worn in the Orient, usually by people who don't care much for Christianity. Even without knowing the sultan in Van Eyck's inscription one might interpret this transformation as a sign that the man is captured in a less than Christian phase. This is not the place to go into this painting too deeply. I just want to point out some things that support the connection with the calligraphic turban, made from a serpentine trinity and a little bird. A precursor of the G-bird may be the owner of the beakish folds in the top of the 'turberon'.       
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/tulband-snavel.png"
+            title="Snavel in tulband?"
+            class="image-center"
+            caption="Beak in top turbanized chaperon?" %}   
+
+The little yellow arrow points to the possible beak, while the white arrowette indicates what appears to be an elongated pupil of an eye close to the alleged beak. It's not a very happy eye, I think. The elongation of the pupil may reflect outside pressure on the eye. Presumably from the darkness surrounding it. Its triangular form suggests the opposite of the All-Seeing Eye of God, which is enclosed in a triangle that radiates glorious light. So what we see above the folded beak is more like the Blind Eye of God – or Satan. The blackened eye in the triangle is reminiscent of the G-bird, the Holy Ghost reduced to a little blackbird of mere soul.  
+
+To its left, indicated by the blue arrow, is a larger dark form. With its red roof it makes one think of caves, tents and sininister monks. I thought I saw a bearded head in there, but I also saw more than two possible eyes, so I suppose that this is also a place of light that went out, a *topos* of degraded *Logos*. The two dark patches seem to be the 'whites' of a larger, equally blind eye. The 'beam' between them, indicated by the green arrow, is its vertical pupil. This beamish pupil is like the elongated pupil in the smaller bird's eye – only much worse. It suggests that the elongated pupil is a pupil halfway between a 'normal' pupil and the vertical one that is often assiciated with evil beings. And of course the suggestion that this large vertical is like a beam supporting a tent hints at the famous parable of the mote and the beam. Jesus said: "And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?" (Matt. 7:3) 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/tulbandvogel.jpg"
+            title="Vogel in tulband"
+            class="image-center"
+            caption="Bigger bird sitting on red nest" %}   
+   
     
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
