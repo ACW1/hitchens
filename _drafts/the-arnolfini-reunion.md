@@ -605,13 +605,26 @@ The little yellow arrow points to the possible beak, while the white arrowette i
 
 To its left, indicated by the blue arrow, is a larger dark form. With its red roof it makes one think of caves, tents and sininister monks. I thought I saw a bearded head in there, but I also saw more than two possible eyes, so I suppose that this is also a place of light that went out, a *topos* of degraded *Logos*. The two dark patches seem to be the 'whites' of a larger, equally blind eye. The 'beam' between them, indicated by the green arrow, is its vertical pupil. This beamish pupil is like the elongated pupil in the smaller bird's eye – only much worse. It suggests that the elongated pupil is a pupil halfway between a 'normal' pupil and the vertical one that is often assiciated with evil beings. And of course the suggestion that this large vertical is like a beam supporting a tent hints at the famous parable of the mote and the beam. Jesus said: "And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?" (Matt. 7:3) 
 
+Considering the beam in the top of the red chaperon, I'd say that it supports a larger bird's head, indicated by the orange arrow in the next image. A head that includes the poor little bird with the folded beak and the squeezed pupil. With the larger head comes a large body, so it seems...  
+
 {% include image.html
             img="../../../../assets/images/arnolfini/tulbandvogel.jpg"
             title="Vogel in tulband"
             class="image-center"
-            caption="Bigger bird sitting on red nest" %}   
-   
-    
+            caption="Big bird on a red nest" %}   
+
+A decidedly wing-like form runs between the big bird's head and the piece of cloth that sticks out on the left. This piece, indicated by the blue arrow, could be the big bird's tail. Although there's so much darkness between it and the main body of the headwear that it appears to be practically separated from it. My impression is that of a red hand fashioning the red cloth. But that doesn't mean that it can't function as a tail as well. 
+
+The white and yellow arrows point to two eyelike forms in the center of the 'nest' below the bird. The one on the right, above the yellow arrow, is pierced by a 'beamette'. This may be the pointy end of the bird's alula, his 'thumb'. The cloth above these eyes and below the wing may also be part of the turban bird's body, by the way. The eyes are directed towards the bird's head, in a manner that reminds me of J looking at the glory of the word made breast. Does the owner of these eyes also want to be nursed? The blinding of the eye by the beamette/thumb suggests that the turban bird lacks motherly feelings. And it confirms my suspicion that we see about the opposite of what we should see on the man's head. (I almost wrote *in* the man's head, since it's quite likely that the turban reflects the man's inner turmoil.) What we should see is a bird that represents a *Logos* strong enough to dominate and enlighten the rest of the individual. A 'logical' bird, a bird that is close to the bird that represents the Holy Ghost, would direct the body and the soul in a good and just way. Blinding eyes is not good. It shows disregard for the soul that can only be expected from its opposite: the body. The bird ruling the mind's nest is a *material* bird. It promotes the cause of the body and is the enemy of the soul, and especially its highest section. 
+
+I think that the small bird, 'annexed' by the big, bad bird, is the equivalent of the little G-bird and represents what is left of Reason. It was darkened and forced te beome part of a bird of Unreason. This bird may be the equivalent of the 'maybe Ziz?' visible in the fourth, 180 degrees view of the evil prong. Since the 0 degrees view shows the Leviathan his winged flipside can't be just another evil bird, like a harpy. The only Leviathan of the sky I can think of is the Ziz. The Simurgh is huge, too, but from another tradition, and also said to be an enemy of snakes.  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/logosvogel.png"
+            title="Logosvogel?"
+            class="image-center"
+            caption="Third bird?" %}            
+
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
 [^1]: Stephen J. Vicchio, T*he Legend of the Anti-Christ: A History* (2009), p. 122
