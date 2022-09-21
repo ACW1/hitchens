@@ -617,13 +617,25 @@ A decidedly wing-like form runs between the big bird's head and the piece of clo
 
 The white and yellow arrows point to two eyelike forms in the center of the 'nest' below the bird. The one on the right, above the yellow arrow, is pierced by a 'beamette'. This may be the pointy end of the bird's alula, his 'thumb'. The cloth above these eyes and below the wing may also be part of the turban bird's body, by the way. The eyes are directed towards the bird's head, in a manner that reminds me of J looking at the glory of the word made breast. Does the owner of these eyes also want to be nursed? The blinding of the eye by the beamette/thumb suggests that the turban bird lacks motherly feelings. And it confirms my suspicion that we see about the opposite of what we should see on the man's head. (I almost wrote *in* the man's head, since it's quite likely that the turban reflects the man's inner turmoil.) What we should see is a bird that represents a *Logos* strong enough to dominate and enlighten the rest of the individual. A 'logical' bird, a bird that is close to the bird that represents the Holy Ghost, would direct the body and the soul in a good and just way. Blinding eyes is not good. It shows disregard for the soul that can only be expected from its opposite: the body. The bird ruling the mind's nest is a *material* bird. It promotes the cause of the body and is the enemy of the soul, and especially its highest section. 
 
-I think that the small bird, 'annexed' by the big, bad bird, is the equivalent of the little G-bird and represents what is left of Reason. It was darkened and forced te beome part of a bird of Unreason. This bird may be the equivalent of the 'maybe Ziz?' visible in the fourth, 180 degrees view of the evil prong. Since the 0 degrees view shows the Leviathan his winged flipside can't be just another evil bird, like a harpy. The only Leviathan of the sky I can think of is the Ziz. The Simurgh is huge, too, but from another tradition, and also said to be an enemy of snakes.  
+I think that the small bird, 'annexed' by the big, bad bird, is the equivalent of the little G-bird and represents what is left of Reason. It was darkened and forced te beome part of a bird of Unreason. This bird may be the equivalent of the 'maybe Ziz?' visible in the fourth, 180 degrees view of the evil prong. Since the 0 degrees view shows the Leviathan his winged flipside can't be just another evil bird, like a harpy. The only Leviathan of the sky I can think of is the Ziz. The Simurgh is huge too, but from another tradition, and also said to be an enemy of snakes. Unlike, I think, this devilish bird.
+
+On closer inspection it appears to have *incorporated* a second bird. Although it looks more like a worm with a basic bird's head.
 
 {% include image.html
             img="../../../../assets/images/arnolfini/logosvogel.png"
             title="Logosvogel?"
             class="image-center"
-            caption="Third bird?" %}            
+            caption="Third bird?" %}     
+
+This relatively light 'wormbird' occupies the edge of the cloth that forms the top of the big bird's head. Only the lower edge or the one above it as well, I'm not sure. Both edges cross each other below the grey arrow, suggesting a pair of legs. The folded beak of the black-eyed bird may double as the body or a right wing of the wormbird, or just suggest them. Again I'm not sure. If they do dorm part of the wormbird the legs can hardly be all the way near the grey arrow. 
+
+Most convincing, though basic, is the bird's head. It's in the white circle and indicated by the yellow arrow in the close-up. In the centre of the head a clear, 'man-painted' can be seen. A short, straight beak connects with the red of the 'nest' below.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/logosvogel2.png"
+            title="Logosvogel2"
+            class="image-center"
+            caption="Pecking at darkness?" %}                            
 
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
