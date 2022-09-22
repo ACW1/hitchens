@@ -629,13 +629,27 @@ On closer inspection it appears to have *incorporated* a second bird. Although i
 
 This relatively light 'wormbird' occupies the edge of the cloth that forms the top of the big bird's head. Only the lower edge or the one above it as well, I'm not sure. Both edges cross each other below the grey arrow, suggesting a pair of legs. The folded beak of the black-eyed bird may double as the body or a right wing of the wormbird, or just suggest them. Again I'm not sure. If they do dorm part of the wormbird the legs can hardly be all the way near the grey arrow. 
 
-Most convincing, though basic, is the bird's head. It's in the white circle and indicated by the yellow arrow in the close-up. In the centre of the head a clear, 'man-painted' can be seen. A short, straight beak connects with the red of the 'nest' below.
+Most convincing, though basic, is the bird's head. It's in the white circle and indicated by the yellow arrow in the close-up. In the centre of the head a clear, 'man-painted' can be seen. A short, straight beak connects with the red of the 'nest' below. If the wormbird is analogous to the Arnolfini G-bird, than this could mean that the nest is made out of three snakes. *Is* the wormbird actually the equivalent of the G-bird and not, as I supposed earlier, the folded beak bird with the black eye and the triangular head? I think so. And I don't think his main business is pecking at the red below; I think it wants to divide the darkness around its beak.    
 
 {% include image.html
             img="../../../../assets/images/arnolfini/logosvogel2.png"
             title="Logosvogel2"
             class="image-center"
-            caption="Pecking at darkness?" %}                            
+            caption="Pecking at darkness?" %} 
+
+That darkness looks like a black hand with three very long, sticky fingers. Fingers like straight burned matches (called *lucifers* in Dutch, by the way). The 'finger' on the left, indicated by the blue arrow, continues beyond the above detail, so it's really to long for a finger. And when you look closely at the bottom of the middle 'finger', you'll see an eye – indicated by the pink arrow – in a black head similar in size and for to that of the wormbird. The big difference is that wormbird's beak is in one piece, and *matchbird*'s beak is not. Because it is divided by wormbird's beak. 
+
+An interesting feature of that beak-battling beak is that it is a bit darker in the lower half. This suggests that this battle of the little long thin birds is still undecided. For, if that lower beak darkens, it would mean that the black beak heals and the red beak shortens to half its original size. On the other hand, if the matchbird is beaten, that would be good news for the larger folded beak bird. That's what I think, because that beak appears to be controlled by the sticky black hand. And if the middle finger is out of commission that would mean more freedom for that beak to resist the remaining darkness. That way the seemingly insignificant battle may get a snowball rolling for the forces of (relative) light.
+
+This can explain the presence of a sinister spectator. His head is hidden behind the two light edges as though it's behind bars. The green arrow points to its evil eye. The grey-brownish head is part of a more or less triangular darkness remniscent of the 'not-seeing eye' above the folded beak. The triangular, shadowy form coupled with the head behind bars gives the evil spectator the appearance of a bat. The sticky fingers add to that impression by reminding this viewer of the long, thin and dark fingers in a bat wing. Two long, pointy bat ears are suggested by the shadows above the evil eye. Their tips are indicated the yellow arrows in the next detail.    
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/logosvogel3.png"
+            title="Logosvogel3"
+            class="image-center"
+            caption="IC versus Lucifer?" %} 
+
+[groot oog]
 
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
