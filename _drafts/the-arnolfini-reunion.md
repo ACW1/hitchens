@@ -647,9 +647,23 @@ This can explain the presence of a sinister spectator. His head is hidden behind
             img="../../../../assets/images/arnolfini/logosvogel3.png"
             title="Logosvogel3"
             class="image-center"
-            caption="IC versus Lucifer?" %} 
+            caption="IC and Lucifer?" %} 
 
-[groot oog]
+The left 'angle' of the lager dark 'triangle' appears to be the pupil of a large eye. The western border of this eye is suggested by a curve starting above the lower blue arrow, and passing below the lower blue arrow. Accidentally the lower blue arrow also points to a much smaller eye. So does the back end of the orange arrow. Both eyes are about the same size and both are at the bottom of a distinct piece of the cloth puzzle. A part between the head and the wing that looks like a collar or a yoke. 
+
+Never mind that now. There more eyes painted in this turbanized chaperone, but we won't let that bother us. They're probably just meant to say 'soul' and something about its condition, depending on the context. Or the size of the eye. The larger the eye that is not blinded or otherwise 'not good', the better the man's soul is functioning. This means, I think, that the purpose of the good wormbird is not primarily to free the folded beak from that black 'claw', but to free that big eye from the folded beak that is forced (by the claw) to blind it. 
+
+Even if he frees the big eye from the folded beak, there still the beak of the big bird (below the pink arrow) pressing upon the big eye like a heavy brow, giving it an angry, evil look. The folded beak does the same for the left part of the big eye. With its pupil, indicated by the green arrow in the large detail below, it appears to look with anger at the doings of the wormbird (above the white arrow). This eye could also be the right eye of a monstrous, proto-Arcimboldesque profile in the chaperon.  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/angry-profile.png"
+            title="Angry profile"
+            class="image-center"
+            caption="Angry at the wormbird?" %}       
+
+The pierced eye, indicated by the light blue arrow, could also serve as a right eye in this chaperon head, large enough to be the man's 'alternative' head. This may be his *true* face. The face that's literally above and figuratively behind the mask-like face of the man. With the pierced eye as its right eye, the face looks more bat-like to me. With the one above the green arrow the head looks rather like that of a fish, with two huge lips, and between them a tongue (indicated by the yellow arrow) that seems to be tied.
+
+[IC]   
 
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
