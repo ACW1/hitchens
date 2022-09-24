@@ -661,9 +661,45 @@ Even if he frees the big eye from the folded beak, there still the beak of the b
             class="image-center"
             caption="Angry at the wormbird?" %}       
 
-The pierced eye, indicated by the light blue arrow, could also serve as a right eye in this chaperon head, large enough to be the man's 'alternative' head. This may be his *true* face. The face that's literally above and figuratively behind the mask-like face of the man. With the pierced eye as its right eye, the face looks more bat-like to me. With the one above the green arrow the head looks rather like that of a fish, with two huge lips, and between them a tongue (indicated by the yellow arrow) that seems to be tied.
+The pierced eye, indicated by the light blue arrow, could also serve as a right eye in this chaperon head, large enough to be the man's 'alternative' head. This may be his *true* face. The face that's literally above and figuratively behind the mask-like face of the man. With the pierced eye as its right eye, the face looks more bat-like to me. With the one above the green arrow the head looks rather like that of a fish, with two huge lips, and between them a tongue (indicated by the yellow arrow) that seems literally tied. Perhaps this reflects the man's lips. They look sealed – slit-like. Similar to the slit, indicated by the red arrow, in the lower lip of the 'fish'. Of course, if that lip represents the mouth, then the fishy upper lip should be the nose above it. A large O, indicated by the pink arrow, could represent a nostril in that nose. Unlike the mouth it is wide open, and the colouring reflects the difference: the line of the closed cloth mouth is dark/material while the almond-shaped open nostril is light/immaterial. Apparently, what spirit there is in this creature is used for snorting like a wild beast, not for speaking like a normal human being. 
 
-[IC]   
+{% include image.html
+            img="../../../../assets/images/arnolfini/angry-profile2.png"
+            title="Angry profile 2"
+            class="image-center"
+            caption="Face versus mask" %}           
+
+Once you see that large eye in the 'yoke' looking angrily at the wormbird it is easy to spot, even after zooming out to show the whole beastly face in the chaperon. In fact, I doubt if the light grey arrow used to point it out in the image before the previous one was still necessary. The white arrows in the image before that were necessary, and still need to be explained. The reason for their presence is simple: to show the slight differences in the edge lines that make it possible to distinguish the letters I and C in them. The I and C, I think, of *Iesus Christus*. And of the G-bird in the Arnolfini signature. This makes it even more likely that the G-bird is the wormdbird's descendant. Although the wormbird seems less tragic: I don't think it is trying to do the right thing and succeeding in the opposite. If the anger from the evil yoke eye is indeed aimed at the wormbird, it must do something right. 
+
+As a representive of Christ it also represent the Word, or *Logos*. The snorting turban beast being both tight-lipped and tongue-tied can be interpreted as an absence of *Logos*, a lack of reason. What's left of it has shrunken to the edges of a small part of the cloth. From there it uses its 'mouth', reduced to a small beak, to turn things around: to make the red monster see reason (again). 
+
+This is not impossible. Once he can get the snowball rolling it will get harder and harder for the monster *not* to see the light. *Logical* success would mean the end of the *illogical*, snorting monster. And the most likely end for it would be to fall apart, and form a regular, 'Christian' chaperon (again). If you call the snorting evil *Lucifer* this transformation of the *turbanic*, anti-Christian chaperon to its hanging, European counterpart can be considered the equivalent of his fall from heaven. We can get an idea of this fall by juxtaposing Van Eyck's chaperon man with two contemporary portraits of men wearing their chaperon differently.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/fall-of-lucifer.jpg"
+            title="Chaperonval van Lucifer"
+            class="image-center"
+            caption="Lucifer falling – or rising, if you look from right to left<br>Middle: Robert Campin, <span style='font-style: italic;'>Portrait of a Man</span>, ca. 1435; right: Jacques Daret, <span style='font-style: italic;'>Portrait of an unknown man</span>, ca. 1430" %}      
+
+Campin's portrait has often been compared to Van Eyck's. It was the last of the trio to be made, and seeing them lined up here it seems as though he consciously positioned his chaperon halfway between the Van Eyck's turban style and Daret's 'hanging' style. Campin's guy looks troubled and seems to be looking with envy at the Daret man, who – very appropriate – looks relatively serene and innocent. Definitely the most Christian of the three. The Campin guy actually looks at a woman, probably his wife. She looks young and innocent, and her innocence is emphasized by her white headwear. 
+
+ {% include image.html
+            img="../../../../assets/images/arnolfini/campin-man-vrouw.jpg"
+            title="Man en vrouw Campin"
+            class="image-center"
+            caption="Campin's man and his wife" %}      
+   
+Like Daret's man the woman wears her chaperon (I think it counts as a chaperon) in the 'Christian' fashion, with the ends down, suggesting the light yoke of Christ. If Campin was inspired by Van Eyck's portrait, the halfway position of the man's chaperon might say something about the relationship between the two. He looks old enough to be her father, and instead of envy at innocence I also see something of worried compassion in his eyes. As though he is sorry that the woman will lose her innocence and become a world-weary sinner like him. And the woman looks at him as if she's afraid that very same thing. The man is confronted with his lost innocence and the woman is confronted with the inevitable loss of her innocence. There's also the tension caused by the man's 'semi-turban' (well, compared to Van Eyck's 'full turban'). Campin is said to be lesser than Van Eyck as far as the picturesque modelling of the cloth is concerned. This point becomes moot if Campin, like Van Eyck, modelled the man's chaperon in order to tell something about him. This point may be that, on the one hand, the woman's innocence inspires him and prevents his chaperon from going full turban. While on the other hand his lust for the attractive woman might have caused his chaperon to go from 'Christian' to semi-turban. Then the double portrait becomes a study of the often ambiguous relationship between the innocent and the no-longer-innocent.
+
+For a large part the chaperon's development from a simple hood/cape combination to complicated headgear for higher classes coincides with the rise of the Ottoman Empire. In fact, around the time when its founder, Osman I, came to power a radical change was made in the way the chaperon was worn. The hole in the hood for the face was pulled over the head.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/chaperon-origineel.jpg"
+            title="Ouderwetse chaperon"
+            class="image-center"
+            caption="Chaperons through the ages" %}        
+
+In other words, the part of the 'original' chaperon coloured yellow became like the inner band of a hat. This meant that the rest of the chaperon hung from the top of the head. That is, the so-called *patte*, the green-coloured part that used to hang over the shoulders. The hood's tail, coloured red, is called the *cornette* ('little horn') or *liripipe*. The 'band' was reinforced and evolved into the circular *bourrelet*. In the turban style chaperons it's not always easy (certainly not for me) to distinguish the different parts. And for Van Eyck this was just the point, I suppose. The lack of order, of *Logos* in the head(gear). Pulling the hood opening over the top of the head may have been functional. It may have been a better use of the chaperon in hot weather. But it went beyond functionality by becaming fashionable. This non-functional deviation of the original design could already be considered 'decadent'. When eventually the chaperon was even *turbanized* Van Eyck could have linked that un-Christian 'perversion' to the advancing Ottomans.     
 
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
