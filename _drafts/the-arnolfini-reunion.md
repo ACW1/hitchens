@@ -669,7 +669,7 @@ The pierced eye, indicated by the light blue arrow, could also serve as a right 
             class="image-center"
             caption="Face versus mask" %}           
 
-Once you see that large eye in the 'yoke' looking angrily at the wormbird it is easy to spot, even after zooming out to show the whole beastly face in the chaperon. In fact, I doubt if the light grey arrow used to point it out in the image before the previous one was still necessary. The white arrows in the image before that were necessary, and still need to be explained. The reason for their presence is simple: to show the slight differences in the edge lines that make it possible to distinguish the letters I and C in them. The I and C, I think, of *Iesus Christus*. And of the G-bird in the Arnolfini signature. This makes it even more likely that the G-bird is the wormdbird's descendant. Although the wormbird seems less tragic: I don't think it is trying to do the right thing and succeeding in the opposite. If the anger from the evil yoke eye is indeed aimed at the wormbird, it must do something right. 
+Once you see that large eye in the 'yoke' looking angrily at the wormbird it is easy to spot, even after zooming out to show the whole beastly face in the chaperon. In fact, I doubt if the light grey arrow used to point it out in the image before the previous one was still necessary. The white arrows in the image before that were certainly necessary, and still need to be explained. The orange arrow has already been discussed but was actually employed to point out that the wormbird's neck appears to act like its beak. By curving that neck it at least *tries* to divide the middle black 'finger'. The reason for the white arrows is simple: to show the slight differences in the edge lines that make it possible to distinguish the letters I and C in them. The I and C, I think, of *Iesus Christus*. And of the G-bird in the Arnolfini signature. This makes it even more likely that the G-bird is the wormdbird's descendant. Although the wormbird seems less tragic: I don't think it is trying to do the right thing and succeeding in the opposite. If the anger from the evil yoke eye is indeed aimed at the wormbird, it must do something right. 
 
 As a representive of Christ it also represent the Word, or *Logos*. The snorting turban beast being both tight-lipped and tongue-tied can be interpreted as an absence of *Logos*, a lack of reason. What's left of it has shrunken to the edges of a small part of the cloth. From there it uses its 'mouth', reduced to a small beak, to turn things around: to make the red monster see reason (again). 
 
@@ -699,7 +699,69 @@ For a large part the chaperon's development from a simple hood/cape combination 
             class="image-center"
             caption="Chaperons through the ages" %}        
 
-In other words, the part of the 'original' chaperon coloured yellow became like the inner band of a hat. This meant that the rest of the chaperon hung from the top of the head. That is, the so-called *patte*, the green-coloured part that used to hang over the shoulders. The hood's tail, coloured red, is called the *cornette* ('little horn') or *liripipe*. The 'band' was reinforced and evolved into the circular *bourrelet*. In the turban style chaperons it's not always easy (certainly not for me) to distinguish the different parts. And for Van Eyck this was just the point, I suppose. The lack of order, of *Logos* in the head(gear). Pulling the hood opening over the top of the head may have been functional. It may have been a better use of the chaperon in hot weather. But it went beyond functionality by becaming fashionable. This non-functional deviation of the original design could already be considered 'decadent'. When eventually the chaperon was even *turbanized* Van Eyck could have linked that un-Christian 'perversion' to the advancing Ottomans.     
+In other words, the part of the 'original' chaperon coloured yellow became like the inner band of a hat. This meant that the rest of the chaperon hung from the top of the head. That is, the so-called *patte*, the green-coloured part that used to hang over the shoulders. The hood's tail, coloured red, is called the *cornette* ('little horn') or *liripipe*. The 'band' was reinforced and evolved into the circular *bourrelet*.
+
+The second figure – 'noble XVᵉ s.'– shows how these parts developed. The *bourrelet* is indicated by the yellow arrow, the red arrow points to the long *cornette*, and the green arrow points at the *patte*.    
+
+In the turban style chaperons it's not always easy (certainly not for me) to distinguish the different parts. And for Van Eyck this was just the point, I suppose. The lack of order, of *Logos* in the head(gear). Pulling the hood opening over the top of the head may have been functional. It may have been a better use of the chaperon in hot weather. But it went beyond functionality by becaming fashionable. This non-functional deviation of the original design could already be considered 'decadent'. When eventually the chaperon was even *turbanized* Van Eyck could have linked that un-Christian 'perversion' to the advancing Ottomans.     
+
+Anyway, in his turbanized chaperon the *bourrelet* is practically buried beneath the *cornette*. The visible part of the tied 'tongue', indicated by the yellow arrow below, is said to be the only visible part of the *bourrelet*. The *patte*, indicated by the green arrow, is equal to the big bird's (possible) tail. The rest is all *cornette*. (The red arrow points at its end.)
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/bourrelet-cornette-patte.png"
+            title="Bourrelet cornette patte"
+            class="image-center"
+            caption="Nearly all 'little horn'" %}        
+
+It is likely that Van Eyck was familiar with these chaperon terms and aware of the fact that his chaperon was nearly 'little horn'. This fits neatly with the evil that can be found in it. *Patte* also means 'paw', and that in its turn fits here with the similarity of the form to a hand. The hand that seems responsible for fashioning the chaperon in that anti-Christian way. And so for turning the man beneath it into a *Logosless* monster.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/patte.png"
+            title="Patte"
+            class="image-center"
+            caption="The chaperon's paw" %}
+
+ On closer look, however, the *patte* appears to have some good in as well. I've already remarked how oddly detached this part seems. There's much darkness between the *patte* and the nearest bit of *cornette*. In that darkness are two lurking eyes. The white arrows point them out. These eyes look quite unfriendly, and they make the *patte* above them look like some sort of chaperon in itself. This suggestion of another head adds to the suspicion of the *patte* representing the external influence on the man's chaperon, and, consequently, what's going on in his head. 
+ 
+ To the left of the right eye, indicated by the blue arrow, the 'paw' shows a claw. This 'nail' is like the 'beamette' that serves as the vertical pupil in the large right eye of the big, bad bird. The larger, also evil *patte* eye with the claw as its vertical pupil is not fully formed, though. On one side it is still open to the darkness of the background. This may be caused by the light in the triangular form hosting the green and yellow arrows. Both point to eyes. The one indicated by the yellow arrow is part of a dark head that could be that of a small crocodile. 
+
+ **Leviathan alert!** 
+
+ Excuse me, mentioning 'crocodile' in this context, and a black one at that, made the Leviathan alert go off. As you may know, the Leviathan was also thought to be a crocodile. (Probably not a small one, though.) The two eyes indicated by the white arrows are fixed on the body of this shadowy *crocodilette*. A fold above the left eye holds its tail. It looks like burnt stick again, and turns sharply to the left, ending near the left of the two grey arrows. Because of this left turn the crocodile is L-shaped. The foot of this L also happens to be the stem of a smaller L. The foot of this second L is indicated by the grey arrow on the right. Two L's for *Leviathan*? I think so. But why two? The larger one coincides with the beast, the smaller one only partly. This suggests that it is capable of extending itself and its evil on this side. However, this expansion is nothing compared to the expanse of darkness connected to the head of the crocodile. Perhaps the inky blackness surrounding the man has all gushed out of this little Leviathan. 
+
+If so, this wouldn't have happened if that third eye (with the 'nail pupil') was actually closed of. In other words, if the head was contained like the tail. There the expansion of the (second) L is halted by yet another L.                                             
+{% include image.html
+            img="../../../../assets/images/arnolfini/l-versus-l.png"
+            title="L versus L"
+            class="image-center"
+            caption="L[eviathan] versus L[ogos]" %}
+
+
+This L is relatively light, starts near the yellow arrow and ends, slightly spherical, near the white arrow. (The spherical shape suggests that the foot of this L is also an I.) This L is like a prying finger within the paw. It relates to the rectagular shape in the middel – indicated by the blue arrow – as a (slim) index finger to a (fat) thumb. If they work together as such, then the L finger isn't prying but grabbing the little crocodile by the tail. While on the other end the claw is holding its head. That claw is C-shaped rather than L-shaped. It could form an *IC* with the I in the foot of the light L. If so, the I in the L implies that the L refers to Jesus as well. Meaning, it could stand for *Logos* ('Word'), but also for 'Light', *Lux* in Latin or *Lich* in Middle Dutch. Another option is *Lucifer*. But then you have to assume different Lucifers bringing different amounts of light. If the light he brings is enough awake Reason and keep the beast from snorting, you might say that this Lucifer has come into the Christian range. And vice versa when the light dims. If the *Logos* becomes erratic and the Word approaches animal-like grunting, then you might say that Christ has fallen into the luciferian range.
+
+This spectrum business can't be avoided if the claw C, the finger L and the I in its foot stand for *Iesus Christus* and one of the L words above. Because they are red and only *relatively* light. The same goes for the little crocodile, by the way. Especially the part with the eyes, between the claw and the finger, is relatively light compared to the darkness of the background. Rather than representing a person hiding in the *patte* the eyes represent light in the darkness, albeit not enough to make them 'good'.
+
+My 'relativity theory' regarding good and evil, the spectrum between Christ and Antichrist, is confirmed by that eye in the triangular part of the *patte*.
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/less-seeing-eye.png"
+            title="Less-Seeing Eye"
+            class="image-center"
+            caption="The Less-Seeing Eye?" %}     
+
+The eye can be seen between the grey arrows. It's not too clear, but it's clearly turned to the right, as though it's watching what's happening on the border with the *cornette*. The eye is set within a darkish circle with rays. This is reminiscent of the rays coming from the All-Seeing Eye, but also of the iris of an eye. This suggests that the eye in its center used to be the pupil of a much larger eye. Presumable one that  could see much better. The yellow patches between the yellow arrows also suggest a better – read: lighter – past. The red triangle (with a smaller triangle on its left side) roughly consists of two smaller triangles, one relatively dark, and the other one – with the yellow – relatively light. The right side of the darker traingle is breached by an angle of the yellow/red 'subtriangle'. It's a sign that the larger triangle is a battleground. Light and darkness are struggling for dominance. If the forces of light advance, the Eye becomes 'Better-Seeing'; if they lose ground, the Eye becomes 'Less-Seeing'. The extremes of this spectrum are, of course, the All-Seeing Eye and a blind eye. At the moment the Eye is somewhere in between; I don't know where. 
+
+And I'm not even sure if the eye between the grey arrows is the Eye I'm talking about. It's not exactly in the center of the triangle. The large iris around it is more central. And when it comes to the yellow patch, the round eye next to the 'grey arrow eye' is more central to that. The white arrow in the next detail points to it. While the yellow points to yet another, even clearer eye.  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/yellow-triangle.png"
+            title="Yellow triangle"
+            class="image-center"
+            caption="Ruined yellow triangle" %}  
+
+The 'white arrow eye' is more or less central to a yellow triangle. But to call that patch a triangle you have to ignore the separate patch indicated by the green arrow (which forms an eye in itself), and the large breach in the right side made by the red (indicated by the pink arrow). Especially this inroad suggests a struggle within the (relatively) light forces. In other words, a darkening of the more spiritual yellow to the less spiritual red. And this red can darken to the more material than spiritual overshadowed red. I get the impression that the divine, All-Seeing Eye is a moving eye. That it is the eye that is in the center of the largest yellow triangle that is still intact. At the moment this may be the eye below the yellow arrow. Although there's also red shining through the yellow here, and the eye looks more concerned than powerful. But at least the mechanism is suggested. The divine Light, represented by the eye in a shining triangle, is darkened. Meaning that the light is divided into smaller parts. The divine Light is scattered into increasingly smaller 'All-Seeing' eye triangles. Scattered like stars in the night. Will the divine pinpoints reunite again? Will daylight return?
+
+[patte anders dan eerder gedacht; probeert krokodil te verlichten maar loopt kans op verduistering en afscheiding van chaperon -- dan wordt patte oog van grote achtergrondkrok]
 
 gezicht in ha van Johannes, met grote neus eronder /inscriptie verwijst naar 'every word that proceeded etc.'? / koper = venus
 
