@@ -803,8 +803,21 @@ What would it mean if the *patte* bird is forced out of the nest?
 
 The chaperon will surely become unbalanced. There was already more chaperon on the man's left – *sinister* – side. Without the force for good on the man's right side, the snorting beast's share of the chaperon will increase. And without the corrective force of the *patte*, although weakened, the red monster will have greater freedom to act beastly. So, does the loss of the 'no longer very Holy Trinity' in the *patte* mean that the man has lost his mind? If the chaperon does reflect what goes on in his head he must become mentally unbalanced if the *patte* is pushed into space. Will the wormbird be the man's only hope for recovery then?
 
-And what will happen to the little crocodile? His darkening will cause the rift, but it will also mean that he will become part of the background darkness. Part of... a bigger crocodile! Just like the whale-shaped Leviathan in the Arnolfini signature was supposedly formed by numerous little tadpole Leviathans, the little crocodile may add himself to the bigger croc. And... give it a red eye!
+And what will happen to the little crocodile? His darkening will cause the rift, but it will also mean that he will become part of the background darkness. Part of... a bigger crocodile! Just like the whale-shaped Leviathan in the Arnolfini signature was supposedly formed by numerous little tadpole Leviathans, the little crocodile may add himself to the bigger one. And... give it a red eye!
 
+{% include image.html
+            img="../../../../assets/images/arnolfini/Portret-met-lijst.jpg"
+            title="Portret met lijst"
+            class="image-center"
+            caption="The beastly yoke" %}
+
+The complete picture, including its original gilded frame, gives a better idea of the black beast that is liable to rest on the man's shoulders. The crocolilesque head is above his right shoulder, and the loosened *patte* will 'animate' it by becoming its eye. Just like the little G-bird animated the signature devil by becoming his mouth. This was the result of the J giving the ghost. The possible departure of the *patte* bird could be a similar event.
+
+Still, it doesn't make the beastly yoke complete. The head-shaped black above the right shouder has to connect with the darkness above the left shoulder in order to give this Leviathan something of a body. Oddly, this doom scenario is prevented by the big, bad *cornette* bird. Its head touches the top of the painting and keeps the black masses divided. For now. If the growing darkness can separate the *patte* from the chaperon, the same darkness can flatten the *cornette* bird's head. The darkness has already penetrated its big, evil eye. If the *cornette* bird represents the spirit that rules the man at the depicted moment, the crushing of its head by the leviathanic darkness will mean an even further spiritual/mental degradation. Eventually the whole chaperon may darken and become like the man's jacket (or whatever it is called). [omdraaien]
+
+
+ 
+[d verbindt nagel en bontklauw?]
 [zwart omcirkelt patte, zoals snavel pattevogel pupil van oog probeert te omcirkelen]                                                                                          
 
 [patte anders dan eerder gedacht; probeert krokodil te verlichten maar loopt kans op verduistering en afscheiding van chaperon -- dan wordt patte oog van grote achtergrondkrok / neusgat-O is deel van A(nima?)]
