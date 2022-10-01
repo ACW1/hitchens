@@ -817,10 +817,68 @@ Still, it doesn't make the beastly yoke complete. The head-shaped black above th
 
 Or, more likely in my view, it is simply a battle for control If yelloe/gold represents the *human* or *divine* mind, red the *animal* soul and black the *material* body, the two birds may be connected to two consecutive battles for domination. The *patte* bird, with its yellow patches, can represent the mind in danger of being totally dominated/surrounded by the body. The *cornette* bird may be far from holy, but it represents the highest part of the soul that's in charge of the chaperon (i.e. the man's interior). As such it can be considered the mans's current 'mind'. Relatively speaking, of course. It's more like an animal than a human mind. Still, as the least material part of this soul it's by definition also the part that's most opposed to the body. (Again, relatively speaking.) This opposition is expressed by the bird's head touching the 'ceiling', and thereby keeping the black masses apart. 
 
-So the second battle that the darkness needs to win is against the *cornette* bird. Once its head has been flattened and the dark ends meet at the top, the body will dominate the soul. Being totally controlled by the body, the man will be forced to satisfy its every need.      
+So the second battle that the darkness needs to win is against the *cornette* bird. Once its head has been flattened and the dark ends meet at the top, the body will dominate the soul. Being totally controlled by the body, the man will be forced to satisfy its every need. 
 
+But, what about the frame? Although gold has been known to make people act unreasonable, I'm pretty sure that here it symbolizes the opposite of the darkness within: light, *Logos*, Jesus Christ. In its pure, undiluted form – not degraded by darkness. Certainly, the letters of the inscriptions in the top and the bottom of the frame are dark. But each dark letter is surrounded and so controlled by the golden light.  
 
+{% include image.html
+            img="../../../../assets/images/arnolfini/inscriptions-frame-turban.jpg"
+            title="Inscripties tulbandportret"
+            class="image-center"
+            caption="The words in the frame" %}       
+
+In the top we see three heads of nails(?) and Van Eyck's mysterious motto *ALC IXH XAN* (literally 'as I can'). In the bottom we read a lot more: *Johes de Eyck me fecit ano mcccc 33 21 octobris* ('Jan van Eyck made me on October 21, 1433').
+
+Is it possible to paint such a painting in one day? If so, why don't we have hundreds of paintings by Van Eyck? Perhaps *perfecit me* ('finished me') is closer to the truth. Would there be any reason for such a little lie in this 'divine' frame? Yes, if you want suggest that even this 'heaven' surrounding the man's 'hell' is not uniformly good. That even this place has its hierarchy of relatively best, worst and in-between. I would connect these parts, respectively, to the top of the frame, the bottom, and the two sides. Since the latter are wordless, the bottom would be better if had no words, or words that are better than nothing. 
+
+It would be easy to understand that 'golden silence' would be preferable if the statement in the bottom of the frame isn't (quite) true. And if one need not doubt its veracity, one can doubt its necessity. Is it necessary that Van Eyck lets the viewer know that he made this portrait? Is it neccesary that he tells is *there*, in the frame? And is it necessary to be so verbose about it that it fills the full width of the bottom side?! A tiny *J. de Eyck fecit Ao 1433* in some corner of the painting would have sufficed. Instead of writing just *1433* he lengthens the year by partly using Roman numerals: *MCCCC•33*. With four C's instead of just *CD*. He could have made it even longer by making the year fully Roman (MCCCCXXXIII), but that would leave less space for something that seems even less necessary: the day of the year. Not shortened to something like *21 oct.*, which in my opinion would be more fitting to such a minor detail. No, 'October' just had to be spelled completely. Even though there's not enough room to do that neatly. Look at that *octobris*. It reminds me of writing on postcards when I was a child. You just started writing, without fully taking the limited space into account. And before you knew it, you had to finish last names and addresses by squeezing letters together, by continuing on a new line, or going around the corner and start writing vertically...         
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/johes-octobris.jpg"
+            title="Johes Octobris"
+            class="image-center"
+            caption="Running out of space..." %}
  
+The last two letters of *octobris* together have about the same width of each single previous letter. Ironically, this argues for the 'one-day claim' in this very frame text. In his rush to finish the work Van Eyck didn't precisely measure out the size of the letter with which he could prevent such squeezing. But I difficulty picturing the mature Van Eyck as a child writing a postcard, in a hurry because wants to go back to the beach. If the inscriptions are indeed by his hand, I'd much sooner believe that they are as well thought out as the painting itself. I think that the squeezed *is* of *octobris* is even meant to suggest a hierarchy within the frame's bottom. A horizontal one, instead of the vertical one regarding the entire frame. If the bottom side is the worst part of the frame, the J of *Johes* on the left may be the best of that worst. The worst of the worst, the worst corner of the entire frame would be the *is* in the lower right (on the left, *sinister* side of the man). From left to right we see an increasing irrelevance. *Johes* is longer than *J.* or *Jan*, but shorter than the *Johannes* of the Arnolfini signature. I think this middle way fits the position of the first name: best part in worst side of frame. It's more important to know who made the painting than when he made it. Just "I was made in 1433" would seem odd. The year switches from Roman to Arabic numerals. I don't think I have seen this before. One reason for it could be the one already given: to make room for the rest of the date. Another reason could be to suggest another worsening in the left-to-right spectrum. The change to an Arabic 33 can be seen as the numeral equivalent of the turbanized chaperon. 
+
+Not only the two 3's look Arabic, so do the three little o's above year and the two black dots above the 21. They remind me of the hamza, the glottal stop sign (**ء‎**) that is often placed on top of letters. This is another thing I don't remember seeing before above a date. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/rondjes-boven-jaar.png"
+            title="Rondjes boven jaar"
+            class="image-center"
+            caption="Deteriorating o's" %}
+
+I think they are meant to accentuate the relative deterioration from left to right. Above the M the small o is still a tiny sun. But above the last C of the year the o is both smaller and darker inside. The 33 o is slightly smaller and darker, and then, above the seemingly irrelevant 21 we have those black dots. 
+
+The 2 of 21 looks more like a Z than a 2. Sure, the medieval 2 was more Z-ish than today's 2, but Van Eyck seems to overdo the Z-ishness. Another sign, perhaps, of the 'logical' deterioriation – the decline of the word. Just like that very strange, extremely angular C of *october*. It looks like two L's sharing a stem, and it's very different from the much rounder C's of the year and of *eyck*. But not very different from the also angular C of *fecit*. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/fecit-oct.jpg"
+            title="CC rider"
+            class="image-center"
+            caption="Deteriorating C's" %}  
+
+An important difference between these C's, however, is the fact that the *october* C has **spurs**. Very unusual for a C, not unusual for an L. Because of this, and being slightly rounder in the top and the bottom, the *fecit* C is much more C-like than the *october* C. The 'L-ness' of that C suggests that at that stage the C of *Christ*, the Word, has deteriorated to a double L of *Leviathan*, the beastly anti-Word.                                   
+
+The squeezing of the *is* can be seen as a sign of trouble for the word, the *logos*. And also for the light – simply because there is relatively more 'literal' darkness for it to control. Plus, the upper curve of the *s* actually reaches the edge of the frame, making it impossible for the light to surround it. (At least for the light on the front side of the frome's bottom.) I doubt that the *s* has reached the edge because a bit of the frame has worn away there. 
+
+So, what's the J's story? What makes it better than the *is*? Let's have a closer look on the other side.             
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/joh-frame.png"
+            title="J als uitgegroeide L"
+            class="image-center"
+            caption="Sprouting L[eviathan]?" %}
+
+I see the capital letter J as a large, upside-down letter L that has 'sprouted' dark lines that turn it into an elegant J. Not unlike the fishy J in the Arnolfini signature with its swirly tails. What would make this letter the best of the bottom? I think the fact that it is the largest letter in the line and is still controlled by the light. This may be all the harder because the letters also appears to be the most *leviathanic* of the set. The L in the J is a clue, of course, but so is what seems to be an eye in its shorter side. (Indicated by the white arrow.) The eye and the tails suggest that this is an *animated*, beastly letter. A beast with a funny nose, forced to stand straight. The cartoonish nose (to the left of the eye) has a strange appendage, indicated by the yellow arrow. It is more hook-like than horn-like, and the fact that it is also L-shaped, suggests that there are little Leviathans out of the L-in-J. Note that this appendage is not necessary for the J to be a J. Neither are two tails – one is enough. Note also that the L-shaped appendage is eager to grab light and surround a bit of it. If it succeeds, the round end of the nose is on its way to become the pupil of an evil eye. 
+
+I see a hierarchy even on this level. The nose sprouts a letter L of *Leviathan*. Being a letter, a part of *logos*, it can be considered superior to what is happening in the large L's bottom. There the two tail lines actually form a little Leviathan. That is, a tadpole with either a relatively large but unfinished head (indicated by the green arrow) or by a smaller but more finished head (indicated by the light blue arrow). The smaller one is still unfinished, of course, because its head needs to be filled with black. For now it's more like an evil eye, with the black dot near the arrow's point as its pupil. The tadpole's long tail, ending by the red arrow, fits better with the larger head. This suggests that the smaller head is the first part of the larger head to darken. If so, that head will become a pupil in the (not so evil-looking) eye formed by the larger head. Anyway, the two tails suggest growth of a tadpole-shaped Leviathan. 
+
+All this eye business confirms my suspicion that the 'golden' frame is less valuable in the bottom. Less valuable meaning: less spiritual. The eyes, being associated with the soul, suggest that the golden mind is closer to the 'red' soul here. And will get closer when the 'potential' eyes become more like eyes. Will the larger tadpole head in the J tail ever be completely filled with darkness, or is the light in the frame to strong to prevent it? More importantly, are the forms in the frame as dynamic as its contents? I don't know. 
+
+[L zit tussen kleine L en staart leviathan in, hierarchie]              
+
 [d verbindt nagel en bontklauw?]
 [zwart omcirkelt patte, zoals snavel pattevogel pupil van oog probeert te omcirkelen]                                                                                          
 
