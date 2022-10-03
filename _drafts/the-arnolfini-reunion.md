@@ -944,7 +944,15 @@ When you tilt this detail 90 degrees to the right, the 'key' suddenly becomes a 
 
 The reason why the 'key eye' doesn't look too evil may be the 'golden hand' above it. It appears to exercise some control over the eye through the black protrusion on top of the *IC*. Rather than an *IC* sticking together it may be a 'trinity' of I,C, and L (of *Leviathan*). 
 
-It's hard to tell (for me) if the golden hand is a deliberate or an accidental form. But it's clearly set against a dark 'hand' (indicated by the white arrow). It looks rather like snake's head, or a crocodile's head, depending on which eye you choose... Either way, its mouth is grabbing and attacking the golden hand, presumably to get control of the key eye. 
+It's hard to tell (for me) if the golden hand is a deliberate or an accidental form. But it's clearly set against a dark 'hand' (indicated by the white arrow). It looks rather like snake's head, or a crocodile's head, depending on which eye you choose... Either way, its mouth is grabbing and attacking the golden hand, presumably to get control of the key eye. It looks as though light and darkness are armwrestling for the soul. The golden arm stretches in the direction of the appeandage L, and the beastly dark arm continues in the direction of the lower left corner of the frame. There, amidst the seemingly worn wood, a number of eyes can be seen. Including the remarkably *unworn*-looking eyes indicated by the red and orange arrows. When you rotate the painting 90 degrees to the left (from its original position), this corner looks like a cluster of wild beasts frantically trying to eat each other.   
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/tussen-kop-en-staart3.png"
+            title="Tussen kop en staart"
+            class="image-center"
+            caption="Corner beasts?" %}
+
+The owner of the 'orange eye' looks like a dark crocodile with a pair of wide open jaws. Between them I the largest (possible) eye in the neighbourhood. It is more triangular than oval and the whites are shaped like an *IC*, with the I on the right and the C on the left. The blue arrow sticks into the upper arm of that white C and points to thhe apple of the eye. If this large eye is a little doubtful, it is because this apple is 'kicked in' by the 'foot' of the white C. But you can also say that the iris strikes back by biting that C foot. The darkness may be trying to avoid becoming an iris, or the it was an iris and the dark jaws have given it enough force to attack the whites of the eye.    
 
 [ogen in de hoek / terug naar licht onder appendage L]      
 
