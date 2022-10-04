@@ -952,7 +952,23 @@ It's hard to tell (for me) if the golden hand is a deliberate or an accidental f
             class="image-center"
             caption="Corner beasts?" %}
 
-The owner of the 'orange eye' looks like a dark crocodile with a pair of wide open jaws. Between them I the largest (possible) eye in the neighbourhood. It is more triangular than oval and the whites are shaped like an *IC*, with the I on the right and the C on the left. The blue arrow sticks into the upper arm of that white C and points to thhe apple of the eye. If this large eye is a little doubtful, it is because this apple is 'kicked in' by the 'foot' of the white C. But you can also say that the iris strikes back by biting that C foot. The darkness may be trying to avoid becoming an iris, or the it was an iris and the dark jaws have given it enough force to attack the whites of the eye.    
+The owner of the 'orange eye' looks like a dark crocodile with a pair of wide open jaws. Between them I the largest (possible) eye in the neighbourhood. It is more triangular than oval and the whites are shaped like an *IC*, with the I on the right and the C on the left. The blue arrow sticks into the upper arm of that white C and points to thhe apple of the eye. If this large eye is a little doubtful, it is because this apple is 'kicked in' by the 'foot' of the white C. But you can also say that the iris strikes back by biting that C foot. The darkness may be trying to avoid becoming an iris, or the it was an iris and the dark jaws have given it enough force to attack the whites of the eye. 
+
+What surprises me is that the slimy, whitish stuff running through this part of the frame actually seems part of the struggle between (the golden) light and darkness. I thought this was some restaurative joint filling from a later date. In this detail the stuff gathers in the aforementioned large eye, it flows over the crocodile, delineating – so it seems – more animal heads. (Lighter ones, with possible eyes indicated by the white and yellow arrows.) And to the left of the large eye, the 'red' eye seems to be part of a darkish snakehead with a light 'slimy' body behind it. With its mouth it holds (and forms?) the lower jaw of the corner crocodile. 
+
+Another convincing form in this corner is the dark crocodile head within the corner crocodile. Look for it between the orange and green arrows. Its left eye can be seen to the right of the orange arrow head. The green eye points in the direction of two dark holes that could be the small crocodile's nostrils.  
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/slijmerige-slang.png"
+            title="Slijmerige slang"
+            class="image-center"
+            caption="Whitesnake" %}
+{% include image.html
+            img="../../../../assets/images/arnolfini/onder-de-J.png"
+            title="Onder de J"
+            class="image-center"
+            caption="Beneath the J" %}            
+
 
 [ogen in de hoek / terug naar licht onder appendage L]      
 
