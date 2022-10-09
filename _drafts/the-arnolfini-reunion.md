@@ -983,17 +983,73 @@ Will the larger tadpole head in the J tail ever be completely filled with darkne
 
 All in all I think it is more likely that at least the bottom side of the frame is as dynamic as the inside. This implies that there is no real border between the painting and the frame in the sense that matters here: the struggle between light and darkness. It creeps into the frame – presumably from the bottom up – like the crocodile in the lower left corner. As the frame is dominated by the gold/yellow of the divine *Logos* it can still be considered the 'heaven' of the object. And although it remains to be seen what happens in the other three sides, the bottom side appears to be that heaven's 'hell'. From the frame's perspective, of course. From the 'earthly' picture's perspective it is heaven. The part that can be reached from Earth. That's the good thing about the crocodile sneaking into the frame: it shows that this heaven is accessible for the body. You don't have to give up the ghost to enter it, you can take your body with you. But only as long as it remains subordinate to the mind.  
 
-As far as I know, Van Eyck did not make 'before' and 'after' portraits of the chaperoned man, so it's hard to tell where things are going from here. For instance, it's possible that the small crocodile isn't creeping up but pushed down, out of the frame, by the white goo. Whitesnake's head may light up and his beheading may be undone. Which brings us back to the edge of the frame's lower left, between the corner crocodile and the 'golden' crocodile head. The edge area between the two opposing heads could be or could have been the body attached to either head.    
+As far as I know, Van Eyck did not make 'before' and 'after' portraits of the chaperoned man, so it's hard to tell where things are going from here. For instance, it's possible that the small crocodile isn't creeping up but pushed down, out of the frame, by the white goo. Whitesnake's head may light up and his beheading may be undone. Which brings us back to the edge of the frame's lower left, between the corner crocodile and the 'golden' crocodile head. The edge area between the two opposing heads could be, or could have been, the body attached to either head.    
 
 {% include image.html
-            img="../../../../assets/images/arnolfini/croc-en-croc.jpg"
+            img="../../../../assets/images/arnolfini/croc-en-croc.png"
             title="Croc en croc"
             class="image-center"
-            caption="Croc head to croc head" %}      
+            caption="Maggot between the croc heads" %}      
 
 The rough dark contours of the goo between the heads could mean that this once was the black body of the black crocodile. It may have lightened from the inside because it connected with the part of the goo vein that cuts through the neck of the black crocodile. Pressure of the golden light above may not have been a factor as it is 'soiled' by the J's dark tail. In fact, because of its presence the edge goo may actually be darkening and forming that black crocodile body. 
 
-And what if you look at that edge goo from the golden crocodile head's perspective? Then the lightish edge looks like the remains of a crocodile body: a carcass that's all spine and tail. This impression is enhanced by that C-shaped 'tunnel'. It looks like an oversized maggot, grown large because it has eaten its fill of rotting crocodile flesh.     
+And what if you look at that edge goo from the golden crocodile head's perspective? Then the lightish edge looks like the remains of a crocodile body: a carcass that's all spine and tail. This impression is enhanced by that C-shaped 'tunnel'. Inidcated by the yellow arrow, this clearly non-accidental form looks like an oversized maggot, grown large because it has eaten its fill of rotting crocodile flesh. Black flesh or golden 'flesh'? I'm not sure. And of course I'm not even sure if it is supposed to be a maggot. If I recall correctly, I once studied a similar form in the details of the right panel of Campin's *Mérode Altarpiece*. In this panel we see Saint Joseph, the carpenter, working in his Liège workshop. Lots of wood around him, and somewhere a maggoty woodworm eating his way trhough it.
+
+Why? Perhaps both Campin and Van Eyck saw a Christian symbol in the little creature. It's not hard to see why, when you equate Christ with *Logos* and light and His opposite with body/matter and darkness. When it straightens, the maggot/woodworm forms the I of *Iesus*, and when it curls it forms the C of *Christ*. Its color is light and 'fights' matter: the rotting flesh of a body, or wood. Wood – like the wood of the Cross to which the *Logos* was attached – can be considered a symbol of matter, as *materia* is a Latin word that means both 'matter' and 'wood'. 
+
+{% include external-image.html
+            img="https://upload.wikimedia.org/wikipedia/commons/3/38/Saint_joseph.jpg"
+            title="Joseph de Mérode"
+            class="image-center"
+            caption="Joseph drilling holes from the heart, detail <span style='font-style: italic;'>Mérode Altarpiece</span> (ca. 1425-1432), Workshop of Robert Campin" %}              
+
+Campin's Joseph is boxed in by wood, as though he is buried alive. Mary, in the central panel, doesn't have much room to move either. She is dressed in 'soulful' red, a color that Joseph wears *beneath* his clothes. Only the sleeves of his red undercloting can be seen. The rest of his body is covered with a more *material*, 'wooden' brown cloth. Except for his head, which sports a 'cerebral' blue chaperon, modelled halfway between a turban and the more conventional form. The *patte*(?) covers the left shoulder like the old-fashioned *patte* and is also *patte*-like in the sense that it seems to steer the left arm like a third hand. Being the 'sinister' arm it needs more *coaching* from the mind then the right arm. The left arm is attached to both the *materia* of the bench ('leaning' against its backrest) as that of the small board being drilled. The better right arm touches the wooden table, but only a small part of it. Fittingly, the right hand holding the drill moves halfway between the table and the backrest, and about halfway between the body (brown clothes) and the board/armrest. In short, as far away from material influence as possible. 
+
+The shape of the drill is also fitting: it's a relatively light C set within an I, with the drill's knob as its dot. The knob is held against the heart region and may represent Joseph's Christian heart. If Campin (his entire workshop) adhered to Van Eyck's views as expressed in the portraits I've discussed, the dark L shape in the right arm might represent the beast, Leviathan, forced by the dominant *Logos* to perforate the board like a woodworm. This is a good work. With those holes he weakens the *materia*, and with the air flowing through them, you might say that Joseph *animates* the wood. In other words, he elevates the body to a substantially higher level. A 'perforated' body like that is better because the air – read: the soul – has more grip on it.
+
+More in line with the drill *IC* than the right arm L is the L-shaped hatchet beneath the perforated board. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/hakbijl-L.png"
+            title="Hakbijl-L"
+            class="image-center"
+            caption="L-shaped hatchet in wooden beast" %} 
+
+The hatchet stands in a rough piece of wood with some bark still on it. The eye-like knot, indicated by the white arrow, turns it into a beastly head, subjugated by the hatchet and that rod or pipe before it. With that flat light front this wooden head looks like the front of a whale, or that of a crocodile who had his mouth chopped off. So the hatchet L can also point to the wood and say: this is Leviathan. The body subjected by the good Joseph. For the time being...     
+
+Campin's Mary is even better. She is on a substantially higher level altogether. Her red covering versus Joseph's brown outerwear suggests that her body is so 'perforated' that it is substantially equal to the soul.   
+
+{% include external-image.html
+            img="https://upload.wikimedia.org/wikipedia/commons/4/4f/M%C3%A9rode_Altarpiece_%28Mary%29.jpg"
+            title="Marie de Mérode"
+            class="image-center"
+            caption="Mary's 'logical' chaperon, detail <span style='font-style: italic;'>Mérode Altarpiece</span>" %}      
+
+Mary's superiority also shows in her headgear. She doesn't use it to cover her head but to support her book. Read: to support the Word of God, soon to materialize as the *Logos*. Her chaperon(?) is shaped like an (upside-down) L and looks like the cloth used to swathe a baby. She holds this *Logos* L before her heart, suggesting that her soul is completely 'logical': as high as her mind.
+
+I'm too lazy too look for that woodworm again, believing that this little excursion to the *Mérode Altarpiece* has at least shown that it is likely that Campin and Van Eyck shared some ideas about good and evil. So, with that in mind I'd like to return to our maggot in Van Eyck's frame. I was tempted to write 'maggot brain' because it is shaped more or less like a human brain, with the cerebellum on the right, indicated by the orange arrow in the following (repeated) details.     
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/croc-en-croc2.png"
+            title="Croc en croc"
+            class="image-center"
+            caption="Maggot revisited" %} 
+
+If the edge goo indeed represents the spine and tail of the golden crocodile, then, with the maggot being attached to it, it would be more likely to represent a brain as well. A 'cerebral' maggot would make perfect sense within the symbolic role that I've assigned to it. With the brain as the seat of the highest substance – the mind or *Logos* – it is the most 'logical' and therefore most Christian part of the human body. To be honest, however, the form becomes less brainy when you distract the part – more or less corresponding with the temporal lobe – indicated by the pink arrow. It is slightly darker than the gold above it and more like the gold above the maggot. Without this bit the maggot becomes more like a C, and a tunnel... 
+
+Anyway, the little beast has some interesting features. First of all, it interrupts the presumed spine at a point that it adds a stem to the foot in the golden croc's head, so that the large 'logic' L is formed. The slimmer spine to the left of the maggot is also interrupted. In this case by darkness. Most notably at the point below the blue arrow. The 'spine-cutting' black appears to be the pupil of a 'spine eye' flanked by greys instead of whites. The lighter part of the spine to the right of the grey eye appears to be another, lighter but also flat eye. It also adds a 'spine I' to the maggot C and the 'spine L': *Iesus Christus Logos*. (Perhaps the bit between the C and the L, indicated by the pink arrow, is the dot belonging to the I/eye.) 
+
+The C maggot forms an I and an L by crossing the spine with what looks to be his head. (The red arrow indicates a left eye in it.) But he is also *marked* by an I and an L. The yellow arrow points to a black L on his back, and the white arrow points to a smaller I. The 'dot' above this I looks like a tiny C. A larger, but slightly lighter dark C can be seen to the left of the b(l)ack I, between the red and white arrows. This C runs through the fishy maggot eye like a hook, and doing so gives it its pupil. What Van Eyck is saying here, I think, is that the anti-Christian *ICL* (or rather *CIL* here) – *Iesus Christus Leviathan* – is a necessary evil. Without the dark lines in and around the maggot there would be no maggot. Ironically, without flesh the maggot couldn't eat flesh. Like Christ, it needs a body to do its good work. 
+
+The idea that this body looks fishy – mostly because of that eye and the lips below it, nibbling on the edge – only adds to the Christian impression. There's another side to the maggot, though. Another eye can be distinguished around the foot of the b(l)ack L. The tip of that foot forms the pupil of that eye, just like the C of the *CIL* forms the pupil of the fishy eye. This new 'L eye' looks more like the eye of a horse. Simply because the stem of that L suggest black manes... I guess it's more likely to be the eye of a bird's head, though. A bird's head in the right half of the maggot, with the 'cerebellum', the maggot's 'tail', as its beak.    
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/maggot-brain.png"
+            title="Maggot by the sea"
+            class="image-center"
+            caption="Maggot enlarged" %}              
+
+[trinity in maggot / omega ]
 
 [ogen in de hoek / terug naar licht onder appendage L / C van alc is vgl met c van october]      
                   
