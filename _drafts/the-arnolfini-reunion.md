@@ -1119,7 +1119,48 @@ The same thing could happen to the eye above the white arrow. Light and darkness
 
 The darker foot of this L also seems to be part of a black wanna-be C grabbing the neck animal's head. The light blue arrow points at the possible lower arm of this (unfinished) C. Similarly unfinished is the black I below it. It ends somewhere near the light green arrow, and the dot may be forming to the right of the other green arrow. The other blue arrow points to a gap between the two dark layers. If that gap is closed, they would form a nice, big anti-Christian L. Provided that the widening stem at the top, near the white arrow, would be filled with darkness as well. 
 
-In the other detail we see the situation above that intended big L. The yellow arrow indicates a dark I. The dot of this I is indicated by the pink arrow, and appears to be the pupil in a triangular eye. Similar to the triangular eye in the lower left corner of the frame. The pupil/dot connects the I to the very dark, boot-like form that could be a C, an L, or both. On top of this 'boot C/L', above the red arrow, rests yet another eye.      
+In the other detail we see the situation above that intended big L. The yellow arrow indicates a dark I. The dot of this I is indicated by the pink arrow, and appears to be the pupil in a triangular eye. Similar to the triangular eye in the lower left corner of the frame. The pupil/dot connects the I to the very dark, boot-like form that could be a C, an L, or both. On top of this 'boot C/L', above the red arrow, rests yet another eye. The eyes on both ends are a means for dark expansion. Just like the J of *Johes* has grown out of the I of *Iohes*. Only, when I described that process I just accepted the existence of the original dot and didn't wonder where it came from. Also because the eye shape around the former dot, caused by the L-shaped protrusion on the funny nose, appeared to be a later addition. 
+
+Here, beneath the L-shaped end of the long J tail, the eyes seem to precede the dot formation. The eye being the result of a confrontation between more or less equally strong parties of light and darkness. Light surrounds a bit of darkness and turns it into a pupil; other darkness surrounds that light, and turns it into whites. So the dot on the I is a pupil of a contourless eye. Except that this would mean that the whites of that eye are no longer imprisoned by darkness. So this would imply a much stronger position of light. This is not the case here, on the edge of the frame, nor in the *Johes* J. Although if the process there is the same as the one suggested here, the L-shaped protrusion is what remains of that I/dot contour. On the right side the white of the dot eye has been filled with black, so that it became attatched to the black letter. On the left side the surrounding light was strong enough to breach the contour and form that relatively good protruding L from the remaing contour. Of course, if things go worse and the darkness gains ground there, the contour may 'heal', and this white of the dot eye may fill up with darkness and add itself to the black letter.
+
+What I didn't realize before I realize now: the dot on the I is pointless. In Van Eyck's view it is just as unnecessary as the tail that makes a J out of the I. Perhaps *unwanted* is the better word, because the dot means an extra bit of darkness troubling the surrounding light. Darkness that may attach itself to more darkness, like the stem of an I, and form an even greater threat. This way of expanding suggests another way of growing evil than was suggested in the Arnolfini signature. At least in the whale part of it. That Leviathan appears to be made from a mass of tadpoles. Here, the elementary evil – at least as far as the black letters is concerned – is not the tadpole but the black nucleus of the frog egg: a black dot. In this context that egg is equal to an eye, i.e. the 'child' resulting from the 'military intercourse' of light and darkness. A battle may end in a spawn of such eyes/eggs. Depending on the nature of the outside pressure, the little black dots can form a larger one. In a process similar to the embroyonic process called blastulation.
+
+{% include external-image.html
+            img="https://upload.wikimedia.org/wikipedia/commons/c/c6/Blastulation.png"
+            title="Blastulation"
+            class="image-center"
+            caption="Blastulation" %}
+
+This illustration is a little misleading, as the large dark center represents a *cavity*, not a cluster of black nuclei. But in terms of light and darkness it shows what I mean. Regardless of the size of the nucleus, neighbouring nuclei can also fuse into other forms. There's no law that says they have to enlarge the elementary dot to another dot. Dots of the same size can get together and form... letters. The *I* of *Iohes* is the result of several similar-sized nuclei fusing in a simple row (or a column, if it needs to stand up). This *I* can be used as a literal building block in itself. The obvious example is the *J*. Two *I*'s can form an *L*; *I*'s and *L*'s can bend to form C's. As seems the case with the 'boot C/L'. Although I think here it's rather the other way round: a C is becoming a larger L. The arms of the 'original' C end somewhere near the blue and white arrows in the detail below. The lower end (indicated by the blue arrow) sticks out like a fang from the extension provided by the pupil/I dot in the triangular eye. 
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/c-wordt-l.png"
+            title="C wordt L"
+            class="image-center"
+            caption="Transformation of a C" %} 
+
+The extension on the upper side of the C starts, above the white arrow, with another eye. The pupil of this eye is indicated by the light grey arrow. The whites are no longer white, but not yet darkened enough to hide the fact that this is/was an eye. This (former) eye shows 'growth by eye' rather than by the fusing and arrangement of pupils. It is still relatively light compared to the darkness of the 'original' C below it. But at the same time it's darker than the expansion above it. This difference suggests that the C is a firmly established bit of darkness, and that the parts above it have been 'conquered' at a later date. This is confirmed by the eye on top of the 'boot', indicated in both details by a yellow arrow. (The red arrow points at the nice, 'patient' eye that can also be seen between the white and blue arrows.) 
+
+The boot top eye is also at the bottom of a funnel-like form; although in the regular view it looks more like a messy mountain, peaking past the J tail and below the light green arrow. Messy, because it's mess of light and dark parts, making it unclear who's in control here. If darkness gets the upper hand here, the top eye will darken. It can become like the (former) eyes below it and add another part to the *leviathanic* L. On the other hand, if the light grows stronger in the funnel/mountain, then the whites of the top eye will act like a mouth, eating away the darkness in the 'boot', thereby decreasing the size of that *leviathanic* L. The funnel/mountain would than be very much like the divine maggot on the other side of the golden crocodile's head.
+
+Before I go into that I'd like to finish my thoughts about the way the darkness grows. There may be different methods, but the growth of the boot L (from the smaller C) could be the main one: eyes/spawn filling up with darkness and connecting to make dark forms. That other L, the *projected* L, on top of the neck animal, shows that the pupils/nuclei need not be of equal size. The widening stem that still needs to be filled is a more or less a line of smaller nuclei. This way you can get different types of letters, with serifs, and all. The question is: why does the darkness connect to form letters? Wouldn't it rather form crocodiles, snakes, dragons and whales than words? I suppose it does. And I also suppose that it's actually the surrounding light that forms the letters. It forces the dark material into words. Something resembling the Word, *Logos*, rather than *Leviathan*. But the Word does not equal words. There are also bad words, unnecessary words; words that are beastly, *leviathanic*, like the *J* of *Johes*. A surfeit of words or letters, like in the bottom side of the frame, is bad in itself, because these letters exist at the cost of light. You can say that they weaken the light that surrounds them, but you can also take the existence of this surfeit as a sign that the light has weakened. In the frame's bottom the light is still strong enough to force the darkness into letters and words, but not strong enough to restrict their number and make them meaningful. 
+
+In the top side it's the other way round: the light is strong enough to restrict the letters to a terse, meaningful motto. Well, meaningful to Van Eyck at least... And, of course, there's no dot on the *I* of *ALC IXH XAN*. Nor is there on the *I* of *FECIT* in the bottom inscription. A dot on the *I* of a Latin word would look a little funny. However, the lack of it doesn't seem to be consistent with the idea of things worsening from left to right. Having seen what's happening in the lower left area, there must be even more happening further along the edge. If there is, I don't see it... On the contrary, beyond the J tail and the messy mountain (indicated by the red arrow in the following detail) I see some more messiness beneath the *E* of *Johes*. But after that, from the yellow arrow to beyond the *Y* of *EYCK* (by the white arrow), the trunk of a fallen birch tree appears to block all evil traffic to the heavenly frame. [no oak?]
+
+[vanity/pride deadly sin, using name Johes]
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/gevelde-berk.png"
+            title="Gevelde berk"
+            class="image-center"
+            caption="From messy mountain to fallen birch" %}
+
+
+{% include image.html
+            img="../../../../assets/images/arnolfini/maggot-en-maggot.png"
+            title="Made en proto-made"
+            class="image-center"
+            caption="Maggot and proto-maggot?" %}     
 
 {% include image.html
             img="../../../../assets/images/arnolfini/goud-zwarte-rechthoek.png"
@@ -1129,7 +1170,7 @@ In the other detail we see the situation above that intended big L. The yellow a
 
 
 
-[voegwoord A/ω onder maggot?]                                 
+[verwijzing naar krokodil die dinges inslikt zie bestiary]                                 
 
 [trinity in maggot / omega ]
 
